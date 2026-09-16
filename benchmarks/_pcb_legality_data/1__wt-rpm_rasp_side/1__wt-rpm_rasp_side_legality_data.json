@@ -1,0 +1,3871 @@
+{
+  "name": "1__wt-rpm_rasp_side",
+  "origin": "unknown",
+  "board": {
+    "bbox_mm": [
+      6.954000000000001,
+      6.89101,
+      113.442,
+      112.86999
+    ],
+    "width_mm": 106.488,
+    "height_mm": 105.97898,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 84,
+    "num_nets": 92,
+    "num_pins": 243
+  },
+  "components": [
+    {
+      "ref": "Noname_38",
+      "internal_id": "Noname_38",
+      "size_mm": [
+        4.064,
+        4.064
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 8.286,
+        "y_mm": 67.531,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_37",
+      "internal_id": "Noname_37",
+      "size_mm": [
+        4.064,
+        4.064
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.694,
+        "y_mm": 69.055,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J1",
+      "internal_id": "J1",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 16.4102,
+        "y_mm": 10.7328,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J2",
+      "internal_id": "J2",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 34.8252,
+        "y_mm": 10.7328,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J3",
+      "internal_id": "J3",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 53.2402,
+        "y_mm": 10.7328,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J4",
+      "internal_id": "J4",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 71.6552,
+        "y_mm": 10.7328,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R15",
+      "internal_id": "R15",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 72.929,
+        "y_mm": 41.75,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R16",
+      "internal_id": "R16",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 72.929,
+        "y_mm": 29.05,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R14",
+      "internal_id": "R14",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 72.929,
+        "y_mm": 44.925,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R13",
+      "internal_id": "R13",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 70.389,
+        "y_mm": 57.625,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R11",
+      "internal_id": "R11",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 53.879,
+        "y_mm": 41.75,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R12",
+      "internal_id": "R12",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 54.514,
+        "y_mm": 29.05,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R10",
+      "internal_id": "R10",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 53.879,
+        "y_mm": 44.925,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R9",
+      "internal_id": "R9",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 51.339,
+        "y_mm": 57.625,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R7",
+      "internal_id": "R7",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 34.829,
+        "y_mm": 41.75,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R8",
+      "internal_id": "R8",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 35.464,
+        "y_mm": 29.05,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R6",
+      "internal_id": "R6",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 34.829,
+        "y_mm": 44.925,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R5",
+      "internal_id": "R5",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 32.289,
+        "y_mm": 57.625,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R1",
+      "internal_id": "R1",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 11.969,
+        "y_mm": 57.625,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R2",
+      "internal_id": "R2",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 17.049,
+        "y_mm": 44.925,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R4",
+      "internal_id": "R4",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 17.049,
+        "y_mm": 29.05,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R3",
+      "internal_id": "R3",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 17.049,
+        "y_mm": 41.75,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Rasp_Pi",
+      "internal_id": "Rasp_Pi",
+      "size_mm": [
+        32.004,
+        4.064
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 52.609,
+        "y_mm": 65.88,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC9",
+      "internal_id": "OC9",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 52.609,
+        "y_mm": 51.275,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC8",
+      "internal_id": "OC8",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 53.244,
+        "y_mm": 35.4,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC7",
+      "internal_id": "OC7",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 53.244,
+        "y_mm": 22.7,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC5",
+      "internal_id": "OC5",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 34.194,
+        "y_mm": 35.4,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC6",
+      "internal_id": "OC6",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 34.194,
+        "y_mm": 51.275,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC1",
+      "internal_id": "OC1",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 15.779,
+        "y_mm": 22.7,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC11",
+      "internal_id": "OC11",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 71.659,
+        "y_mm": 35.4,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC12",
+      "internal_id": "OC12",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 71.659,
+        "y_mm": 51.275,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC4",
+      "internal_id": "OC4",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 34.194,
+        "y_mm": 22.7,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC10",
+      "internal_id": "OC10",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 71.659,
+        "y_mm": 22.7,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC3",
+      "internal_id": "OC3",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 15.779,
+        "y_mm": 51.275,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC2",
+      "internal_id": "OC2",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 15.779,
+        "y_mm": 35.4,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J5",
+      "internal_id": "J5",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 90.0702,
+        "y_mm": 10.7328,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R17",
+      "internal_id": "R17",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 88.804,
+        "y_mm": 57.625,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R18",
+      "internal_id": "R18",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.344,
+        "y_mm": 44.925,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R20",
+      "internal_id": "R20",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.344,
+        "y_mm": 29.05,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R19",
+      "internal_id": "R19",
+      "size_mm": [
+        11.684,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.344,
+        "y_mm": 41.75,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC14",
+      "internal_id": "OC14",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 90.074,
+        "y_mm": 35.4,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC15",
+      "internal_id": "OC15",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 90.074,
+        "y_mm": 51.275,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "OC13",
+      "internal_id": "OC13",
+      "size_mm": [
+        9.017,
+        9.017
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 90.074,
+        "y_mm": 22.7,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J6",
+      "internal_id": "J6",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 13.3698,
+        "y_mm": 95.2462,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J9",
+      "internal_id": "J9",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 33.0548,
+        "y_mm": 95.2462,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J7",
+      "internal_id": "J7",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 52.7398,
+        "y_mm": 95.2462,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J8",
+      "internal_id": "J8",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 73.0598,
+        "y_mm": 95.2462,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J10",
+      "internal_id": "J10",
+      "size_mm": [
+        15.5194,
+        11.4656
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 92.7448,
+        "y_mm": 95.2462,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_36",
+      "internal_id": "Noname_36",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 88.296,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_35",
+      "internal_id": "Noname_35",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 28.606,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_34",
+      "internal_id": "Noname_34",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 28.606,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_33",
+      "internal_id": "Noname_33",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 68.611,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_32",
+      "internal_id": "Noname_32",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 68.611,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_31",
+      "internal_id": "Noname_31",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 88.296,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_30",
+      "internal_id": "Noname_30",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 48.291,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_29",
+      "internal_id": "Noname_29",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 48.291,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_28",
+      "internal_id": "Noname_28",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 8.921,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_27",
+      "internal_id": "Noname_27",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 8.921,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_26",
+      "internal_id": "Noname_26",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 93.376,
+        "y_mm": 80.104,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_25",
+      "internal_id": "Noname_25",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 98.456,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_24",
+      "internal_id": "Noname_24",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 33.686,
+        "y_mm": 80.104,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_23",
+      "internal_id": "Noname_23",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 38.766,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_22",
+      "internal_id": "Noname_22",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 38.766,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_21",
+      "internal_id": "Noname_21",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 98.456,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_20",
+      "internal_id": "Noname_20",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 73.691,
+        "y_mm": 80.104,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_19",
+      "internal_id": "Noname_19",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 78.771,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_18",
+      "internal_id": "Noname_18",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 78.771,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_17",
+      "internal_id": "Noname_17",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 53.371,
+        "y_mm": 80.104,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_16",
+      "internal_id": "Noname_16",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 58.451,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_15",
+      "internal_id": "Noname_15",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 58.451,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_14",
+      "internal_id": "Noname_14",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 14.001,
+        "y_mm": 80.104,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_13",
+      "internal_id": "Noname_13",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 19.081,
+        "y_mm": 83.279,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_12",
+      "internal_id": "Noname_12",
+      "size_mm": [
+        4.064,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 19.081,
+        "y_mm": 86.454,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_11",
+      "internal_id": "Noname_11",
+      "size_mm": [
+        4.064,
+        4.064
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 98.964,
+        "y_mm": 22.827,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_10",
+      "internal_id": "Noname_10",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 6.0,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_9",
+      "internal_id": "Noname_9",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 20.986,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_8",
+      "internal_id": "Noname_8",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 25.558,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_7",
+      "internal_id": "Noname_7",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 41.052,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_6",
+      "internal_id": "Noname_6",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 45.37,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_5",
+      "internal_id": "Noname_5",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 61.118,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_4",
+      "internal_id": "Noname_4",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 65.69,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_3",
+      "internal_id": "Noname_3",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 81.184,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_2",
+      "internal_id": "Noname_2",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 85.756,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_1",
+      "internal_id": "Noname_1",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 100.488,
+        "y_mm": 74.897,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "N-0000093",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "R1",
+          "internal_id": "R1",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000092",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC3",
+          "internal_id": "OC3",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000091",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC2",
+          "internal_id": "OC2",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC2",
+          "internal_id": "OC2",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000090",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC2",
+          "internal_id": "OC2",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000095",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC1",
+          "internal_id": "OC1",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC1",
+          "internal_id": "OC1",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000096",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC1",
+          "internal_id": "OC1",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000100",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "R5",
+          "internal_id": "R5",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000112",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC6",
+          "internal_id": "OC6",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000110",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC5",
+          "internal_id": "OC5",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC5",
+          "internal_id": "OC5",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000109",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC5",
+          "internal_id": "OC5",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000152",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC4",
+          "internal_id": "OC4",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC4",
+          "internal_id": "OC4",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000119",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC4",
+          "internal_id": "OC4",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000127",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "R9",
+          "internal_id": "R9",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000148",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC9",
+          "internal_id": "OC9",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000146",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC8",
+          "internal_id": "OC8",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC8",
+          "internal_id": "OC8",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000147",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC8",
+          "internal_id": "OC8",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000040",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC7",
+          "internal_id": "OC7",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC7",
+          "internal_id": "OC7",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000133",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC7",
+          "internal_id": "OC7",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000033",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J4",
+          "internal_id": "J4",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "R13",
+          "internal_id": "R13",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000034",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J4",
+          "internal_id": "J4",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC12",
+          "internal_id": "OC12",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000032",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J4",
+          "internal_id": "J4",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC11",
+          "internal_id": "OC11",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC11",
+          "internal_id": "OC11",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000031",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J4",
+          "internal_id": "J4",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC11",
+          "internal_id": "OC11",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000030",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J4",
+          "internal_id": "J4",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC10",
+          "internal_id": "OC10",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC10",
+          "internal_id": "OC10",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000137",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J4",
+          "internal_id": "J4",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC10",
+          "internal_id": "OC10",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000029",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R15",
+          "internal_id": "R15",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            12.7,
+            -1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000027",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R15",
+          "internal_id": "R15",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC11",
+          "internal_id": "OC11",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000028",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R16",
+          "internal_id": "R16",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            15.24,
+            -1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000026",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R16",
+          "internal_id": "R16",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC10",
+          "internal_id": "OC10",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000025",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "R14",
+          "internal_id": "R14",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            10.16,
+            -1.27
+          ]
+        },
+        {
+          "ref": "OC12",
+          "internal_id": "OC12",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+3.3V",
+      "degree": 12,
+      "connections": [
+        {
+          "ref": "R14",
+          "internal_id": "R14",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "R10",
+          "internal_id": "R10",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "R6",
+          "internal_id": "R6",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "R2",
+          "internal_id": "R2",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -15.24,
+            1.27
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            5.08,
+            1.27
+          ]
+        },
+        {
+          "ref": "OC9",
+          "internal_id": "OC9",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC6",
+          "internal_id": "OC6",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC12",
+          "internal_id": "OC12",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC3",
+          "internal_id": "OC3",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "R18",
+          "internal_id": "R18",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC15",
+          "internal_id": "OC15",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000035",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R13",
+          "internal_id": "R13",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC12",
+          "internal_id": "OC12",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000145",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R11",
+          "internal_id": "R11",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -5.08,
+            -1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000143",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R11",
+          "internal_id": "R11",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC8",
+          "internal_id": "OC8",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000144",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R12",
+          "internal_id": "R12",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -2.54,
+            -1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000142",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R12",
+          "internal_id": "R12",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC7",
+          "internal_id": "OC7",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000141",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "R10",
+          "internal_id": "R10",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -7.62,
+            -1.27
+          ]
+        },
+        {
+          "ref": "OC9",
+          "internal_id": "OC9",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000140",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R9",
+          "internal_id": "R9",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC9",
+          "internal_id": "OC9",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000104",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R7",
+          "internal_id": "R7",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -10.16,
+            1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000108",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R7",
+          "internal_id": "R7",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC5",
+          "internal_id": "OC5",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000102",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R8",
+          "internal_id": "R8",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -12.7,
+            1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000103",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R8",
+          "internal_id": "R8",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC4",
+          "internal_id": "OC4",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000097",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "R6",
+          "internal_id": "R6",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -7.62,
+            1.27
+          ]
+        },
+        {
+          "ref": "OC6",
+          "internal_id": "OC6",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000099",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R5",
+          "internal_id": "R5",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC6",
+          "internal_id": "OC6",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000089",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R1",
+          "internal_id": "R1",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC3",
+          "internal_id": "OC3",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000094",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "R2",
+          "internal_id": "R2",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            2.54,
+            1.27
+          ]
+        },
+        {
+          "ref": "OC3",
+          "internal_id": "OC3",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000107",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R4",
+          "internal_id": "R4",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -2.54,
+            1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000105",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R4",
+          "internal_id": "R4",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC1",
+          "internal_id": "OC1",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000041",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R3",
+          "internal_id": "R3",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            0.0,
+            1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-00000106",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R3",
+          "internal_id": "R3",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC2",
+          "internal_id": "OC2",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GND",
+      "degree": 16,
+      "connections": [
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            -10.16,
+            -1.27
+          ]
+        },
+        {
+          "ref": "OC9",
+          "internal_id": "OC9",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC8",
+          "internal_id": "OC8",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC7",
+          "internal_id": "OC7",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC5",
+          "internal_id": "OC5",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC6",
+          "internal_id": "OC6",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC1",
+          "internal_id": "OC1",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC11",
+          "internal_id": "OC11",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC12",
+          "internal_id": "OC12",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC4",
+          "internal_id": "OC4",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC10",
+          "internal_id": "OC10",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC3",
+          "internal_id": "OC3",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC2",
+          "internal_id": "OC2",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC14",
+          "internal_id": "OC14",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        },
+        {
+          "ref": "OC15",
+          "internal_id": "OC15",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC13",
+          "internal_id": "OC13",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000020",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            7.62,
+            1.27
+          ]
+        },
+        {
+          "ref": "R20",
+          "internal_id": "R20",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000021",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            10.16,
+            1.27
+          ]
+        },
+        {
+          "ref": "R19",
+          "internal_id": "R19",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000018",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "Rasp_Pi",
+          "internal_id": "Rasp_Pi",
+          "offset_mm": [
+            12.7,
+            1.27
+          ]
+        },
+        {
+          "ref": "R18",
+          "internal_id": "R18",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC15",
+          "internal_id": "OC15",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-000001",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "R17",
+          "internal_id": "R17",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-000005",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC15",
+          "internal_id": "OC15",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-000004",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC14",
+          "internal_id": "OC14",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC14",
+          "internal_id": "OC14",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-000003",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC14",
+          "internal_id": "OC14",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-000002",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "OC13",
+          "internal_id": "OC13",
+          "offset_mm": [
+            1.27,
+            -3.81
+          ]
+        },
+        {
+          "ref": "OC13",
+          "internal_id": "OC13",
+          "offset_mm": [
+            -3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-000009",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "OC13",
+          "internal_id": "OC13",
+          "offset_mm": [
+            3.81,
+            -3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-000006",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R17",
+          "internal_id": "R17",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC15",
+          "internal_id": "OC15",
+          "offset_mm": [
+            1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000019",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R20",
+          "internal_id": "R20",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC13",
+          "internal_id": "OC13",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-000008",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R19",
+          "internal_id": "R19",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "OC14",
+          "internal_id": "OC14",
+          "offset_mm": [
+            -1.27,
+            3.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000015",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_28",
+          "internal_id": "Noname_28",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_27",
+          "internal_id": "Noname_27",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000013",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_28",
+          "internal_id": "Noname_28",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_27",
+          "internal_id": "Noname_27",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000024",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_13",
+          "internal_id": "Noname_13",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_12",
+          "internal_id": "Noname_12",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000017",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_13",
+          "internal_id": "Noname_13",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_12",
+          "internal_id": "Noname_12",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000010",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_14",
+          "internal_id": "Noname_14",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000011",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_14",
+          "internal_id": "Noname_14",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000053",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J9",
+          "internal_id": "J9",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_35",
+          "internal_id": "Noname_35",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_34",
+          "internal_id": "Noname_34",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000051",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J9",
+          "internal_id": "J9",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_35",
+          "internal_id": "Noname_35",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_34",
+          "internal_id": "Noname_34",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000047",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J9",
+          "internal_id": "J9",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_23",
+          "internal_id": "Noname_23",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_22",
+          "internal_id": "Noname_22",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000055",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J9",
+          "internal_id": "J9",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_23",
+          "internal_id": "Noname_23",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_22",
+          "internal_id": "Noname_22",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000046",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J9",
+          "internal_id": "J9",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_24",
+          "internal_id": "Noname_24",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000045",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J9",
+          "internal_id": "J9",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_24",
+          "internal_id": "Noname_24",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000068",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_30",
+          "internal_id": "Noname_30",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_29",
+          "internal_id": "Noname_29",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000073",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_30",
+          "internal_id": "Noname_30",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_29",
+          "internal_id": "Noname_29",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000071",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_16",
+          "internal_id": "Noname_16",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_15",
+          "internal_id": "Noname_15",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000070",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_16",
+          "internal_id": "Noname_16",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_15",
+          "internal_id": "Noname_15",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000074",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_17",
+          "internal_id": "Noname_17",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000072",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_17",
+          "internal_id": "Noname_17",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000088",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J8",
+          "internal_id": "J8",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_33",
+          "internal_id": "Noname_33",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_32",
+          "internal_id": "Noname_32",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000086",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J8",
+          "internal_id": "J8",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_33",
+          "internal_id": "Noname_33",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_32",
+          "internal_id": "Noname_32",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000082",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J8",
+          "internal_id": "J8",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_19",
+          "internal_id": "Noname_19",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_18",
+          "internal_id": "Noname_18",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000081",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J8",
+          "internal_id": "J8",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_19",
+          "internal_id": "Noname_19",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_18",
+          "internal_id": "Noname_18",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000079",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J8",
+          "internal_id": "J8",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_20",
+          "internal_id": "Noname_20",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000080",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J8",
+          "internal_id": "J8",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_20",
+          "internal_id": "Noname_20",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000063",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J10",
+          "internal_id": "J10",
+          "offset_mm": [
+            -1.9088,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_36",
+          "internal_id": "Noname_36",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_31",
+          "internal_id": "Noname_31",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000061",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J10",
+          "internal_id": "J10",
+          "offset_mm": [
+            -0.6388,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_36",
+          "internal_id": "Noname_36",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_31",
+          "internal_id": "Noname_31",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000066",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J10",
+          "internal_id": "J10",
+          "offset_mm": [
+            0.6312,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_25",
+          "internal_id": "Noname_25",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_21",
+          "internal_id": "Noname_21",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000065",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J10",
+          "internal_id": "J10",
+          "offset_mm": [
+            1.9012,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_25",
+          "internal_id": "Noname_25",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Noname_21",
+          "internal_id": "Noname_21",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000057",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J10",
+          "internal_id": "J10",
+          "offset_mm": [
+            3.1712,
+            -2.4422
+          ]
+        },
+        {
+          "ref": "Noname_26",
+          "internal_id": "Noname_26",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000056",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J10",
+          "internal_id": "J10",
+          "offset_mm": [
+            4.4412,
+            -4.9822
+          ]
+        },
+        {
+          "ref": "Noname_26",
+          "internal_id": "Noname_26",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

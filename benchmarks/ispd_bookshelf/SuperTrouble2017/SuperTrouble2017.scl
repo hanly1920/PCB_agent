@@ -1,0 +1,13 @@
+UCLA scl 1.0
+
+NumRows : 1
+
+CoreRow Horizontal
+  Coordinate    :   0
+  Height        :   11811000
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  1
+End

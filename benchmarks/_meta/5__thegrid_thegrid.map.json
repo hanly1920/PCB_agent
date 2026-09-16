@@ -1,0 +1,679 @@
+{
+ "name": "5__thegrid_thegrid",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\5__thegrid_thegrid.json",
+ "board_bbox_mm": [
+  117.976,
+  17.161500000000004,
+  174.902,
+  122.79249999999999
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 50,
+  "num_nets": 35,
+  "num_pins": 125,
+  "board_w_mm": 56.92599999999999,
+  "board_h_mm": 105.63099999999999
+ },
+ "ispd": {
+  "num_nodes": 50,
+  "num_nets": 35,
+  "num_pins": 125,
+  "scale": 10,
+  "board_w_mm": 56.92599999999999,
+  "board_h_mm": 105.63099999999999
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "U2",
+   "size_mm": [
+    19.177,
+    9.017
+   ],
+   "expert_xy_mm": [
+    130.175,
+    63.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "U1",
+   "size_mm": [
+    1.7780000000000002,
+    6.8580000000000005
+   ],
+   "expert_xy_mm": [
+    125.222,
+    79.756
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "D1",
+   "size_mm": [
+    4.2164,
+    1.6764
+   ],
+   "expert_xy_mm": [
+    161.29,
+    34.798
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "D2",
+   "size_mm": [
+    4.2164,
+    1.6764
+   ],
+   "expert_xy_mm": [
+    161.036,
+    48.006
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "D3",
+   "size_mm": [
+    4.2164,
+    1.6764
+   ],
+   "expert_xy_mm": [
+    161.798,
+    61.976
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "D4",
+   "size_mm": [
+    4.2164,
+    1.6764
+   ],
+   "expert_xy_mm": [
+    161.29,
+    75.184
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "D5",
+   "size_mm": [
+    4.2164,
+    1.6764
+   ],
+   "expert_xy_mm": [
+    161.036,
+    88.9
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "D6",
+   "size_mm": [
+    4.2164,
+    1.6764
+   ],
+   "expert_xy_mm": [
+    161.036,
+    102.362
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "D7",
+   "size_mm": [
+    4.2164,
+    1.6764
+   ],
+   "expert_xy_mm": [
+    161.036,
+    115.062
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "C1",
+   "size_mm": [
+    3.9370000000000003,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    129.286,
+    84.074
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "C2",
+   "size_mm": [
+    3.9370000000000003,
+    1.397
+   ],
+   "expert_xy_mm": [
+    129.286,
+    78.232
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "C3",
+   "size_mm": [
+    3.9370000000000003,
+    1.397
+   ],
+   "expert_xy_mm": [
+    130.175,
+    49.53
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "P1",
+   "size_mm": [
+    13.128,
+    13.62
+   ],
+   "expert_xy_mm": [
+    129.54,
+    109.482
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "P2",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    123.825,
+    26.67
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "P3",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    168.91,
+    26.67
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "Q1",
+   "size_mm": [
+    1.7780000000000002,
+    6.8580000000000005
+   ],
+   "expert_xy_mm": [
+    147.574,
+    26.162
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "Q2",
+   "size_mm": [
+    1.7780000000000002,
+    6.8580000000000005
+   ],
+   "expert_xy_mm": [
+    147.574,
+    40.132
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "Q3",
+   "size_mm": [
+    1.7780000000000002,
+    6.8580000000000005
+   ],
+   "expert_xy_mm": [
+    147.574,
+    54.102
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "Q4",
+   "size_mm": [
+    1.7780000000000002,
+    6.8580000000000005
+   ],
+   "expert_xy_mm": [
+    147.574,
+    68.072
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o19": {
+   "ref": "Q5",
+   "size_mm": [
+    1.7780000000000002,
+    6.8580000000000005
+   ],
+   "expert_xy_mm": [
+    147.574,
+    82.042
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o20": {
+   "ref": "Q6",
+   "size_mm": [
+    1.7780000000000002,
+    6.8580000000000005
+   ],
+   "expert_xy_mm": [
+    147.574,
+    96.012
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o21": {
+   "ref": "Q7",
+   "size_mm": [
+    1.7780000000000002,
+    6.8580000000000005
+   ],
+   "expert_xy_mm": [
+    147.574,
+    109.474
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o22": {
+   "ref": "R1",
+   "size_mm": [
+    9.017,
+    1.397
+   ],
+   "expert_xy_mm": [
+    147.066,
+    30.48
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o23": {
+   "ref": "R2",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    140.208,
+    34.036
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o24": {
+   "ref": "R3",
+   "size_mm": [
+    9.017,
+    1.397
+   ],
+   "expert_xy_mm": [
+    148.59,
+    44.45
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o25": {
+   "ref": "R4",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    140.716,
+    48.006
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o26": {
+   "ref": "R5",
+   "size_mm": [
+    9.017,
+    1.397
+   ],
+   "expert_xy_mm": [
+    148.844,
+    58.547
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o27": {
+   "ref": "R6",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    142.494,
+    61.976
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o28": {
+   "ref": "R7",
+   "size_mm": [
+    9.017,
+    1.397
+   ],
+   "expert_xy_mm": [
+    148.844,
+    72.517
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o29": {
+   "ref": "R8",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    141.732,
+    75.946
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o30": {
+   "ref": "R9",
+   "size_mm": [
+    9.017,
+    1.397
+   ],
+   "expert_xy_mm": [
+    148.844,
+    100.457
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o31": {
+   "ref": "R10",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    142.875,
+    103.505
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o32": {
+   "ref": "R11",
+   "size_mm": [
+    9.017,
+    1.397
+   ],
+   "expert_xy_mm": [
+    148.844,
+    113.792
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o33": {
+   "ref": "R12",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    142.494,
+    117.094
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o34": {
+   "ref": "R13",
+   "size_mm": [
+    9.017,
+    1.397
+   ],
+   "expert_xy_mm": [
+    147.955,
+    86.36
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o35": {
+   "ref": "R14",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    141.478,
+    89.916
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o36": {
+   "ref": "R15",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    151.384,
+    34.036
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o37": {
+   "ref": "R16",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    151.892,
+    48.006
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o38": {
+   "ref": "R17",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    153.416,
+    61.976
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o39": {
+   "ref": "R18",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    152.908,
+    75.946
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o40": {
+   "ref": "R19",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    152.654,
+    89.916
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o41": {
+   "ref": "R20",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    152.908,
+    103.886
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o42": {
+   "ref": "R21",
+   "size_mm": [
+    9.017,
+    1.3970000000000002
+   ],
+   "expert_xy_mm": [
+    152.908,
+    117.094
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o43": {
+   "ref": "P4",
+   "size_mm": [
+    7.200000000000001,
+    3.0000000000000004
+   ],
+   "expert_xy_mm": [
+    162.56,
+    26.67
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o44": {
+   "ref": "P5",
+   "size_mm": [
+    7.200000000000001,
+    3.0000000000000004
+   ],
+   "expert_xy_mm": [
+    168.402,
+    41.656
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o45": {
+   "ref": "P6",
+   "size_mm": [
+    7.200000000000001,
+    3.0000000000000004
+   ],
+   "expert_xy_mm": [
+    168.275,
+    55.88
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o46": {
+   "ref": "P7",
+   "size_mm": [
+    7.200000000000001,
+    3.0000000000000004
+   ],
+   "expert_xy_mm": [
+    168.275,
+    70.485
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o47": {
+   "ref": "P8",
+   "size_mm": [
+    7.200000000000001,
+    3.0000000000000004
+   ],
+   "expert_xy_mm": [
+    168.275,
+    85.09
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o48": {
+   "ref": "P9",
+   "size_mm": [
+    7.200000000000001,
+    3.0000000000000004
+   ],
+   "expert_xy_mm": [
+    168.275,
+    99.695
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o49": {
+   "ref": "P10",
+   "size_mm": [
+    7.200000000000001,
+    3.0000000000000004
+   ],
+   "expert_xy_mm": [
+    168.402,
+    113.792
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  }
+ }
+}

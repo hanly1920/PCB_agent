@@ -1,0 +1,36 @@
+UCLA wts 1.0
+
+Net-_100__Spike-LED1-Pad2_ 1
+_18 1
+_19 1
+Net-_100__CharliePlex3-Pad2_ 1
+Net-_100__CharliePlex4-Pad2_ 1
+Net-_100__CharliePlex2-Pad2_ 1
+Net-_100__CharliePlex1-Pad2_ 1
+_21 1
+GNDREF 1
++3V3 1
+_34 1
+_13 1
+_33 1
+_32 1
+Net-_10__RC1-Pad2_ 1
+_23 1
+_25 1
+_12 1
+_22 1
+Net-_100__Stim-LED1-Pad2_ 1
+_01 1
+_04 1
+_36 1
+_15 1
+_35 1
+_14 1
+_27 1
+_26 1
+_03 1
+unconnected-_Current_In1-PadT_ 1
+_16 1
+_02 1
+_17 1
+_05 1

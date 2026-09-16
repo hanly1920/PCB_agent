@@ -1,0 +1,10 @@
+UCLA nodes 1.0
+
+NumNodes : 		6
+NumTerminals : 		6
+	o0	23	12	terminal
+	o1	23	12	terminal
+	o2	23	12	terminal
+	o3	92	16	terminal
+	o4	30	43	terminal
+	o5	16	16	terminal

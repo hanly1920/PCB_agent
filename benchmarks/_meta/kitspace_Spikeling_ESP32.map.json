@@ -1,0 +1,536 @@
+{
+ "name": "kitspace_Spikeling_ESP32",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\kitspace_Spikeling_ESP32.json",
+ "board_bbox_mm": [
+  100.0,
+  50.0,
+  220.0,
+  130.0
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 39,
+  "num_nets": 34,
+  "num_pins": 125,
+  "board_w_mm": 120.0,
+  "board_h_mm": 80.0
+ },
+ "ispd": {
+  "num_nodes": 39,
+  "num_nets": 34,
+  "num_pins": 125,
+  "scale": 10,
+  "board_w_mm": 120.0,
+  "board_h_mm": 80.0
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "Spike LED",
+   "size_mm": [
+    8.64,
+    6.5
+   ],
+   "expert_xy_mm": [
+    197.0,
+    63.76
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "Mode6",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    191.275,
+    83.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "Mode1",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    191.275,
+    113.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "10k\u03a9 SW pull-down",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    179.0,
+    112.0
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "Stim-Strength",
+   "size_mm": [
+    14.4,
+    13.3
+   ],
+   "expert_xy_mm": [
+    213.0,
+    107.25
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "Noise",
+   "size_mm": [
+    14.4,
+    13.3
+   ],
+   "expert_xy_mm": [
+    178.75,
+    122.50000000000001
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "Synapse In 1",
+   "size_mm": [
+    10.524000000000001,
+    11.486
+   ],
+   "expert_xy_mm": [
+    107.38149999999999,
+    56.25
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "Synapse Out",
+   "size_mm": [
+    10.524000000000001,
+    11.486
+   ],
+   "expert_xy_mm": [
+    212.8685,
+    64.0
+   ],
+   "expert_rot": 90.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "Synapse 1 Gain",
+   "size_mm": [
+    14.4,
+    13.3
+   ],
+   "expert_xy_mm": [
+    106.75,
+    69.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "Mode3",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    191.275,
+    101.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "Voltage Membrane",
+   "size_mm": [
+    14.4,
+    13.3
+   ],
+   "expert_xy_mm": [
+    120.5,
+    122.50000000000001
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "100\u03a9 Stim-LED",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    204.25,
+    123.25000000000001
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "Stimulus Out",
+   "size_mm": [
+    11.286,
+    10.724
+   ],
+   "expert_xy_mm": [
+    213.75,
+    122.61850000000001
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "Mode10",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    197.275,
+    95.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "Mode8",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    197.275,
+    107.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "50\u03a9_CharliePlex4",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    182.0,
+    96.5
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "Mode12",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    197.275,
+    83.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "Mode11",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    197.275,
+    89.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "Mode9",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    197.275,
+    101.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o19": {
+   "ref": "10\u03a9 RC",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    182.0,
+    75.5
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o20": {
+   "ref": "Photodiode",
+   "size_mm": [
+    4.34,
+    1.8
+   ],
+   "expert_xy_mm": [
+    140.495,
+    121.25
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o21": {
+   "ref": "Stim-Frequency",
+   "size_mm": [
+    14.4,
+    13.3
+   ],
+   "expert_xy_mm": [
+    213.0,
+    92.0
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o22": {
+   "ref": "Synapse 2 Gain",
+   "size_mm": [
+    14.4,
+    13.3
+   ],
+   "expert_xy_mm": [
+    106.75,
+    103.25
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o23": {
+   "ref": "Synapse in 2",
+   "size_mm": [
+    10.524000000000001,
+    11.486
+   ],
+   "expert_xy_mm": [
+    107.35,
+    90.0
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o24": {
+   "ref": "Mode2",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    191.275,
+    107.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o25": {
+   "ref": "Mode4",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    191.275,
+    95.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o26": {
+   "ref": "Current In",
+   "size_mm": [
+    11.286,
+    10.724
+   ],
+   "expert_xy_mm": [
+    106.0,
+    122.86850000000001
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o27": {
+   "ref": "50\u03a9_CharliePlex3",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    182.0,
+    91.25
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o28": {
+   "ref": "10k\u03a9 PD pull-down",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    131.25,
+    121.5
+   ],
+   "expert_rot": 90.0,
+   "fixed": false
+  },
+  "o29": {
+   "ref": "Photodiode Gain",
+   "size_mm": [
+    1.8000000000000003,
+    6.800000000000001
+   ],
+   "expert_xy_mm": [
+    153.25,
+    128.55
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o30": {
+   "ref": "1nF RC",
+   "size_mm": [
+    4.5,
+    4.5
+   ],
+   "expert_xy_mm": [
+    197.0,
+    73.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o31": {
+   "ref": "50\u03a9_CharliePlex2",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    182.0,
+    86.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o32": {
+   "ref": "100\u03a9 Spike LED",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    182.0,
+    70.25
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o33": {
+   "ref": "Spike Buzzer",
+   "size_mm": [
+    12.500000000000002,
+    12.500000000000002
+   ],
+   "expert_xy_mm": [
+    183.5,
+    60.0
+   ],
+   "expert_rot": 90.0,
+   "fixed": false
+  },
+  "o34": {
+   "ref": "50\u03a9 CharliePlex1",
+   "size_mm": [
+    12.260000000000002,
+    3.0
+   ],
+   "expert_xy_mm": [
+    182.0,
+    80.75
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o35": {
+   "ref": "Mode Button",
+   "size_mm": [
+    9.5,
+    7.5
+   ],
+   "expert_xy_mm": [
+    194.25,
+    121.5
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o36": {
+   "ref": "ESP32-WROOM dev module",
+   "size_mm": [
+    28.4,
+    54.900000000000006
+   ],
+   "expert_xy_mm": [
+    159.69750000000002,
+    77.5
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o37": {
+   "ref": "Mode7",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    197.275,
+    113.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o38": {
+   "ref": "Mode5",
+   "size_mm": [
+    4.85,
+    4.5
+   ],
+   "expert_xy_mm": [
+    191.275,
+    89.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  }
+ }
+}

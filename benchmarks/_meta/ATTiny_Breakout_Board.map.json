@@ -1,0 +1,68 @@
+{
+ "name": "ATTiny_Breakout_Board",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\ATTiny Breakout Board.json",
+ "board_bbox_mm": [
+  146.304,
+  72.644,
+  166.116,
+  102.616
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 3,
+  "num_nets": 20,
+  "num_pins": 41,
+  "board_w_mm": 19.812000000000012,
+  "board_h_mm": 29.971999999999994
+ },
+ "ispd": {
+  "num_nodes": 3,
+  "num_nets": 20,
+  "num_pins": 41,
+  "scale": 10,
+  "board_w_mm": 19.812000000000012,
+  "board_h_mm": 29.971999999999994
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "U1",
+   "size_mm": [
+    5.2,
+    5.2
+   ],
+   "expert_xy_mm": [
+    156.21,
+    86.36
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "J2",
+   "size_mm": [
+    1.7,
+    24.560000000000002
+   ],
+   "expert_xy_mm": [
+    163.83,
+    87.63
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "J1",
+   "size_mm": [
+    1.7,
+    24.560000000000002
+   ],
+   "expert_xy_mm": [
+    148.59,
+    87.63
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  }
+ }
+}

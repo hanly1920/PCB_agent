@@ -1,0 +1,276 @@
+{
+ "name": "AnalogThermometer",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\AnalogThermometer.json",
+ "board_bbox_mm": [
+  117.602,
+  90.17,
+  143.002,
+  115.57
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 19,
+  "num_nets": 12,
+  "num_pins": 47,
+  "board_w_mm": 25.400000000000006,
+  "board_h_mm": 25.39999999999999
+ },
+ "ispd": {
+  "num_nodes": 19,
+  "num_nets": 12,
+  "num_pins": 47,
+  "scale": 10,
+  "board_w_mm": 25.400000000000006,
+  "board_h_mm": 25.39999999999999
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "U1",
+   "size_mm": [
+    4.3180000000000005,
+    7.492999999999999
+   ],
+   "expert_xy_mm": [
+    128.524,
+    105.918
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "R4",
+   "size_mm": [
+    4.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    134.62,
+    106.172
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "C1",
+   "size_mm": [
+    4.6,
+    2.0
+   ],
+   "expert_xy_mm": [
+    120.142,
+    95.25
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "C3",
+   "size_mm": [
+    4.6,
+    2.0
+   ],
+   "expert_xy_mm": [
+    134.366,
+    96.012
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "P2",
+   "size_mm": [
+    4.572,
+    2.032
+   ],
+   "expert_xy_mm": [
+    140.716,
+    96.012
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "Q1",
+   "size_mm": [
+    3.3,
+    3.2
+   ],
+   "expert_xy_mm": [
+    139.192,
+    101.854
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "R1",
+   "size_mm": [
+    4.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    124.46,
+    101.6
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "R2",
+   "size_mm": [
+    4.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    128.016,
+    98.806
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "R3",
+   "size_mm": [
+    4.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    131.826,
+    98.806
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "R5",
+   "size_mm": [
+    4.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    124.46,
+    107.696
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "R6",
+   "size_mm": [
+    4.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    126.238,
+    111.506
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "R7",
+   "size_mm": [
+    4.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    135.89,
+    110.236
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "RV1",
+   "size_mm": [
+    1.5240000000000002,
+    6.604000000000001
+   ],
+   "expert_xy_mm": [
+    140.208,
+    108.712
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "U2",
+   "size_mm": [
+    5.35,
+    4.6
+   ],
+   "expert_xy_mm": [
+    120.49199999999999,
+    102.875
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "R8",
+   "size_mm": [
+    4.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    134.62,
+    102.87
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "P1",
+   "size_mm": [
+    9.3472,
+    2.032
+   ],
+   "expert_xy_mm": [
+    127.254,
+    93.98
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "D1",
+   "size_mm": [
+    4.5,
+    2.1
+   ],
+   "expert_xy_mm": [
+    137.16,
+    96.012
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "C2",
+   "size_mm": [
+    4.6,
+    2.0
+   ],
+   "expert_xy_mm": [
+    132.588,
+    110.236
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "U3",
+   "size_mm": [
+    3.3,
+    3.2
+   ],
+   "expert_xy_mm": [
+    120.523,
+    109.22
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  }
+ }
+}

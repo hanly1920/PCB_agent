@@ -1,0 +1,172 @@
+{
+ "name": "KiCad-Like-a-Pro-Tutorial_proj2-sevensegment",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\KiCad-Like-a-Pro-Tutorial_proj2-sevensegment.json",
+ "board_bbox_mm": [
+  153.162,
+  113.284,
+  199.136,
+  137.922
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 11,
+  "num_nets": 21,
+  "num_pins": 46,
+  "board_w_mm": 45.97399999999999,
+  "board_h_mm": 24.63799999999999
+ },
+ "ispd": {
+  "num_nodes": 11,
+  "num_nets": 21,
+  "num_pins": 46,
+  "scale": 10,
+  "board_w_mm": 45.97399999999999,
+  "board_h_mm": 24.63799999999999
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "P1",
+   "size_mm": [
+    2.032,
+    11.8872
+   ],
+   "expert_xy_mm": [
+    155.448,
+    122.428
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "R1",
+   "size_mm": [
+    12.15898,
+    1.9989800000000002
+   ],
+   "expert_xy_mm": [
+    176.53,
+    135.636
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "R2",
+   "size_mm": [
+    12.15898,
+    1.9989800000000002
+   ],
+   "expert_xy_mm": [
+    176.53,
+    132.842
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "R3",
+   "size_mm": [
+    12.15898,
+    1.9989800000000002
+   ],
+   "expert_xy_mm": [
+    176.53,
+    130.048
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "R4",
+   "size_mm": [
+    12.15898,
+    1.9989800000000002
+   ],
+   "expert_xy_mm": [
+    176.53,
+    127.254
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "R5",
+   "size_mm": [
+    12.15898,
+    1.9989800000000002
+   ],
+   "expert_xy_mm": [
+    176.53,
+    124.46
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "R6",
+   "size_mm": [
+    12.15898,
+    1.9989800000000002
+   ],
+   "expert_xy_mm": [
+    176.53,
+    121.666
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "R7",
+   "size_mm": [
+    12.15898,
+    1.9989800000000002
+   ],
+   "expert_xy_mm": [
+    176.53,
+    118.872
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "R8",
+   "size_mm": [
+    12.15898,
+    1.9989800000000002
+   ],
+   "expert_xy_mm": [
+    176.53,
+    116.078
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "S1",
+   "size_mm": [
+    11.684000000000001,
+    17.764
+   ],
+   "expert_xy_mm": [
+    191.77,
+    125.73
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "U1",
+   "size_mm": [
+    10.4,
+    22.7
+   ],
+   "expert_xy_mm": [
+    163.07799999999997,
+    125.21199999999999
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  }
+ }
+}

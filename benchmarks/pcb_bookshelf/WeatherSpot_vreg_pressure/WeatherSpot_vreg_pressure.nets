@@ -1,0 +1,27 @@
+UCLA nets 1.0
+
+NumNets : 5
+NumPins : 17
+
+NetDegree : 2   Net-_C3-Pad1_
+	C3	B : -0.5500	0.0000
+	U1	B : -1.0000	-0.6250
+NetDegree : 6   GND
+	C3	B : 0.5500	0.0000
+	C4	B : 0.5500	0.0000
+	C5	B : 0.5500	0.0000
+	conn1	B : 3.8100	0.0000
+	U1	B : -1.0000	0.6250
+	VIA_HOME_ETCH	B : 0.0000	0.0000
+NetDegree : 5   3V3
+	C4	B : -0.5500	0.0000
+	C5	B : -0.5500	0.0000
+	conn1	B : 1.2700	0.0000
+	U1	B : -1.0000	1.8750
+	U1	B : -1.0000	-1.8750
+NetDegree : 2   Net-_U1-Pad7_
+	conn1	B : -3.8100	0.0000
+	U1	B : 1.0000	-0.6250
+NetDegree : 2   Net-_U1-Pad8_
+	conn1	B : -1.2700	0.0000
+	U1	B : 1.0000	-1.8750

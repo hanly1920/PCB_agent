@@ -1,0 +1,3809 @@
+{
+  "name": "snake",
+  "origin": "sa_pcb",
+  "board": {
+    "bbox_mm": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "width_mm": 0.0,
+    "height_mm": 0.0,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 100,
+    "num_nets": 99,
+    "num_pins": 198
+  },
+  "components": [
+    {
+      "ref": "r_1",
+      "internal_id": "r_1",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_2",
+      "internal_id": "r_2",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_3",
+      "internal_id": "r_3",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_4",
+      "internal_id": "r_4",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_5",
+      "internal_id": "r_5",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_6",
+      "internal_id": "r_6",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_7",
+      "internal_id": "r_7",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_8",
+      "internal_id": "r_8",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_9",
+      "internal_id": "r_9",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_10",
+      "internal_id": "r_10",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_11",
+      "internal_id": "r_11",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_12",
+      "internal_id": "r_12",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_13",
+      "internal_id": "r_13",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_14",
+      "internal_id": "r_14",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_15",
+      "internal_id": "r_15",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_16",
+      "internal_id": "r_16",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_17",
+      "internal_id": "r_17",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_18",
+      "internal_id": "r_18",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_19",
+      "internal_id": "r_19",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_20",
+      "internal_id": "r_20",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_21",
+      "internal_id": "r_21",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_22",
+      "internal_id": "r_22",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_23",
+      "internal_id": "r_23",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_24",
+      "internal_id": "r_24",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_25",
+      "internal_id": "r_25",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_26",
+      "internal_id": "r_26",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_27",
+      "internal_id": "r_27",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_28",
+      "internal_id": "r_28",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_29",
+      "internal_id": "r_29",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_30",
+      "internal_id": "r_30",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_31",
+      "internal_id": "r_31",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_32",
+      "internal_id": "r_32",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_33",
+      "internal_id": "r_33",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_34",
+      "internal_id": "r_34",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_35",
+      "internal_id": "r_35",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_36",
+      "internal_id": "r_36",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_37",
+      "internal_id": "r_37",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_38",
+      "internal_id": "r_38",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_39",
+      "internal_id": "r_39",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_40",
+      "internal_id": "r_40",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_41",
+      "internal_id": "r_41",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_42",
+      "internal_id": "r_42",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_43",
+      "internal_id": "r_43",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_44",
+      "internal_id": "r_44",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_45",
+      "internal_id": "r_45",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_46",
+      "internal_id": "r_46",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_47",
+      "internal_id": "r_47",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_48",
+      "internal_id": "r_48",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_49",
+      "internal_id": "r_49",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_50",
+      "internal_id": "r_50",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_51",
+      "internal_id": "r_51",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_52",
+      "internal_id": "r_52",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_53",
+      "internal_id": "r_53",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_54",
+      "internal_id": "r_54",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_55",
+      "internal_id": "r_55",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_56",
+      "internal_id": "r_56",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_57",
+      "internal_id": "r_57",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_58",
+      "internal_id": "r_58",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_59",
+      "internal_id": "r_59",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_60",
+      "internal_id": "r_60",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_61",
+      "internal_id": "r_61",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_62",
+      "internal_id": "r_62",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_63",
+      "internal_id": "r_63",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_64",
+      "internal_id": "r_64",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_65",
+      "internal_id": "r_65",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_66",
+      "internal_id": "r_66",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_67",
+      "internal_id": "r_67",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_68",
+      "internal_id": "r_68",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_69",
+      "internal_id": "r_69",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_70",
+      "internal_id": "r_70",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_71",
+      "internal_id": "r_71",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_72",
+      "internal_id": "r_72",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_73",
+      "internal_id": "r_73",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_74",
+      "internal_id": "r_74",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_75",
+      "internal_id": "r_75",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_76",
+      "internal_id": "r_76",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_77",
+      "internal_id": "r_77",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_78",
+      "internal_id": "r_78",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_79",
+      "internal_id": "r_79",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_80",
+      "internal_id": "r_80",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_81",
+      "internal_id": "r_81",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_82",
+      "internal_id": "r_82",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_83",
+      "internal_id": "r_83",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_84",
+      "internal_id": "r_84",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_85",
+      "internal_id": "r_85",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_86",
+      "internal_id": "r_86",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_87",
+      "internal_id": "r_87",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_88",
+      "internal_id": "r_88",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_89",
+      "internal_id": "r_89",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_90",
+      "internal_id": "r_90",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_91",
+      "internal_id": "r_91",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_92",
+      "internal_id": "r_92",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_93",
+      "internal_id": "r_93",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_94",
+      "internal_id": "r_94",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_95",
+      "internal_id": "r_95",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_96",
+      "internal_id": "r_96",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_97",
+      "internal_id": "r_97",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_98",
+      "internal_id": "r_98",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_99",
+      "internal_id": "r_99",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "r_100",
+      "internal_id": "r_100",
+      "size_mm": [
+        2.0,
+        0.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "net0",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_2",
+          "internal_id": "r_2",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_1",
+          "internal_id": "r_1",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net1",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_55",
+          "internal_id": "r_55",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_56",
+          "internal_id": "r_56",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net2",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_9",
+          "internal_id": "r_9",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_8",
+          "internal_id": "r_8",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net3",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_63",
+          "internal_id": "r_63",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_62",
+          "internal_id": "r_62",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net4",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_32",
+          "internal_id": "r_32",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_31",
+          "internal_id": "r_31",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net5",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_86",
+          "internal_id": "r_86",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_85",
+          "internal_id": "r_85",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net6",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_23",
+          "internal_id": "r_23",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_22",
+          "internal_id": "r_22",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net7",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_77",
+          "internal_id": "r_77",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_76",
+          "internal_id": "r_76",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net8",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_29",
+          "internal_id": "r_29",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_30",
+          "internal_id": "r_30",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net9",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_84",
+          "internal_id": "r_84",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_83",
+          "internal_id": "r_83",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net10",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_37",
+          "internal_id": "r_37",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_36",
+          "internal_id": "r_36",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net11",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_6",
+          "internal_id": "r_6",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_5",
+          "internal_id": "r_5",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net12",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_76",
+          "internal_id": "r_76",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_75",
+          "internal_id": "r_75",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net13",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_98",
+          "internal_id": "r_98",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_97",
+          "internal_id": "r_97",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net14",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_50",
+          "internal_id": "r_50",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_51",
+          "internal_id": "r_51",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net15",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_3",
+          "internal_id": "r_3",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_4",
+          "internal_id": "r_4",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net16",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_58",
+          "internal_id": "r_58",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_57",
+          "internal_id": "r_57",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net17",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_27",
+          "internal_id": "r_27",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_26",
+          "internal_id": "r_26",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net18",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_97",
+          "internal_id": "r_97",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_96",
+          "internal_id": "r_96",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net19",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_18",
+          "internal_id": "r_18",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_17",
+          "internal_id": "r_17",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net20",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_72",
+          "internal_id": "r_72",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_71",
+          "internal_id": "r_71",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net21",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_24",
+          "internal_id": "r_24",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_25",
+          "internal_id": "r_25",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net22",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_79",
+          "internal_id": "r_79",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_78",
+          "internal_id": "r_78",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net23",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_48",
+          "internal_id": "r_48",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_47",
+          "internal_id": "r_47",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net24",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_16",
+          "internal_id": "r_16",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_17",
+          "internal_id": "r_17",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net25",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_38",
+          "internal_id": "r_38",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_39",
+          "internal_id": "r_39",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net26",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_93",
+          "internal_id": "r_93",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_92",
+          "internal_id": "r_92",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net27",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_46",
+          "internal_id": "r_46",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_45",
+          "internal_id": "r_45",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net28",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_99",
+          "internal_id": "r_99",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_100",
+          "internal_id": "r_100",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net29",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_53",
+          "internal_id": "r_53",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_52",
+          "internal_id": "r_52",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net30",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_22",
+          "internal_id": "r_22",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_21",
+          "internal_id": "r_21",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net31",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_92",
+          "internal_id": "r_92",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_91",
+          "internal_id": "r_91",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net32",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_13",
+          "internal_id": "r_13",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_12",
+          "internal_id": "r_12",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net33",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_67",
+          "internal_id": "r_67",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_66",
+          "internal_id": "r_66",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net34",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_20",
+          "internal_id": "r_20",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_19",
+          "internal_id": "r_19",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net35",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_74",
+          "internal_id": "r_74",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_73",
+          "internal_id": "r_73",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net36",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_43",
+          "internal_id": "r_43",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_42",
+          "internal_id": "r_42",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net37",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_11",
+          "internal_id": "r_11",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_12",
+          "internal_id": "r_12",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net38",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_33",
+          "internal_id": "r_33",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_34",
+          "internal_id": "r_34",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net39",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_88",
+          "internal_id": "r_88",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_87",
+          "internal_id": "r_87",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net40",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_41",
+          "internal_id": "r_41",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_40",
+          "internal_id": "r_40",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net41",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_94",
+          "internal_id": "r_94",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_95",
+          "internal_id": "r_95",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net42",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_64",
+          "internal_id": "r_64",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_63",
+          "internal_id": "r_63",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net43",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_33",
+          "internal_id": "r_33",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_32",
+          "internal_id": "r_32",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net44",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_55",
+          "internal_id": "r_55",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_54",
+          "internal_id": "r_54",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net45",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_8",
+          "internal_id": "r_8",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_7",
+          "internal_id": "r_7",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net46",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_62",
+          "internal_id": "r_62",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_61",
+          "internal_id": "r_61",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net47",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_15",
+          "internal_id": "r_15",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_14",
+          "internal_id": "r_14",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net48",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_68",
+          "internal_id": "r_68",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_69",
+          "internal_id": "r_69",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net49",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_38",
+          "internal_id": "r_38",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_37",
+          "internal_id": "r_37",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net50",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_29",
+          "internal_id": "r_29",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_28",
+          "internal_id": "r_28",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net51",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_83",
+          "internal_id": "r_83",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_82",
+          "internal_id": "r_82",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net52",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_36",
+          "internal_id": "r_36",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_35",
+          "internal_id": "r_35",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net53",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_89",
+          "internal_id": "r_89",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_90",
+          "internal_id": "r_90",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net54",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_59",
+          "internal_id": "r_59",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_58",
+          "internal_id": "r_58",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net55",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_28",
+          "internal_id": "r_28",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_27",
+          "internal_id": "r_27",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net56",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_50",
+          "internal_id": "r_50",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_49",
+          "internal_id": "r_49",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net57",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_3",
+          "internal_id": "r_3",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_2",
+          "internal_id": "r_2",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net58",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_57",
+          "internal_id": "r_57",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_56",
+          "internal_id": "r_56",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net59",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_10",
+          "internal_id": "r_10",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_9",
+          "internal_id": "r_9",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net60",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_80",
+          "internal_id": "r_80",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_79",
+          "internal_id": "r_79",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net61",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_49",
+          "internal_id": "r_49",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_48",
+          "internal_id": "r_48",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net62",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_71",
+          "internal_id": "r_71",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_70",
+          "internal_id": "r_70",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net63",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_24",
+          "internal_id": "r_24",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_23",
+          "internal_id": "r_23",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net64",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_77",
+          "internal_id": "r_77",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_78",
+          "internal_id": "r_78",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net65",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_31",
+          "internal_id": "r_31",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_30",
+          "internal_id": "r_30",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net66",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_85",
+          "internal_id": "r_85",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_84",
+          "internal_id": "r_84",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net67",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_54",
+          "internal_id": "r_54",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_53",
+          "internal_id": "r_53",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net68",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_45",
+          "internal_id": "r_45",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_44",
+          "internal_id": "r_44",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net69",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_99",
+          "internal_id": "r_99",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_98",
+          "internal_id": "r_98",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net70",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_52",
+          "internal_id": "r_52",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_51",
+          "internal_id": "r_51",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net71",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_5",
+          "internal_id": "r_5",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_4",
+          "internal_id": "r_4",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net72",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_75",
+          "internal_id": "r_75",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_74",
+          "internal_id": "r_74",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net73",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_44",
+          "internal_id": "r_44",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_43",
+          "internal_id": "r_43",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net74",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_66",
+          "internal_id": "r_66",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_65",
+          "internal_id": "r_65",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net75",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_19",
+          "internal_id": "r_19",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_18",
+          "internal_id": "r_18",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net76",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_72",
+          "internal_id": "r_72",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_73",
+          "internal_id": "r_73",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net77",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_26",
+          "internal_id": "r_26",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_25",
+          "internal_id": "r_25",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net78",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_96",
+          "internal_id": "r_96",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_95",
+          "internal_id": "r_95",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net79",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_65",
+          "internal_id": "r_65",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_64",
+          "internal_id": "r_64",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net80",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_87",
+          "internal_id": "r_87",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_86",
+          "internal_id": "r_86",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net81",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_40",
+          "internal_id": "r_40",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_39",
+          "internal_id": "r_39",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net82",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_94",
+          "internal_id": "r_94",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_93",
+          "internal_id": "r_93",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net83",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_46",
+          "internal_id": "r_46",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_47",
+          "internal_id": "r_47",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net84",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_16",
+          "internal_id": "r_16",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_15",
+          "internal_id": "r_15",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net85",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_70",
+          "internal_id": "r_70",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_69",
+          "internal_id": "r_69",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net86",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_7",
+          "internal_id": "r_7",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_6",
+          "internal_id": "r_6",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net87",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_61",
+          "internal_id": "r_61",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_60",
+          "internal_id": "r_60",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net88",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_14",
+          "internal_id": "r_14",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_13",
+          "internal_id": "r_13",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net89",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_68",
+          "internal_id": "r_68",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_67",
+          "internal_id": "r_67",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net90",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_21",
+          "internal_id": "r_21",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_20",
+          "internal_id": "r_20",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net91",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_91",
+          "internal_id": "r_91",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_90",
+          "internal_id": "r_90",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net92",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_59",
+          "internal_id": "r_59",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_60",
+          "internal_id": "r_60",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net93",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_81",
+          "internal_id": "r_81",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_82",
+          "internal_id": "r_82",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net94",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_35",
+          "internal_id": "r_35",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_34",
+          "internal_id": "r_34",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net95",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_89",
+          "internal_id": "r_89",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_88",
+          "internal_id": "r_88",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net96",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_42",
+          "internal_id": "r_42",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_41",
+          "internal_id": "r_41",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net97",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_11",
+          "internal_id": "r_11",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_10",
+          "internal_id": "r_10",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "net98",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "r_81",
+          "internal_id": "r_81",
+          "offset_mm": [
+            -0.597,
+            0.0
+          ]
+        },
+        {
+          "ref": "r_80",
+          "internal_id": "r_80",
+          "offset_mm": [
+            0.597,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

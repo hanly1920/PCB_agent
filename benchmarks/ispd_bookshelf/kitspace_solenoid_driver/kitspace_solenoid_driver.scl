@@ -1,0 +1,265 @@
+UCLA scl 1.0
+
+NumRows : 29
+
+CoreRow Horizontal
+  Coordinate    :   0
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   17
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   34
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   51
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   68
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   85
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   102
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   119
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   136
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   153
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   170
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   187
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   204
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   221
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   238
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   255
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   272
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   289
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   306
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   323
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   340
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   357
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   374
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   391
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   408
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   425
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   442
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   459
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End
+CoreRow Horizontal
+  Coordinate    :   476
+  Height        :   17
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  455
+End

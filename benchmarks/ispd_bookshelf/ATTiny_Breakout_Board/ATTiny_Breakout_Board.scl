@@ -1,0 +1,58 @@
+UCLA scl 1.0
+
+NumRows : 6
+
+CoreRow Horizontal
+  Coordinate    :   0
+  Height        :   52
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  198
+End
+CoreRow Horizontal
+  Coordinate    :   52
+  Height        :   52
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  198
+End
+CoreRow Horizontal
+  Coordinate    :   104
+  Height        :   52
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  198
+End
+CoreRow Horizontal
+  Coordinate    :   156
+  Height        :   52
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  198
+End
+CoreRow Horizontal
+  Coordinate    :   208
+  Height        :   52
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  198
+End
+CoreRow Horizontal
+  Coordinate    :   260
+  Height        :   52
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  198
+End

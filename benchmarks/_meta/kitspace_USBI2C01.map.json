@@ -1,0 +1,289 @@
+{
+ "name": "kitspace_USBI2C01",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\infer\\kitspace_USBI2C01.json",
+ "board_bbox_mm": [
+  133.5151,
+  84.9376,
+  163.4871,
+  125.0696
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 26,
+  "num_nets": 24,
+  "num_pins": 97,
+  "board_w_mm": 29.97200000000001,
+  "board_h_mm": 40.13199999999999
+ },
+ "ispd": {
+  "num_nodes": 26,
+  "num_nets": 24,
+  "num_pins": 97,
+  "scale": 10,
+  "board_w_mm": 29.97200000000001,
+  "board_h_mm": 40.13199999999999
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "X4",
+   "size_mm": [
+    6.4516,
+    6.4516
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "X3",
+   "size_mm": [
+    6.4516,
+    6.4516
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "SV7",
+   "size_mm": [
+    1.6510000000000002,
+    1.6510000000000002
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "SV4",
+   "size_mm": [
+    6.731,
+    4.191000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "X6",
+   "size_mm": [
+    6.4516,
+    6.4516
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "SV3",
+   "size_mm": [
+    6.731,
+    1.651
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "SV6",
+   "size_mm": [
+    6.731,
+    4.191000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "SV2",
+   "size_mm": [
+    11.811,
+    4.191000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "X5",
+   "size_mm": [
+    6.4516,
+    6.4516
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "SV5",
+   "size_mm": [
+    11.811,
+    4.191000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "SV1",
+   "size_mm": [
+    4.191000000000001,
+    1.6510000000000002
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "X2",
+   "size_mm": [
+    15.81,
+    7.3162
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "D2",
+   "size_mm": [
+    2.7,
+    5.5
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "P1",
+   "size_mm": [
+    7.3,
+    1.9000000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "R5",
+   "size_mm": [
+    3.1954000000000002,
+    0.9906000000000003
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "D1",
+   "size_mm": [
+    2.7,
+    5.5
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "R4",
+   "size_mm": [
+    2.8906,
+    1.2954000000000003
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "R3",
+   "size_mm": [
+    2.8906,
+    1.2954000000000003
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "C1",
+   "size_mm": [
+    3.4,
+    1.96
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o19": {
+   "ref": "D3",
+   "size_mm": [
+    2.7,
+    5.5
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o20": {
+   "ref": "C3",
+   "size_mm": [
+    3.4,
+    1.96
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o21": {
+   "ref": "D4",
+   "size_mm": [
+    1.35,
+    1.9000000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o22": {
+   "ref": "X1",
+   "size_mm": [
+    4.2,
+    4.2
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o23": {
+   "ref": "R1",
+   "size_mm": [
+    2.8906,
+    1.2954
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o24": {
+   "ref": "C4",
+   "size_mm": [
+    3.4,
+    1.96
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o25": {
+   "ref": "C2",
+   "size_mm": [
+    3.4,
+    1.96
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  }
+ }
+}

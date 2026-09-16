@@ -1,0 +1,112 @@
+UCLA scl 1.0
+
+NumRows : 12
+
+CoreRow Horizontal
+  Coordinate    :   0
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   20
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   40
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   60
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   80
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   100
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   120
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   140
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   160
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   180
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   200
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End
+CoreRow Horizontal
+  Coordinate    :   220
+  Height        :   20
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  460
+End

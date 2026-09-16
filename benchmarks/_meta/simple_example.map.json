@@ -1,0 +1,61 @@
+{
+ "name": "simple_example",
+ "source_design": "E:\\claude_workspace\\SA-PCB-master\\designs\\simple_example",
+ "origin": "sa_pcb",
+ "scale_ispd": 10,
+ "board_bbox_mm": [
+  0.979,
+  0.916,
+  14.438,
+  27.08
+ ],
+ "pcb": {
+  "num_nodes": 3,
+  "num_nets": 1
+ },
+ "ispd": {
+  "num_nodes": 3,
+  "num_nets": 1
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "C14",
+   "size_mm": [
+    4.554,
+    3.0
+   ],
+   "expert_xy_mm": [
+    0.979,
+    0.916
+   ],
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "T1",
+   "size_mm": [
+    7.2,
+    10.633
+   ],
+   "expert_xy_mm": [
+    5.0,
+    5.08
+   ],
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "F1",
+   "size_mm": [
+    7.7,
+    6.8
+   ],
+   "expert_xy_mm": [
+    14.438,
+    27.08
+   ],
+   "expert_rot": null,
+   "fixed": false
+  }
+ }
+}

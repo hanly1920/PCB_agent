@@ -1,0 +1,1117 @@
+{
+  "name": "hardware-designs_cc430-debug-board",
+  "origin": "unknown",
+  "board": {
+    "bbox_mm": [
+      55.0,
+      25.0,
+      104.0,
+      61.0
+    ],
+    "width_mm": 49.0,
+    "height_mm": 36.0,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 14,
+    "num_nets": 33,
+    "num_pins": 83
+  },
+  "components": [
+    {
+      "ref": "U1",
+      "internal_id": "U1",
+      "size_mm": [
+        9.7282,
+        7.5184
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "5V1",
+      "internal_id": "5V1",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "RX_SEL1",
+      "internal_id": "RX_SEL1",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TX_SEL1",
+      "internal_id": "TX_SEL1",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "RPI1",
+      "internal_id": "RPI1",
+      "size_mm": [
+        32.004,
+        4.064
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "CN1",
+      "internal_id": "CN1",
+      "size_mm": [
+        19.1491,
+        1.1506
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "CN2",
+      "internal_id": "CN2",
+      "size_mm": [
+        19.1491,
+        1.1506
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R1",
+      "internal_id": "R1",
+      "size_mm": [
+        3.302,
+        0.889
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R2",
+      "internal_id": "R2",
+      "size_mm": [
+        3.302,
+        0.889
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "D1",
+      "internal_id": "D1",
+      "size_mm": [
+        2.2962,
+        0.7976
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "D2",
+      "internal_id": "D2",
+      "size_mm": [
+        2.2962,
+        0.7976
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J1",
+      "internal_id": "J1",
+      "size_mm": [
+        8.5496,
+        4.699
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noname_1",
+      "internal_id": "Noname_1",
+      "size_mm": [
+        2.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "K1",
+      "internal_id": "K1",
+      "size_mm": [
+        6.604,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "N-0000018",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -4.2291,
+            3.556
+          ]
+        },
+        {
+          "ref": "TX_SEL1",
+          "internal_id": "TX_SEL1",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000034",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -3.5941,
+            3.556
+          ]
+        },
+        {
+          "ref": "K1",
+          "internal_id": "K1",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000033",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.9337,
+            3.556
+          ]
+        },
+        {
+          "ref": "K1",
+          "internal_id": "K1",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+3.3V",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.2733,
+            3.556
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.9591,
+            -3.556
+          ]
+        },
+        {
+          "ref": "CN1",
+          "internal_id": "CN1",
+          "offset_mm": [
+            -8.9992,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000017",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -1.6383,
+            3.556
+          ]
+        },
+        {
+          "ref": "RX_SEL1",
+          "internal_id": "RX_SEL1",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GND",
+      "degree": 16,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -0.3175,
+            3.556
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.2733,
+            -3.556
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            0.3175,
+            -3.556
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.2733,
+            -3.556
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.9337,
+            -3.556
+          ]
+        },
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -10.16,
+            -1.27
+          ]
+        },
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -5.08,
+            1.27
+          ]
+        },
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            0.0,
+            -1.27
+          ]
+        },
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            7.62,
+            -1.27
+          ]
+        },
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            15.24,
+            1.27
+          ]
+        },
+        {
+          "ref": "CN1",
+          "internal_id": "CN1",
+          "offset_mm": [
+            8.9992,
+            0.0
+          ]
+        },
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            1.3005,
+            -1.4249
+          ]
+        },
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            2.4994,
+            -1.1252
+          ]
+        },
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            -2.4994,
+            -1.1252
+          ]
+        },
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            3.5001,
+            1.5748
+          ]
+        },
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            -3.5001,
+            1.5748
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000032",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.2733,
+            3.556
+          ]
+        },
+        {
+          "ref": "K1",
+          "internal_id": "K1",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000030",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            4.2291,
+            -3.556
+          ]
+        },
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            0.0,
+            -1.4249
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000047",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            3.5687,
+            -3.556
+          ]
+        },
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            -0.6502,
+            -1.4249
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+5V",
+      "degree": 4,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            0.9779,
+            -3.556
+          ]
+        },
+        {
+          "ref": "5V1",
+          "internal_id": "5V1",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "R1",
+          "internal_id": "R1",
+          "offset_mm": [
+            -0.9525,
+            0.0
+          ]
+        },
+        {
+          "ref": "R2",
+          "internal_id": "R2",
+          "offset_mm": [
+            -0.9525,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000053",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -0.3175,
+            -3.556
+          ]
+        },
+        {
+          "ref": "D2",
+          "internal_id": "D2",
+          "offset_mm": [
+            -0.7493,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000027",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -0.9779,
+            -3.556
+          ]
+        },
+        {
+          "ref": "D1",
+          "internal_id": "D1",
+          "offset_mm": [
+            -0.7493,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000042",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "5V1",
+          "internal_id": "5V1",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -15.24,
+            -1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000046",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "5V1",
+          "internal_id": "5V1",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "J1",
+          "internal_id": "J1",
+          "offset_mm": [
+            -1.3005,
+            -1.4249
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_RX",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RX_SEL1",
+          "internal_id": "RX_SEL1",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "CN1",
+          "internal_id": "CN1",
+          "offset_mm": [
+            -5.0013,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RPI_RX",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RX_SEL1",
+          "internal_id": "RX_SEL1",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -5.08,
+            -1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_TX",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "TX_SEL1",
+          "internal_id": "TX_SEL1",
+          "offset_mm": [
+            -2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "CN1",
+          "internal_id": "CN1",
+          "offset_mm": [
+            -7.0002,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RPI_TX",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "TX_SEL1",
+          "internal_id": "TX_SEL1",
+          "offset_mm": [
+            2.54,
+            0.0
+          ]
+        },
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -7.62,
+            -1.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_B0_SDA",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -12.7,
+            1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            -7.0002,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_B0_SCL",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -10.16,
+            1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            -8.9992,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_RFGDO0",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -7.62,
+            1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            2.9997,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_A0",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -2.54,
+            1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            5.0013,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_A3",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            -2.54,
+            -1.27
+          ]
+        },
+        {
+          "ref": "CN1",
+          "internal_id": "CN1",
+          "offset_mm": [
+            7.0002,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_A1",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            0.0,
+            1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            7.0002,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_A2",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            2.54,
+            1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            8.9992,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_NRST",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            2.54,
+            -1.27
+          ]
+        },
+        {
+          "ref": "CN1",
+          "internal_id": "CN1",
+          "offset_mm": [
+            -1.0008,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_TEST",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            5.08,
+            -1.27
+          ]
+        },
+        {
+          "ref": "CN1",
+          "internal_id": "CN1",
+          "offset_mm": [
+            1.0008,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_ACLK",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            10.16,
+            -1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            -1.0008,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_A0_SCLK",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            12.7,
+            1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            -2.9997,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_A0_SS",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            12.7,
+            -1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            -5.0013,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_RADIO_RFGDO2",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "RPI1",
+          "internal_id": "RPI1",
+          "offset_mm": [
+            15.24,
+            -1.27
+          ]
+        },
+        {
+          "ref": "CN2",
+          "internal_id": "CN2",
+          "offset_mm": [
+            1.0008,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000052",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R1",
+          "internal_id": "R1",
+          "offset_mm": [
+            0.9525,
+            0.0
+          ]
+        },
+        {
+          "ref": "D1",
+          "internal_id": "D1",
+          "offset_mm": [
+            0.7493,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "N-0000049",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R2",
+          "internal_id": "R2",
+          "offset_mm": [
+            0.9525,
+            0.0
+          ]
+        },
+        {
+          "ref": "D2",
+          "internal_id": "D2",
+          "offset_mm": [
+            0.7493,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

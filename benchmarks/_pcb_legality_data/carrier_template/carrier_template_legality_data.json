@@ -1,0 +1,334 @@
+{
+  "name": "carrier_template",
+  "origin": "unknown",
+  "board": {
+    "bbox_mm": [
+      107.5,
+      90.99999999999999,
+      157.5,
+      133.0
+    ],
+    "width_mm": 50.0,
+    "height_mm": 42.000000000000014,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 19,
+    "num_nets": 0,
+    "num_pins": 0
+  },
+  "components": [
+    {
+      "ref": "TP11",
+      "internal_id": "TP11",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP13",
+      "internal_id": "TP13",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP10",
+      "internal_id": "TP10",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP9",
+      "internal_id": "TP9",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J3",
+      "internal_id": "J3",
+      "size_mm": [
+        20.26,
+        2.94
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP5",
+      "internal_id": "TP5",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP3",
+      "internal_id": "TP3",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP12",
+      "internal_id": "TP12",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP1",
+      "internal_id": "TP1",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP8",
+      "internal_id": "TP8",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP16",
+      "internal_id": "TP16",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP6",
+      "internal_id": "TP6",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP2",
+      "internal_id": "TP2",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP4",
+      "internal_id": "TP4",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP15",
+      "internal_id": "TP15",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J1",
+      "internal_id": "J1",
+      "size_mm": [
+        19.83,
+        3.37
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J2",
+      "internal_id": "J2",
+      "size_mm": [
+        19.83,
+        3.37
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP7",
+      "internal_id": "TP7",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "TP14",
+      "internal_id": "TP14",
+      "size_mm": [
+        2.1,
+        2.1
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": []
+}

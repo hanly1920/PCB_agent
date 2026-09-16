@@ -1,0 +1,121 @@
+UCLA scl 1.0
+
+NumRows : 13
+
+CoreRow Horizontal
+  Coordinate    :   0
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   19
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   38
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   57
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   76
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   95
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   114
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   133
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   152
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   171
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   190
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   209
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End
+CoreRow Horizontal
+  Coordinate    :   228
+  Height        :   19
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  859
+End

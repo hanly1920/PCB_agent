@@ -1,0 +1,100 @@
+{
+ "name": "s_example",
+ "source_design": "E:\\claude_workspace\\SA-PCB-master\\designs\\s_example",
+ "origin": "sa_pcb",
+ "scale_ispd": 10,
+ "board_bbox_mm": [
+  0.0,
+  0.0,
+  5.0,
+  5.0
+ ],
+ "pcb": {
+  "num_nodes": 6,
+  "num_nets": 1
+ },
+ "ispd": {
+  "num_nodes": 6,
+  "num_nets": 1
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "C1",
+   "size_mm": [
+    4.5,
+    4.5
+   ],
+   "expert_xy_mm": [
+    0.0,
+    0.0
+   ],
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "C2",
+   "size_mm": [
+    1.0,
+    1.0
+   ],
+   "expert_xy_mm": [
+    0.0,
+    0.0
+   ],
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "C10",
+   "size_mm": [
+    5.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    5.0,
+    0.0
+   ],
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "C100",
+   "size_mm": [
+    2.0,
+    5.0
+   ],
+   "expert_xy_mm": [
+    0.0,
+    5.0
+   ],
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "C101",
+   "size_mm": [
+    2.0,
+    5.0
+   ],
+   "expert_xy_mm": [
+    5.0,
+    5.0
+   ],
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "C102",
+   "size_mm": [
+    5.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    0.0,
+    0.0
+   ],
+   "expert_rot": null,
+   "fixed": false
+  }
+ }
+}

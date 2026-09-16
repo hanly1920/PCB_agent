@@ -1,0 +1,34 @@
+UCLA wts 1.0
+
+_VBIN 1
+GND 1
++3.3V 1
+Net-_C3-Pad1_ 1
+Net-_C4-Pad1_ 1
+_VIN+ 1
+_VIN- 1
+VBATT 1
+_VBOOST 1
+_VSW 1
+_VBINF 1
+_VBUS 1
+Net-_DS1-Pad2_ 1
+Net-_J1-Pad1_ 1
+Net-_J2-Pad3_ 1
+Net-_J2-Pad4_ 1
+_ODRTN 1
+_OD1 1
+_OD2 1
+_RXD 1
+_TXD 1
+Net-_Q1-Pad1_ 1
+Net-_Q2-Pad1_ 1
+_ALERT 1
+_SCL 1
+_SDA 1
+Net-_R7-Pad2_ 1
+Net-_R10-Pad1_ 1
+_OUT1 1
+_OUT2 1
+_VFB 1
+_CONNLED 1

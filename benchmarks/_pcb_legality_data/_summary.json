@@ -1,0 +1,1256 @@
+[
+  {
+    "board": "1__analog_esr_meter_esr_meter_rev_a",
+    "num_components": 54,
+    "num_nets": 30,
+    "board_size_mm": [
+      68.732499,
+      78.181137
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "1__analog_esr_meter_esr_meter_rev_a.nodes",
+      "1__analog_esr_meter_esr_meter_rev_a.nets",
+      "1__analog_esr_meter_esr_meter_rev_a.pl",
+      "1__analog_esr_meter_esr_meter_rev_a.wts"
+    ]
+  },
+  {
+    "board": "1__anima_MotorDrive",
+    "num_components": 62,
+    "num_nets": 50,
+    "board_size_mm": [
+      54.610000000000014,
+      63.499999999999986
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "1__anima_MotorDrive.nodes",
+      "1__anima_MotorDrive.nets",
+      "1__anima_MotorDrive.pl",
+      "1__anima_MotorDrive.wts"
+    ]
+  },
+  {
+    "board": "1__vhf-radio_exp-1",
+    "num_components": 90,
+    "num_nets": 53,
+    "board_size_mm": [
+      59.976500000000016,
+      58.862999999999985
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "1__vhf-radio_exp-1.nodes",
+      "1__vhf-radio_exp-1.nets",
+      "1__vhf-radio_exp-1.pl",
+      "1__vhf-radio_exp-1.wts"
+    ]
+  },
+  {
+    "board": "1__wt-rpm_rasp_side",
+    "num_components": 84,
+    "num_nets": 92,
+    "board_size_mm": [
+      106.488,
+      105.97898
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "1__wt-rpm_rasp_side.nodes",
+      "1__wt-rpm_rasp_side.nets",
+      "1__wt-rpm_rasp_side.pl",
+      "1__wt-rpm_rasp_side.wts"
+    ]
+  },
+  {
+    "board": "2__UProgrammer-Hardware_Programmer",
+    "num_components": 73,
+    "num_nets": 65,
+    "board_size_mm": [
+      85.21606000000001,
+      60.416
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "2__UProgrammer-Hardware_Programmer.nodes",
+      "2__UProgrammer-Hardware_Programmer.nets",
+      "2__UProgrammer-Hardware_Programmer.pl",
+      "2__UProgrammer-Hardware_Programmer.wts"
+    ]
+  },
+  {
+    "board": "3__DSKY-alarm-panel-replica_DSKY_alarm",
+    "num_components": 87,
+    "num_nets": 58,
+    "board_size_mm": [
+      57.78500000000001,
+      101.60000000000002
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "3__DSKY-alarm-panel-replica_DSKY_alarm.nodes",
+      "3__DSKY-alarm-panel-replica_DSKY_alarm.nets",
+      "3__DSKY-alarm-panel-replica_DSKY_alarm.pl",
+      "3__DSKY-alarm-panel-replica_DSKY_alarm.wts"
+    ]
+  },
+  {
+    "board": "3__esp8266_esp-output",
+    "num_components": 65,
+    "num_nets": 55,
+    "board_size_mm": [
+      165.30012,
+      58.93326000000002
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "3__esp8266_esp-output.nodes",
+      "3__esp8266_esp-output.nets",
+      "3__esp8266_esp-output.pl",
+      "3__esp8266_esp-output.wts"
+    ]
+  },
+  {
+    "board": "5__helmholtz-servo_CurrentServo",
+    "num_components": 98,
+    "num_nets": 52,
+    "board_size_mm": [
+      130.0,
+      85.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "5__helmholtz-servo_CurrentServo.nodes",
+      "5__helmholtz-servo_CurrentServo.nets",
+      "5__helmholtz-servo_CurrentServo.pl",
+      "5__helmholtz-servo_CurrentServo.wts"
+    ]
+  },
+  {
+    "board": "5__kitspace_Driverino-Shield",
+    "num_components": 56,
+    "num_nets": 47,
+    "board_size_mm": [
+      74.41100000000002,
+      62.324
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "5__kitspace_Driverino-Shield.nodes",
+      "5__kitspace_Driverino-Shield.nets",
+      "5__kitspace_Driverino-Shield.pl",
+      "5__kitspace_Driverino-Shield.wts"
+    ]
+  },
+  {
+    "board": "5__thegrid_thegrid",
+    "num_components": 50,
+    "num_nets": 35,
+    "board_size_mm": [
+      56.92599999999999,
+      105.63099999999999
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "5__thegrid_thegrid.nodes",
+      "5__thegrid_thegrid.nets",
+      "5__thegrid_thegrid.pl",
+      "5__thegrid_thegrid.wts"
+    ]
+  },
+  {
+    "board": "6__MAVRIC_Hardware__autosave-Motherboard_-_",
+    "num_components": 48,
+    "num_nets": 42,
+    "board_size_mm": [
+      146.8875,
+      62.947599999999994
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "6__MAVRIC_Hardware__autosave-Motherboard_-_.nodes",
+      "6__MAVRIC_Hardware__autosave-Motherboard_-_.nets",
+      "6__MAVRIC_Hardware__autosave-Motherboard_-_.pl",
+      "6__MAVRIC_Hardware__autosave-Motherboard_-_.wts"
+    ]
+  },
+  {
+    "board": "6__kitspace_spike_n_hold",
+    "num_components": 50,
+    "num_nets": 33,
+    "board_size_mm": [
+      63.0,
+      110.5
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "6__kitspace_spike_n_hold.nodes",
+      "6__kitspace_spike_n_hold.nets",
+      "6__kitspace_spike_n_hold.pl",
+      "6__kitspace_spike_n_hold.wts"
+    ]
+  },
+  {
+    "board": "6__kitspace_training_board_-_",
+    "num_components": 73,
+    "num_nets": 58,
+    "board_size_mm": [
+      99.07999999999998,
+      99.08
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "6__kitspace_training_board_-_.nodes",
+      "6__kitspace_training_board_-_.nets",
+      "6__kitspace_training_board_-_.pl",
+      "6__kitspace_training_board_-_.wts"
+    ]
+  },
+  {
+    "board": "6__kitspace_training_board_v02_-_",
+    "num_components": 71,
+    "num_nets": 61,
+    "board_size_mm": [
+      100.0,
+      100.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "6__kitspace_training_board_v02_-_.nodes",
+      "6__kitspace_training_board_v02_-_.nets",
+      "6__kitspace_training_board_v02_-_.pl",
+      "6__kitspace_training_board_v02_-_.wts"
+    ]
+  },
+  {
+    "board": "7__minievse_minievse",
+    "num_components": 50,
+    "num_nets": 41,
+    "board_size_mm": [
+      101.6,
+      50.800000000000004
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "7__minievse_minievse.nodes",
+      "7__minievse_minievse.nets",
+      "7__minievse_minievse.pl",
+      "7__minievse_minievse.wts"
+    ]
+  },
+  {
+    "board": "8__ozinverter_ozinverterkicad",
+    "num_components": 68,
+    "num_nets": 45,
+    "board_size_mm": [
+      164.69068,
+      88.79084
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "8__ozinverter_ozinverterkicad.nodes",
+      "8__ozinverter_ozinverterkicad.nets",
+      "8__ozinverter_ozinverterkicad.pl",
+      "8__ozinverter_ozinverterkicad.wts"
+    ]
+  },
+  {
+    "board": "9__RF_SIGNAL_GENERATOR_HARDWARE_RF_Signal_Generator",
+    "num_components": 98,
+    "num_nets": 80,
+    "board_size_mm": [
+      46.608999999999995,
+      22.86
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "9__RF_SIGNAL_GENERATOR_HARDWARE_RF_Signal_Generator.nodes",
+      "9__RF_SIGNAL_GENERATOR_HARDWARE_RF_Signal_Generator.nets",
+      "9__RF_SIGNAL_GENERATOR_HARDWARE_RF_Signal_Generator.pl",
+      "9__RF_SIGNAL_GENERATOR_HARDWARE_RF_Signal_Generator.wts"
+    ]
+  },
+  {
+    "board": "9__reach-nrf51822-hardware_reach-target-hw",
+    "num_components": 55,
+    "num_nets": 54,
+    "board_size_mm": [
+      50.766499999999986,
+      36.741
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "9__reach-nrf51822-hardware_reach-target-hw.nodes",
+      "9__reach-nrf51822-hardware_reach-target-hw.nets",
+      "9__reach-nrf51822-hardware_reach-target-hw.pl",
+      "9__reach-nrf51822-hardware_reach-target-hw.wts"
+    ]
+  },
+  {
+    "board": "ATTiny_Breakout_Board",
+    "num_components": 3,
+    "num_nets": 20,
+    "board_size_mm": [
+      19.812000000000012,
+      29.971999999999994
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "ATTiny_Breakout_Board.nodes",
+      "ATTiny_Breakout_Board.nets",
+      "ATTiny_Breakout_Board.pl",
+      "ATTiny_Breakout_Board.wts"
+    ]
+  },
+  {
+    "board": "AnalogThermometer",
+    "num_components": 19,
+    "num_nets": 12,
+    "board_size_mm": [
+      25.400000000000006,
+      25.39999999999999
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "AnalogThermometer.nodes",
+      "AnalogThermometer.nets",
+      "AnalogThermometer.pl",
+      "AnalogThermometer.wts"
+    ]
+  },
+  {
+    "board": "Battery_Temperature_Sensor",
+    "num_components": 107,
+    "num_nets": 41,
+    "board_size_mm": [
+      76.10000000000011,
+      103.40000000000003
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "Battery_Temperature_Sensor.nodes",
+      "Battery_Temperature_Sensor.nets",
+      "Battery_Temperature_Sensor.pl",
+      "Battery_Temperature_Sensor.wts"
+    ]
+  },
+  {
+    "board": "Biscay_Blueeye_mcu",
+    "num_components": 19,
+    "num_nets": 28,
+    "board_size_mm": [
+      50.0,
+      50.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "Biscay_Blueeye_mcu.nodes",
+      "Biscay_Blueeye_mcu.nets",
+      "Biscay_Blueeye_mcu.pl",
+      "Biscay_Blueeye_mcu.wts"
+    ]
+  },
+  {
+    "board": "BreadboardBasics_RevA",
+    "num_components": 41,
+    "num_nets": 36,
+    "board_size_mm": [
+      63.5,
+      31.750000000000014
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "BreadboardBasics_RevA.nodes",
+      "BreadboardBasics_RevA.nets",
+      "BreadboardBasics_RevA.pl",
+      "BreadboardBasics_RevA.wts"
+    ]
+  },
+  {
+    "board": "Circuits__BSPD_KiCAD",
+    "num_components": 59,
+    "num_nets": 36,
+    "board_size_mm": [
+      59.35499999999999,
+      82.7375
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "Circuits__BSPD_KiCAD.nodes",
+      "Circuits__BSPD_KiCAD.nets",
+      "Circuits__BSPD_KiCAD.pl",
+      "Circuits__BSPD_KiCAD.wts"
+    ]
+  },
+  {
+    "board": "Circuits__Pre-charge_KiCAD",
+    "num_components": 51,
+    "num_nets": 31,
+    "board_size_mm": [
+      76.60500000000002,
+      67.715
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "Circuits__Pre-charge_KiCAD.nodes",
+      "Circuits__Pre-charge_KiCAD.nets",
+      "Circuits__Pre-charge_KiCAD.pl",
+      "Circuits__Pre-charge_KiCAD.wts"
+    ]
+  },
+  {
+    "board": "Circuits___LVE_Shutdown",
+    "num_components": 114,
+    "num_nets": 69,
+    "board_size_mm": [
+      86.84999999999997,
+      96.9075
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "Circuits___LVE_Shutdown.nodes",
+      "Circuits___LVE_Shutdown.nets",
+      "Circuits___LVE_Shutdown.pl",
+      "Circuits___LVE_Shutdown.wts"
+    ]
+  },
+  {
+    "board": "DaughterBoards_2016",
+    "num_components": 436,
+    "num_nets": 467,
+    "board_size_mm": [
+      0.0,
+      0.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "DaughterBoards_2016.nodes",
+      "DaughterBoards_2016.nets",
+      "DaughterBoards_2016.pl"
+    ]
+  },
+  {
+    "board": "Debug_Adapter",
+    "num_components": 25,
+    "num_nets": 26,
+    "board_size_mm": [
+      39.50000000000118,
+      56.00000000000112
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "Debug_Adapter.nodes",
+      "Debug_Adapter.nets",
+      "Debug_Adapter.pl",
+      "Debug_Adapter.wts"
+    ]
+  },
+  {
+    "board": "ESP8266-MQTT-battery-monitor-hw_battery-monitor",
+    "num_components": 49,
+    "num_nets": 32,
+    "board_size_mm": [
+      50.0,
+      50.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "ESP8266-MQTT-battery-monitor-hw_battery-monitor.nodes",
+      "ESP8266-MQTT-battery-monitor-hw_battery-monitor.nets",
+      "ESP8266-MQTT-battery-monitor-hw_battery-monitor.pl",
+      "ESP8266-MQTT-battery-monitor-hw_battery-monitor.wts"
+    ]
+  },
+  {
+    "board": "H616_LPDDR4_H616_devboard",
+    "num_components": 161,
+    "num_nets": 174,
+    "board_size_mm": [
+      58.00000000000216,
+      66.0000000000016
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "H616_LPDDR4_H616_devboard.nodes",
+      "H616_LPDDR4_H616_devboard.nets",
+      "H616_LPDDR4_H616_devboard.pl",
+      "H616_LPDDR4_H616_devboard.wts"
+    ]
+  },
+  {
+    "board": "H616_devboard",
+    "num_components": 125,
+    "num_nets": 121,
+    "board_size_mm": [
+      26.5,
+      72.50000000000306
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "H616_devboard.nodes",
+      "H616_devboard.nets",
+      "H616_devboard.pl",
+      "H616_devboard.wts"
+    ]
+  },
+  {
+    "board": "HDMI_MIPI_Bridge",
+    "num_components": 121,
+    "num_nets": 105,
+    "board_size_mm": [
+      68.0,
+      45.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "HDMI_MIPI_Bridge.nodes",
+      "HDMI_MIPI_Bridge.nets",
+      "HDMI_MIPI_Bridge.pl",
+      "HDMI_MIPI_Bridge.wts"
+    ]
+  },
+  {
+    "board": "IR-Transponder-ATTiny85-v2_Transponder_v2",
+    "num_components": 12,
+    "num_nets": 11,
+    "board_size_mm": [
+      19.0,
+      23.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "IR-Transponder-ATTiny85-v2_Transponder_v2.nodes",
+      "IR-Transponder-ATTiny85-v2_Transponder_v2.nets",
+      "IR-Transponder-ATTiny85-v2_Transponder_v2.pl",
+      "IR-Transponder-ATTiny85-v2_Transponder_v2.wts"
+    ]
+  },
+  {
+    "board": "ISO-port_ch340-usb-serial-isolated",
+    "num_components": 39,
+    "num_nets": 24,
+    "board_size_mm": [
+      50.0,
+      50.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "ISO-port_ch340-usb-serial-isolated.nodes",
+      "ISO-port_ch340-usb-serial-isolated.nets",
+      "ISO-port_ch340-usb-serial-isolated.pl",
+      "ISO-port_ch340-usb-serial-isolated.wts"
+    ]
+  },
+  {
+    "board": "KiCad-Like-a-Pro-Tutorial_proj2-sevensegment",
+    "num_components": 11,
+    "num_nets": 21,
+    "board_size_mm": [
+      45.97399999999999,
+      24.63799999999999
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "KiCad-Like-a-Pro-Tutorial_proj2-sevensegment.nodes",
+      "KiCad-Like-a-Pro-Tutorial_proj2-sevensegment.nets",
+      "KiCad-Like-a-Pro-Tutorial_proj2-sevensegment.pl",
+      "KiCad-Like-a-Pro-Tutorial_proj2-sevensegment.wts"
+    ]
+  },
+  {
+    "board": "LTC6812-15W",
+    "num_components": 279,
+    "num_nets": 264,
+    "board_size_mm": [
+      73.41500300000011,
+      117.35000000000002
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "LTC6812-15W.nodes",
+      "LTC6812-15W.nets",
+      "LTC6812-15W.pl",
+      "LTC6812-15W.wts"
+    ]
+  },
+  {
+    "board": "OLIMEX_ESP32-EVB_Rev_L",
+    "num_components": 167,
+    "num_nets": 119,
+    "board_size_mm": [
+      75.184,
+      74.676
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "OLIMEX_ESP32-EVB_Rev_L.nodes",
+      "OLIMEX_ESP32-EVB_Rev_L.nets",
+      "OLIMEX_ESP32-EVB_Rev_L.pl",
+      "OLIMEX_ESP32-EVB_Rev_L.wts"
+    ]
+  },
+  {
+    "board": "PDU_KR",
+    "num_components": 44,
+    "num_nets": 24,
+    "board_size_mm": [
+      104.17500000000005,
+      45.87500000000004
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "PDU_KR.nodes",
+      "PDU_KR.nets",
+      "PDU_KR.pl",
+      "PDU_KR.wts"
+    ]
+  },
+  {
+    "board": "RealTrouble_2016",
+    "num_components": 426,
+    "num_nets": 491,
+    "board_size_mm": [
+      0.0,
+      0.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "RealTrouble_2016.nodes",
+      "RealTrouble_2016.nets",
+      "RealTrouble_2016.pl"
+    ]
+  },
+  {
+    "board": "SuperTrouble2017",
+    "num_components": 450,
+    "num_nets": 605,
+    "board_size_mm": [
+      0.0,
+      0.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "SuperTrouble2017.nodes",
+      "SuperTrouble2017.nets",
+      "SuperTrouble2017.pl"
+    ]
+  },
+  {
+    "board": "SuperTrouble2017_rev",
+    "num_components": 460,
+    "num_nets": 728,
+    "board_size_mm": [
+      0.0,
+      0.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "SuperTrouble2017_rev.nodes",
+      "SuperTrouble2017_rev.nets",
+      "SuperTrouble2017_rev.pl"
+    ]
+  },
+  {
+    "board": "Usb_dac_dac",
+    "num_components": 91,
+    "num_nets": 55,
+    "board_size_mm": [
+      74.39999999999999,
+      99.60000000000001
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "Usb_dac_dac.nodes",
+      "Usb_dac_dac.nets",
+      "Usb_dac_dac.pl",
+      "Usb_dac_dac.wts"
+    ]
+  },
+  {
+    "board": "WeatherSpot_vreg_pressure",
+    "num_components": 6,
+    "num_nets": 5,
+    "board_size_mm": [
+      16.002499999999998,
+      14.010100000000008
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "WeatherSpot_vreg_pressure.nodes",
+      "WeatherSpot_vreg_pressure.nets",
+      "WeatherSpot_vreg_pressure.pl",
+      "WeatherSpot_vreg_pressure.wts"
+    ]
+  },
+  {
+    "board": "abus-cfa1000-display-grabber_acs-display-grabber",
+    "num_components": 43,
+    "num_nets": 55,
+    "board_size_mm": [
+      100.0,
+      100.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "abus-cfa1000-display-grabber_acs-display-grabber.nodes",
+      "abus-cfa1000-display-grabber_acs-display-grabber.nets",
+      "abus-cfa1000-display-grabber_acs-display-grabber.pl",
+      "abus-cfa1000-display-grabber_acs-display-grabber.wts"
+    ]
+  },
+  {
+    "board": "artix-dc-scm",
+    "num_components": 542,
+    "num_nets": 483,
+    "board_size_mm": [
+      90.0,
+      120.405
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "artix-dc-scm.nodes",
+      "artix-dc-scm.nets",
+      "artix-dc-scm.pl",
+      "artix-dc-scm.wts"
+    ]
+  },
+  {
+    "board": "ataradov_usb-sniffer-lite",
+    "num_components": 39,
+    "num_nets": 31,
+    "board_size_mm": [
+      43.434,
+      18.796
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "ataradov_usb-sniffer-lite.nodes",
+      "ataradov_usb-sniffer-lite.nets",
+      "ataradov_usb-sniffer-lite.pl",
+      "ataradov_usb-sniffer-lite.wts"
+    ]
+  },
+  {
+    "board": "bbb",
+    "num_components": 275,
+    "num_nets": 272,
+    "board_size_mm": [
+      83.43620625,
+      49.618900000000004
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "bbb.nodes",
+      "bbb.nets",
+      "bbb.pl",
+      "bbb.wts"
+    ]
+  },
+  {
+    "board": "bikedar_bikedar",
+    "num_components": 52,
+    "num_nets": 45,
+    "board_size_mm": [
+      50.0,
+      50.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "bikedar_bikedar.nodes",
+      "bikedar_bikedar.nets",
+      "bikedar_bikedar.pl",
+      "bikedar_bikedar.wts"
+    ]
+  },
+  {
+    "board": "carrier_template",
+    "num_components": 19,
+    "num_nets": 0,
+    "board_size_mm": [
+      50.0,
+      42.000000000000014
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "carrier_template.nodes",
+      "carrier_template.nets",
+      "carrier_template.pl",
+      "carrier_template.wts"
+    ]
+  },
+  {
+    "board": "covg_daq_v2",
+    "num_components": 596,
+    "num_nets": 496,
+    "board_size_mm": [
+      157.8,
+      95.2
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "covg_daq_v2.nodes",
+      "covg_daq_v2.nets",
+      "covg_daq_v2.pl",
+      "covg_daq_v2.wts"
+    ]
+  },
+  {
+    "board": "cvbs-mipi-bridge",
+    "num_components": 114,
+    "num_nets": 63,
+    "board_size_mm": [
+      54.999999999999986,
+      70.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "cvbs-mipi-bridge.nodes",
+      "cvbs-mipi-bridge.nets",
+      "cvbs-mipi-bridge.pl",
+      "cvbs-mipi-bridge.wts"
+    ]
+  },
+  {
+    "board": "ecp5-dc-scm",
+    "num_components": 504,
+    "num_nets": 452,
+    "board_size_mm": [
+      90.0,
+      120.4
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "ecp5-dc-scm.nodes",
+      "ecp5-dc-scm.nets",
+      "ecp5-dc-scm.pl",
+      "ecp5-dc-scm.wts"
+    ]
+  },
+  {
+    "board": "esp8266_wi07_3_adapter_esp",
+    "num_components": 5,
+    "num_nets": 9,
+    "board_size_mm": [
+      22.097999999999985,
+      21.463000000000008
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "esp8266_wi07_3_adapter_esp.nodes",
+      "esp8266_wi07_3_adapter_esp.nets",
+      "esp8266_wi07_3_adapter_esp.pl",
+      "esp8266_wi07_3_adapter_esp.wts"
+    ]
+  },
+  {
+    "board": "hardware-designs_cc430-debug-board",
+    "num_components": 14,
+    "num_nets": 33,
+    "board_size_mm": [
+      49.0,
+      36.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "hardware-designs_cc430-debug-board.nodes",
+      "hardware-designs_cc430-debug-board.nets",
+      "hardware-designs_cc430-debug-board.pl",
+      "hardware-designs_cc430-debug-board.wts"
+    ]
+  },
+  {
+    "board": "hardware-designs_energy-harvester",
+    "num_components": 18,
+    "num_nets": 14,
+    "board_size_mm": [
+      46.228,
+      15.747999999999998
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "hardware-designs_energy-harvester.nodes",
+      "hardware-designs_energy-harvester.nets",
+      "hardware-designs_energy-harvester.pl",
+      "hardware-designs_energy-harvester.wts"
+    ]
+  },
+  {
+    "board": "hardware-designs_nixie-power",
+    "num_components": 24,
+    "num_nets": 10,
+    "board_size_mm": [
+      49.0,
+      49.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "hardware-designs_nixie-power.nodes",
+      "hardware-designs_nixie-power.nets",
+      "hardware-designs_nixie-power.pl",
+      "hardware-designs_nixie-power.wts"
+    ]
+  },
+  {
+    "board": "hardware-designs_solar-harvester",
+    "num_components": 18,
+    "num_nets": 9,
+    "board_size_mm": [
+      46.228,
+      15.747999999999998
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "hardware-designs_solar-harvester.nodes",
+      "hardware-designs_solar-harvester.nets",
+      "hardware-designs_solar-harvester.pl",
+      "hardware-designs_solar-harvester.wts"
+    ]
+  },
+  {
+    "board": "kika-in-space_analog-test-board",
+    "num_components": 17,
+    "num_nets": 13,
+    "board_size_mm": [
+      31.495999999999995,
+      16.256
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "kika-in-space_analog-test-board.nodes",
+      "kika-in-space_analog-test-board.nets",
+      "kika-in-space_analog-test-board.pl",
+      "kika-in-space_analog-test-board.wts"
+    ]
+  },
+  {
+    "board": "kitspace_BalthazarPSU3",
+    "num_components": 82,
+    "num_nets": 50,
+    "board_size_mm": [
+      85.852,
+      25.39999999999999
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "kitspace_BalthazarPSU3.nodes",
+      "kitspace_BalthazarPSU3.nets",
+      "kitspace_BalthazarPSU3.pl",
+      "kitspace_BalthazarPSU3.wts"
+    ]
+  },
+  {
+    "board": "kitspace_Spikeling_ESP32",
+    "num_components": 39,
+    "num_nets": 34,
+    "board_size_mm": [
+      120.0,
+      80.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "kitspace_Spikeling_ESP32.nodes",
+      "kitspace_Spikeling_ESP32.nets",
+      "kitspace_Spikeling_ESP32.pl",
+      "kitspace_Spikeling_ESP32.wts"
+    ]
+  },
+  {
+    "board": "kitspace_USBI2C01",
+    "num_components": 26,
+    "num_nets": 24,
+    "board_size_mm": [
+      29.97200000000001,
+      40.13199999999999
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "kitspace_USBI2C01.nodes",
+      "kitspace_USBI2C01.nets",
+      "kitspace_USBI2C01.pl",
+      "kitspace_USBI2C01.wts"
+    ]
+  },
+  {
+    "board": "kitspace_solenoid_driver",
+    "num_components": 23,
+    "num_nets": 10,
+    "board_size_mm": [
+      45.5,
+      48.5
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "kitspace_solenoid_driver.nodes",
+      "kitspace_solenoid_driver.nets",
+      "kitspace_solenoid_driver.pl",
+      "kitspace_solenoid_driver.wts"
+    ]
+  },
+  {
+    "board": "kitspace_training_board",
+    "num_components": 73,
+    "num_nets": 58,
+    "board_size_mm": [
+      99.07999999999998,
+      99.08
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "kitspace_training_board.nodes",
+      "kitspace_training_board.nets",
+      "kitspace_training_board.pl",
+      "kitspace_training_board.wts"
+    ]
+  },
+  {
+    "board": "lpddr4-test-board",
+    "num_components": 493,
+    "num_nets": 325,
+    "board_size_mm": [
+      110.0,
+      90.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "lpddr4-test-board.nodes",
+      "lpddr4-test-board.nets",
+      "lpddr4-test-board.pl",
+      "lpddr4-test-board.wts"
+    ]
+  },
+  {
+    "board": "nsplace_bm9",
+    "num_components": 8,
+    "num_nets": 4,
+    "board_size_mm": [
+      20.497800000000012,
+      13.868399999999994
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "nsplace_bm9.nodes",
+      "nsplace_bm9.nets",
+      "nsplace_bm9.pl",
+      "nsplace_bm9.wts",
+      "bm9.routed.kicad_pcb"
+    ]
+  },
+  {
+    "board": "pcb-covox-amp-v2_pcb-covox-amp-v2",
+    "num_components": 57,
+    "num_nets": 45,
+    "board_size_mm": [
+      87.00000000000112,
+      56.00000000000112
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "pcb-covox-amp-v2_pcb-covox-amp-v2.nodes",
+      "pcb-covox-amp-v2_pcb-covox-amp-v2.nets",
+      "pcb-covox-amp-v2_pcb-covox-amp-v2.pl",
+      "pcb-covox-amp-v2_pcb-covox-amp-v2.wts"
+    ]
+  },
+  {
+    "board": "pcb-dataset-lite__PCBench__16x12-bits-I2C_I2C_Servo",
+    "num_components": 54,
+    "num_nets": 46,
+    "board_size_mm": [
+      73.66,
+      45.72
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "pcb-dataset-lite__PCBench__16x12-bits-I2C_I2C_Servo.nodes",
+      "pcb-dataset-lite__PCBench__16x12-bits-I2C_I2C_Servo.nets",
+      "pcb-dataset-lite__PCBench__16x12-bits-I2C_I2C_Servo.pl",
+      "pcb-dataset-lite__PCBench__16x12-bits-I2C_I2C_Servo.wts"
+    ]
+  },
+  {
+    "board": "pcb-dataset-lite__PCBench__8088_sbc2_pcb_8088_sbc2",
+    "num_components": 61,
+    "num_nets": 95,
+    "board_size_mm": [
+      200.0,
+      100.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "pcb-dataset-lite__PCBench__8088_sbc2_pcb_8088_sbc2.nodes",
+      "pcb-dataset-lite__PCBench__8088_sbc2_pcb_8088_sbc2.nets",
+      "pcb-dataset-lite__PCBench__8088_sbc2_pcb_8088_sbc2.pl",
+      "pcb-dataset-lite__PCBench__8088_sbc2_pcb_8088_sbc2.wts"
+    ]
+  },
+  {
+    "board": "quilter_test_LTC6812-15W",
+    "num_components": 227,
+    "num_nets": 213,
+    "board_size_mm": [
+      66.00000000000006,
+      91.19000000000017
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "quilter_test_LTC6812-15W.nodes",
+      "quilter_test_LTC6812-15W.nets",
+      "quilter_test_LTC6812-15W.pl",
+      "quilter_test_LTC6812-15W.wts"
+    ]
+  },
+  {
+    "board": "rp2040_debugger",
+    "num_components": 62,
+    "num_nets": 55,
+    "board_size_mm": [
+      57.00000000000004,
+      47.50000000000004
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "rp2040_debugger.nodes",
+      "rp2040_debugger.nets",
+      "rp2040_debugger.pl",
+      "rp2040_debugger.wts"
+    ]
+  },
+  {
+    "board": "s_example",
+    "num_components": 6,
+    "num_nets": 1,
+    "board_size_mm": [
+      5.0,
+      5.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "s_example.nodes",
+      "s_example.nets",
+      "s_example.pl",
+      "s_example.shapes"
+    ]
+  },
+  {
+    "board": "simple_example",
+    "num_components": 3,
+    "num_nets": 1,
+    "board_size_mm": [
+      13.459000000000001,
+      26.163999999999998
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "simple_example.nodes",
+      "simple_example.nets",
+      "simple_example.pl",
+      "simple_example.shapes"
+    ]
+  },
+  {
+    "board": "snake",
+    "num_components": 100,
+    "num_nets": 99,
+    "board_size_mm": [
+      0.0,
+      0.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "snake.nodes",
+      "snake.nets",
+      "snake.pl",
+      "snake.shapes"
+    ]
+  },
+  {
+    "board": "temp",
+    "num_components": 436,
+    "num_nets": 467,
+    "board_size_mm": [
+      0.0,
+      0.0
+    ],
+    "num_layers": 2,
+    "has_spacing_rules": false,
+    "original_files": [
+      "temp.nodes",
+      "temp.nets",
+      "temp.pl"
+    ]
+  }
+]

@@ -1,0 +1,1603 @@
+{
+  "name": "Debug_Adapter",
+  "origin": "unknown",
+  "board": {
+    "bbox_mm": [
+      126.49999999999945,
+      74.99999999999945,
+      166.00000000000063,
+      131.00000000000057
+    ],
+    "width_mm": 39.50000000000118,
+    "height_mm": 56.00000000000112,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 25,
+    "num_nets": 26,
+    "num_pins": 127
+  },
+  "components": [
+    {
+      "ref": "R6",
+      "internal_id": "R6",
+      "size_mm": [
+        1.86,
+        0.94
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "F2",
+      "internal_id": "F2",
+      "size_mm": [
+        6.26,
+        3.9
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C8",
+      "internal_id": "C8",
+      "size_mm": [
+        4.96,
+        3.2
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "D1",
+      "internal_id": "D1",
+      "size_mm": [
+        7.0,
+        3.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "D2",
+      "internal_id": "D2",
+      "size_mm": [
+        7.0,
+        3.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C3",
+      "internal_id": "C3",
+      "size_mm": [
+        2.16,
+        0.92
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R2",
+      "internal_id": "R2",
+      "size_mm": [
+        1.86,
+        0.94
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C1",
+      "internal_id": "C1",
+      "size_mm": [
+        2.16,
+        0.92
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C10",
+      "internal_id": "C10",
+      "size_mm": [
+        4.96,
+        3.2
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J6",
+      "internal_id": "J6",
+      "size_mm": [
+        10.74,
+        5.555
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R4",
+      "internal_id": "R4",
+      "size_mm": [
+        1.86,
+        0.94
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "F1",
+      "internal_id": "F1",
+      "size_mm": [
+        6.24,
+        3.9
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C5",
+      "internal_id": "C5",
+      "size_mm": [
+        2.16,
+        0.92
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C2",
+      "internal_id": "C2",
+      "size_mm": [
+        2.16,
+        0.92
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C9",
+      "internal_id": "C9",
+      "size_mm": [
+        4.96,
+        3.2
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R3",
+      "internal_id": "R3",
+      "size_mm": [
+        1.86,
+        0.94
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J3",
+      "internal_id": "J3",
+      "size_mm": [
+        9.0,
+        0.61
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J7",
+      "internal_id": "J7",
+      "size_mm": [
+        10.74,
+        5.555
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J2",
+      "internal_id": "J2",
+      "size_mm": [
+        10.74,
+        5.555
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R7",
+      "internal_id": "R7",
+      "size_mm": [
+        1.86,
+        0.94
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C7",
+      "internal_id": "C7",
+      "size_mm": [
+        4.96,
+        3.2
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "U1",
+      "internal_id": "U1",
+      "size_mm": [
+        6.9,
+        5.65
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R5",
+      "internal_id": "R5",
+      "size_mm": [
+        1.86,
+        0.94
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C4",
+      "internal_id": "C4",
+      "size_mm": [
+        2.16,
+        0.92
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "J5",
+      "internal_id": "J5",
+      "size_mm": [
+        21.0,
+        0.61
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "+5VP",
+      "degree": 13,
+      "connections": [
+        {
+          "ref": "R6",
+          "internal_id": "R6",
+          "offset_mm": [
+            -0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "F2",
+          "internal_id": "F2",
+          "offset_mm": [
+            2.225,
+            0.0
+          ]
+        },
+        {
+          "ref": "C8",
+          "internal_id": "C8",
+          "offset_mm": [
+            1.5625,
+            0.0
+          ]
+        },
+        {
+          "ref": "D2",
+          "internal_id": "D2",
+          "offset_mm": [
+            -2.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "C10",
+          "internal_id": "C10",
+          "offset_mm": [
+            1.5625,
+            0.0
+          ]
+        },
+        {
+          "ref": "C9",
+          "internal_id": "C9",
+          "offset_mm": [
+            1.5625,
+            0.0
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "R7",
+          "internal_id": "R7",
+          "offset_mm": [
+            -0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            8.5,
+            -0.0
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            9.5,
+            -0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_J7-CC1_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R6",
+          "internal_id": "R6",
+          "offset_mm": [
+            0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -1.25,
+            -2.4775
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_F2-Pad1_",
+      "degree": 5,
+      "connections": [
+        {
+          "ref": "F2",
+          "internal_id": "F2",
+          "offset_mm": [
+            -2.225,
+            0.0
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -2.4,
+            -2.4775
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GND",
+      "degree": 49,
+      "connections": [
+        {
+          "ref": "C8",
+          "internal_id": "C8",
+          "offset_mm": [
+            -1.5625,
+            0.0
+          ]
+        },
+        {
+          "ref": "D1",
+          "internal_id": "D1",
+          "offset_mm": [
+            2.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "D2",
+          "internal_id": "D2",
+          "offset_mm": [
+            2.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "C3",
+          "internal_id": "C3",
+          "offset_mm": [
+            -0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "R2",
+          "internal_id": "R2",
+          "offset_mm": [
+            -0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "C1",
+          "internal_id": "C1",
+          "offset_mm": [
+            -0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "C10",
+          "internal_id": "C10",
+          "offset_mm": [
+            -1.5625,
+            0.0
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "R4",
+          "internal_id": "R4",
+          "offset_mm": [
+            -0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "C5",
+          "internal_id": "C5",
+          "offset_mm": [
+            -0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "C2",
+          "internal_id": "C2",
+          "offset_mm": [
+            -0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "C9",
+          "internal_id": "C9",
+          "offset_mm": [
+            -1.5625,
+            0.0
+          ]
+        },
+        {
+          "ref": "R3",
+          "internal_id": "R3",
+          "offset_mm": [
+            -0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            -3.5,
+            0.0
+          ]
+        },
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            6.49,
+            2.8
+          ]
+        },
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            6.49,
+            2.8
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -3.2,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            4.32,
+            2.2775
+          ]
+        },
+        {
+          "ref": "C7",
+          "internal_id": "C7",
+          "offset_mm": [
+            -1.5625,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.6,
+            -2.1975
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.6,
+            -0.9275
+          ]
+        },
+        {
+          "ref": "R5",
+          "internal_id": "R5",
+          "offset_mm": [
+            -0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "C4",
+          "internal_id": "C4",
+          "offset_mm": [
+            -0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            -9.5,
+            -0.0
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            -8.5,
+            -0.0
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            -7.5,
+            -0.0
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            12.49,
+            -2.8
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            12.49,
+            -2.8
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+5V",
+      "degree": 6,
+      "connections": [
+        {
+          "ref": "D1",
+          "internal_id": "D1",
+          "offset_mm": [
+            -2.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "C1",
+          "internal_id": "C1",
+          "offset_mm": [
+            0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "F1",
+          "internal_id": "F1",
+          "offset_mm": [
+            2.225,
+            0.0
+          ]
+        },
+        {
+          "ref": "C2",
+          "internal_id": "C2",
+          "offset_mm": [
+            0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "C7",
+          "internal_id": "C7",
+          "offset_mm": [
+            1.5625,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.6,
+            1.6125
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_U1-VDDA_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "C3",
+          "internal_id": "C3",
+          "offset_mm": [
+            0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.6,
+            -0.2925
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_J2-CC1_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R2",
+          "internal_id": "R2",
+          "offset_mm": [
+            0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -1.25,
+            -2.4775
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_J6-CC1_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -1.25,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "R4",
+          "internal_id": "R4",
+          "offset_mm": [
+            0.51,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_DBG_D+",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -0.25,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            0.75,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            5.5,
+            -0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_DBG_D-",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            0.25,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            -0.75,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            6.5,
+            -0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_J6-CC2_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J6",
+          "internal_id": "J6",
+          "offset_mm": [
+            1.75,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "R5",
+          "internal_id": "R5",
+          "offset_mm": [
+            0.51,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_F1-Pad1_",
+      "degree": 5,
+      "connections": [
+        {
+          "ref": "F1",
+          "internal_id": "F1",
+          "offset_mm": [
+            -2.225,
+            0.0
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            2.4,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -2.4,
+            -2.4775
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SD_VSS",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "C5",
+          "internal_id": "C5",
+          "offset_mm": [
+            0.5675,
+            0.0
+          ]
+        },
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            3.5,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.6,
+            2.2475
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_J2-CC2_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "R3",
+          "internal_id": "R3",
+          "offset_mm": [
+            0.51,
+            0.0
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            1.75,
+            -2.4775
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SDC0_D1",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            -2.5,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.6,
+            -1.5625
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SDC0_D0",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            -1.5,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.6,
+            -0.9275
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SD_CLK",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            -0.5,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.6,
+            -0.2925
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SDC0_CMD",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            0.5,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.6,
+            0.3425
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SDC0_D3",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            1.5,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.6,
+            0.9775
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SDC0_D2",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J3",
+          "internal_id": "J3",
+          "offset_mm": [
+            2.5,
+            0.0
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -2.6,
+            1.6125
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_AUX_D+",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -0.25,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            0.75,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            1.5,
+            -0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_AUX_D-",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            0.25,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            -0.75,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J5",
+          "internal_id": "J5",
+          "offset_mm": [
+            2.5,
+            -0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_J7-CC2_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "J7",
+          "internal_id": "J7",
+          "offset_mm": [
+            1.75,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "R7",
+          "internal_id": "R7",
+          "offset_mm": [
+            0.51,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_D+",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -0.25,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            0.75,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.6,
+            -1.5625
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_D-",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            0.25,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "J2",
+          "internal_id": "J2",
+          "offset_mm": [
+            -0.75,
+            -2.4775
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.6,
+            -2.1975
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_U1-VDD_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            2.6,
+            2.2475
+          ]
+        },
+        {
+          "ref": "C4",
+          "internal_id": "C4",
+          "offset_mm": [
+            0.5675,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

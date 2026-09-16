@@ -1,0 +1,173 @@
+{
+  "name": "s_example",
+  "origin": "sa_pcb",
+  "board": {
+    "bbox_mm": [
+      0.0,
+      0.0,
+      5.0,
+      5.0
+    ],
+    "width_mm": 5.0,
+    "height_mm": 5.0,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 6,
+    "num_nets": 1,
+    "num_pins": 5
+  },
+  "components": [
+    {
+      "ref": "C1",
+      "internal_id": "C1",
+      "size_mm": [
+        4.5,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C2",
+      "internal_id": "C2",
+      "size_mm": [
+        1.0,
+        1.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C10",
+      "internal_id": "C10",
+      "size_mm": [
+        5.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 5.0,
+        "y_mm": 0.0,
+        "orientation": "NE"
+      }
+    },
+    {
+      "ref": "C100",
+      "internal_id": "C100",
+      "size_mm": [
+        2.0,
+        5.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 5.0,
+        "orientation": "NW"
+      }
+    },
+    {
+      "ref": "C101",
+      "internal_id": "C101",
+      "size_mm": [
+        2.0,
+        5.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 5.0,
+        "y_mm": 5.0,
+        "orientation": "NE"
+      }
+    },
+    {
+      "ref": "C102",
+      "internal_id": "C102",
+      "size_mm": [
+        5.0,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.0,
+        "y_mm": 0.0,
+        "orientation": "SE"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "net0",
+      "degree": 5,
+      "connections": [
+        {
+          "ref": "C1",
+          "internal_id": "C1",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "C10",
+          "internal_id": "C10",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "C100",
+          "internal_id": "C100",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "C101",
+          "internal_id": "C101",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "C102",
+          "internal_id": "C102",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

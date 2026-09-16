@@ -1,0 +1,44 @@
+UCLA nodes 1.0
+
+NumNodes : 39
+NumTerminals : 0
+
+	Spike_LED	8.6400	6.5000
+	Mode6	4.8500	4.5000
+	Mode1	4.8500	4.5000
+	10k__SW_pull-down	12.2600	3.0000
+	Stim-Strength	14.4000	13.3000
+	Noise	14.4000	13.3000
+	Synapse_In_1	10.5240	11.4860
+	Synapse_Out	10.5240	11.4860
+	Synapse_1_Gain	14.4000	13.3000
+	Mode3	4.8500	4.5000
+	Voltage_Membrane	14.4000	13.3000
+	100__Stim-LED	12.2600	3.0000
+	Stimulus_Out	11.2860	10.7240
+	Mode10	4.8500	4.5000
+	Mode8	4.8500	4.5000
+	50__CharliePlex4	12.2600	3.0000
+	Mode12	4.8500	4.5000
+	Mode11	4.8500	4.5000
+	Mode9	4.8500	4.5000
+	10__RC	12.2600	3.0000
+	Photodiode	4.3400	1.8000
+	Stim-Frequency	14.4000	13.3000
+	Synapse_2_Gain	14.4000	13.3000
+	Synapse_in_2	10.5240	11.4860
+	Mode2	4.8500	4.5000
+	Mode4	4.8500	4.5000
+	Current_In	11.2860	10.7240
+	50__CharliePlex3	12.2600	3.0000
+	10k__PD_pull-down	12.2600	3.0000
+	Photodiode_Gain	1.8000	6.8000
+	1nF_RC	4.5000	4.5000
+	50__CharliePlex2	12.2600	3.0000
+	100__Spike_LED	12.2600	3.0000
+	Spike_Buzzer	12.5000	12.5000
+	50__CharliePlex1	12.2600	3.0000
+	Mode_Button	9.5000	7.5000
+	ESP32-WROOM_dev_module	28.4000	54.9000
+	Mode7	4.8500	4.5000
+	Mode5	4.8500	4.5000

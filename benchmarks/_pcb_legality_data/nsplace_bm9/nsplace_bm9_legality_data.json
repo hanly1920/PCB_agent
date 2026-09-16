@@ -1,0 +1,375 @@
+{
+  "name": "nsplace_bm9",
+  "origin": "unknown",
+  "board": {
+    "bbox_mm": [
+      138.2522,
+      98.0694,
+      158.75,
+      111.9378
+    ],
+    "width_mm": 20.497800000000012,
+    "height_mm": 13.868399999999994,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 8,
+    "num_nets": 4,
+    "num_pins": 24
+  },
+  "components": [
+    {
+      "ref": "U1",
+      "internal_id": "U1",
+      "size_mm": [
+        3.2,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 11.3538,
+        "y_mm": 2.794,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "U2",
+      "internal_id": "U2",
+      "size_mm": [
+        3.2,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 13.6144,
+        "y_mm": 2.794,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "U3",
+      "internal_id": "U3",
+      "size_mm": [
+        3.2,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 2.3114,
+        "y_mm": 7.1628,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "U4",
+      "internal_id": "U4",
+      "size_mm": [
+        3.2,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 4.5466,
+        "y_mm": 2.6162,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "U5",
+      "internal_id": "U5",
+      "size_mm": [
+        4.548,
+        5.466
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 6.8072,
+        "y_mm": 7.1374,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "U6",
+      "internal_id": "U6",
+      "size_mm": [
+        3.0,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 11.2268,
+        "y_mm": 10.541,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "U7",
+      "internal_id": "U7",
+      "size_mm": [
+        3.0,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 13.4874,
+        "y_mm": 10.5156,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "U8",
+      "internal_id": "U8",
+      "size_mm": [
+        10.668,
+        1.524
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 17.8308,
+        "y_mm": 6.8326,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "GND",
+      "degree": 11,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            0.95,
+            0.0
+          ]
+        },
+        {
+          "ref": "U2",
+          "internal_id": "U2",
+          "offset_mm": [
+            0.95,
+            0.0
+          ]
+        },
+        {
+          "ref": "U4",
+          "internal_id": "U4",
+          "offset_mm": [
+            -0.95,
+            0.0
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            -0.75,
+            -2.129
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            -0.25,
+            -2.129
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            -2.129,
+            1.25
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            -2.129,
+            0.75
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            -2.129,
+            0.25
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            -2.129,
+            -0.25
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            -2.129,
+            -0.75
+          ]
+        },
+        {
+          "ref": "U8",
+          "internal_id": "U8",
+          "offset_mm": [
+            3.81,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "VDD",
+      "degree": 9,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -0.95,
+            0.0
+          ]
+        },
+        {
+          "ref": "U2",
+          "internal_id": "U2",
+          "offset_mm": [
+            -0.95,
+            0.0
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            2.129,
+            -1.25
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            2.129,
+            -0.75
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            2.129,
+            -0.25
+          ]
+        },
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            2.129,
+            0.25
+          ]
+        },
+        {
+          "ref": "U6",
+          "internal_id": "U6",
+          "offset_mm": [
+            0.85,
+            0.0
+          ]
+        },
+        {
+          "ref": "U7",
+          "internal_id": "U7",
+          "offset_mm": [
+            0.85,
+            0.0
+          ]
+        },
+        {
+          "ref": "U8",
+          "internal_id": "U8",
+          "offset_mm": [
+            -3.81,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SDA",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            -1.25,
+            -2.129
+          ]
+        },
+        {
+          "ref": "U8",
+          "internal_id": "U8",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_SCL",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "U5",
+          "internal_id": "U5",
+          "offset_mm": [
+            0.25,
+            -2.129
+          ]
+        },
+        {
+          "ref": "U8",
+          "internal_id": "U8",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

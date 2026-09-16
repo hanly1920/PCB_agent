@@ -1,0 +1,107 @@
+{
+ "name": "WeatherSpot_vreg_pressure",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\WeatherSpot_vreg_pressure.json",
+ "board_bbox_mm": [
+  133.9464,
+  97.4344,
+  149.9489,
+  111.4445
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 6,
+  "num_nets": 5,
+  "num_pins": 17,
+  "board_w_mm": 16.002499999999998,
+  "board_h_mm": 14.010100000000008
+ },
+ "ispd": {
+  "num_nodes": 6,
+  "num_nets": 5,
+  "num_pins": 17,
+  "scale": 10,
+  "board_w_mm": 16.002499999999998,
+  "board_h_mm": 14.010100000000008
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "C3",
+   "size_mm": [
+    2.3,
+    1.2
+   ],
+   "expert_xy_mm": [
+    142.9004,
+    106.8705
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "C4",
+   "size_mm": [
+    2.3,
+    1.2
+   ],
+   "expert_xy_mm": [
+    146.9644,
+    108.1405
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "C5",
+   "size_mm": [
+    2.3,
+    1.2
+   ],
+   "expert_xy_mm": [
+    145.1864,
+    108.1405
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "conn1",
+   "size_mm": [
+    9.219999999999999,
+    1.6
+   ],
+   "expert_xy_mm": [
+    140.7414,
+    100.3935
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "U1",
+   "size_mm": [
+    3.0,
+    4.300000000000001
+   ],
+   "expert_xy_mm": [
+    138.8204,
+    106.7735
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "VIA_HOME_ETCH",
+   "size_mm": [
+    1.6,
+    1.6
+   ],
+   "expert_xy_mm": [
+    146.4464,
+    104.4445
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  }
+ }
+}

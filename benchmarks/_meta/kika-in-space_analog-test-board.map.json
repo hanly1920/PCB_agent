@@ -1,0 +1,250 @@
+{
+ "name": "kika-in-space_analog-test-board",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\kika-in-space_analog-test-board.json",
+ "board_bbox_mm": [
+  121.92,
+  74.168,
+  153.416,
+  90.424
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 17,
+  "num_nets": 13,
+  "num_pins": 43,
+  "board_w_mm": 31.495999999999995,
+  "board_h_mm": 16.256
+ },
+ "ispd": {
+  "num_nodes": 17,
+  "num_nets": 13,
+  "num_pins": 43,
+  "scale": 10,
+  "board_w_mm": 31.495999999999995,
+  "board_h_mm": 16.256
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "C1",
+   "size_mm": [
+    4.5974,
+    1.6002000000000003
+   ],
+   "expert_xy_mm": [
+    127.762,
+    79.0194
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "C2",
+   "size_mm": [
+    3.20548,
+    1.4986
+   ],
+   "expert_xy_mm": [
+    133.096,
+    77.2414
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "C3",
+   "size_mm": [
+    4.3942000000000005,
+    1.8034000000000001
+   ],
+   "expert_xy_mm": [
+    138.43,
+    82.0674
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "C4",
+   "size_mm": [
+    3.20548,
+    1.4986
+   ],
+   "expert_xy_mm": [
+    143.764,
+    77.2414
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "P1",
+   "size_mm": [
+    2.0320000000000005,
+    4.572
+   ],
+   "expert_xy_mm": [
+    124.46,
+    86.1314
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "P2",
+   "size_mm": [
+    2.0320000000000005,
+    4.572
+   ],
+   "expert_xy_mm": [
+    124.46,
+    79.0194
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "P3",
+   "size_mm": [
+    2.032,
+    4.572
+   ],
+   "expert_xy_mm": [
+    150.444,
+    79.78139999999999
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "R1",
+   "size_mm": [
+    3.20548,
+    1.4986
+   ],
+   "expert_xy_mm": [
+    128.524,
+    84.8614
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "R2",
+   "size_mm": [
+    3.20548,
+    1.4986
+   ],
+   "expert_xy_mm": [
+    133.096,
+    82.0674
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "R3",
+   "size_mm": [
+    3.4036,
+    1.3004800000000003
+   ],
+   "expert_xy_mm": [
+    136.144,
+    78.2574
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "R4",
+   "size_mm": [
+    3.4036,
+    1.3004800000000003
+   ],
+   "expert_xy_mm": [
+    139.852,
+    79.0194
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "R5",
+   "size_mm": [
+    3.4036,
+    1.1000000000000003
+   ],
+   "expert_xy_mm": [
+    147.218,
+    82.0166
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "R6",
+   "size_mm": [
+    3.005,
+    1.4986
+   ],
+   "expert_xy_mm": [
+    143.764,
+    82.0674
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "R7",
+   "size_mm": [
+    3.4036,
+    1.3004800000000003
+   ],
+   "expert_xy_mm": [
+    146.812,
+    78.2574
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "RV1",
+   "size_mm": [
+    1.8000000000000003,
+    6.880000000000001
+   ],
+   "expert_xy_mm": [
+    143.256,
+    86.3854
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "U1",
+   "size_mm": [
+    2.0208,
+    2.4384
+   ],
+   "expert_xy_mm": [
+    133.096,
+    79.5274
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "U2",
+   "size_mm": [
+    2.0208,
+    2.4384
+   ],
+   "expert_xy_mm": [
+    143.764,
+    79.5274
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  }
+ }
+}

@@ -1,0 +1,545 @@
+{
+  "name": "IR-Transponder-ATTiny85-v2_Transponder_v2",
+  "origin": "unknown",
+  "board": {
+    "bbox_mm": [
+      100.0,
+      100.0,
+      119.0,
+      123.0
+    ],
+    "width_mm": 19.0,
+    "height_mm": 23.0,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 12,
+    "num_nets": 11,
+    "num_pins": 32
+  },
+  "components": [
+    {
+      "ref": "U1",
+      "internal_id": "U1",
+      "size_mm": [
+        3.6,
+        3.2
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 6.0,
+        "y_mm": 19.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "D1",
+      "internal_id": "D1",
+      "size_mm": [
+        6.0,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 14.75,
+        "y_mm": 3.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "IC1",
+      "internal_id": "IC1",
+      "size_mm": [
+        10.4,
+        12.55
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 6.3,
+        "y_mm": 10.825,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "P1",
+      "internal_id": "P1",
+      "size_mm": [
+        2.032,
+        4.572
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 14.23,
+        "y_mm": 20.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Q1",
+      "internal_id": "Q1",
+      "size_mm": [
+        3.3,
+        3.2
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 15.0,
+        "y_mm": 15.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "X1",
+      "internal_id": "X1",
+      "size_mm": [
+        2.8,
+        2.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 4.0,
+        "y_mm": 2.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R2",
+      "internal_id": "R2",
+      "size_mm": [
+        4.4,
+        3.2
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 15.0,
+        "y_mm": 8.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C1",
+      "internal_id": "C1",
+      "size_mm": [
+        2.9,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 9.5,
+        "y_mm": 19.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "C2",
+      "internal_id": "C2",
+      "size_mm": [
+        2.9,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 2.5,
+        "y_mm": 19.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "D2",
+      "internal_id": "D2",
+      "size_mm": [
+        2.8,
+        1.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 10.0,
+        "y_mm": 2.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R1",
+      "internal_id": "R1",
+      "size_mm": [
+        2.6,
+        1.6
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 14.0,
+        "y_mm": 12.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "R3",
+      "internal_id": "R3",
+      "size_mm": [
+        2.6,
+        1.6
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 8.0,
+        "y_mm": 2.5,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "Net-_C1-Pad1_",
+      "degree": 4,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -1.1,
+            -0.95
+          ]
+        },
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -1.1,
+            0.95
+          ]
+        },
+        {
+          "ref": "P1",
+          "internal_id": "P1",
+          "offset_mm": [
+            0.0,
+            1.27
+          ]
+        },
+        {
+          "ref": "C1",
+          "internal_id": "C1",
+          "offset_mm": [
+            -0.75,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GND",
+      "degree": 8,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            -1.1,
+            0.0
+          ]
+        },
+        {
+          "ref": "IC1",
+          "internal_id": "IC1",
+          "offset_mm": [
+            -3.8,
+            3.795
+          ]
+        },
+        {
+          "ref": "P1",
+          "internal_id": "P1",
+          "offset_mm": [
+            0.0,
+            -1.27
+          ]
+        },
+        {
+          "ref": "Q1",
+          "internal_id": "Q1",
+          "offset_mm": [
+            0.95,
+            1.0008
+          ]
+        },
+        {
+          "ref": "X1",
+          "internal_id": "X1",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "C1",
+          "internal_id": "C1",
+          "offset_mm": [
+            0.75,
+            0.0
+          ]
+        },
+        {
+          "ref": "C2",
+          "internal_id": "C2",
+          "offset_mm": [
+            0.75,
+            0.0
+          ]
+        },
+        {
+          "ref": "R3",
+          "internal_id": "R3",
+          "offset_mm": [
+            0.75,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+5V",
+      "degree": 4,
+      "connections": [
+        {
+          "ref": "U1",
+          "internal_id": "U1",
+          "offset_mm": [
+            1.1,
+            -0.95
+          ]
+        },
+        {
+          "ref": "D1",
+          "internal_id": "D1",
+          "offset_mm": [
+            1.7,
+            0.0
+          ]
+        },
+        {
+          "ref": "IC1",
+          "internal_id": "IC1",
+          "offset_mm": [
+            3.82,
+            -3.825
+          ]
+        },
+        {
+          "ref": "C2",
+          "internal_id": "C2",
+          "offset_mm": [
+            -0.75,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_D1-Pad1_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "D1",
+          "internal_id": "D1",
+          "offset_mm": [
+            -1.7,
+            0.0
+          ]
+        },
+        {
+          "ref": "R2",
+          "internal_id": "R2",
+          "offset_mm": [
+            -1.45,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_IC1-Pad2_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "IC1",
+          "internal_id": "IC1",
+          "offset_mm": [
+            -3.8,
+            -1.285
+          ]
+        },
+        {
+          "ref": "X1",
+          "internal_id": "X1",
+          "offset_mm": [
+            -1.2,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_IC1-Pad3_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "IC1",
+          "internal_id": "IC1",
+          "offset_mm": [
+            -3.8,
+            1.255
+          ]
+        },
+        {
+          "ref": "X1",
+          "internal_id": "X1",
+          "offset_mm": [
+            1.2,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PB1",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "IC1",
+          "internal_id": "IC1",
+          "offset_mm": [
+            3.82,
+            1.255
+          ]
+        },
+        {
+          "ref": "R1",
+          "internal_id": "R1",
+          "offset_mm": [
+            -0.75,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PB2",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "IC1",
+          "internal_id": "IC1",
+          "offset_mm": [
+            3.82,
+            -1.285
+          ]
+        },
+        {
+          "ref": "D2",
+          "internal_id": "D2",
+          "offset_mm": [
+            0.7493,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_Q1-Pad1_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Q1",
+          "internal_id": "Q1",
+          "offset_mm": [
+            -0.95,
+            1.0008
+          ]
+        },
+        {
+          "ref": "R1",
+          "internal_id": "R1",
+          "offset_mm": [
+            0.75,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_Q1-Pad3_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Q1",
+          "internal_id": "Q1",
+          "offset_mm": [
+            0.0,
+            -0.9982
+          ]
+        },
+        {
+          "ref": "R2",
+          "internal_id": "R2",
+          "offset_mm": [
+            1.45,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_D2-Pad1_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "D2",
+          "internal_id": "D2",
+          "offset_mm": [
+            -0.7493,
+            0.0
+          ]
+        },
+        {
+          "ref": "R3",
+          "internal_id": "R3",
+          "offset_mm": [
+            -0.75,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

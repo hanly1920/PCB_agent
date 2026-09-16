@@ -1,0 +1,94 @@
+{
+ "name": "esp8266_wi07_3_adapter_esp",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\infer\\esp8266_wi07_3_adapter_esp.json",
+ "board_bbox_mm": [
+  132.842,
+  76.327,
+  154.94,
+  97.79
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 5,
+  "num_nets": 9,
+  "num_pins": 24,
+  "board_w_mm": 22.097999999999985,
+  "board_h_mm": 21.463000000000008
+ },
+ "ispd": {
+  "num_nodes": 5,
+  "num_nets": 9,
+  "num_pins": 24,
+  "scale": 10,
+  "board_w_mm": 22.097999999999985,
+  "board_h_mm": 21.463000000000008
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "P1",
+   "size_mm": [
+    2.032,
+    9.3472
+   ],
+   "expert_xy_mm": [
+    134.62,
+    88.392
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "P2",
+   "size_mm": [
+    2.032,
+    9.3472
+   ],
+   "expert_xy_mm": [
+    153.035,
+    88.646
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "R1",
+   "size_mm": [
+    6.6,
+    2.4
+   ],
+   "expert_xy_mm": [
+    138.303,
+    96.012
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "SW1",
+   "size_mm": [
+    10.1,
+    3.0
+   ],
+   "expert_xy_mm": [
+    147.574,
+    96.134
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "U1",
+   "size_mm": [
+    14.2,
+    13.0
+   ],
+   "expert_xy_mm": [
+    143.918,
+    87.11500000000001
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  }
+ }
+}

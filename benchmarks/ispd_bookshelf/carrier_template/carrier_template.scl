@@ -1,0 +1,184 @@
+UCLA scl 1.0
+
+NumRows : 20
+
+CoreRow Horizontal
+  Coordinate    :   0
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   21
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   42
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   63
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   84
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   105
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   126
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   147
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   168
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   189
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   210
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   231
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   252
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   273
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   294
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   315
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   336
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   357
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   378
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End
+CoreRow Horizontal
+  Coordinate    :   399
+  Height        :   21
+  Sitewidth     :    1
+  Sitespacing   :    1
+  Siteorient    :    1
+  Sitesymmetry  :    1
+  SubrowOrigin  :    0	NumSites  :  500
+End

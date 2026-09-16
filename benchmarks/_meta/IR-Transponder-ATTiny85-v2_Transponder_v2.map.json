@@ -1,0 +1,185 @@
+{
+ "name": "IR-Transponder-ATTiny85-v2_Transponder_v2",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\IR-Transponder-ATTiny85-v2_Transponder_v2.json",
+ "board_bbox_mm": [
+  100.0,
+  100.0,
+  119.0,
+  123.0
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 12,
+  "num_nets": 11,
+  "num_pins": 32,
+  "board_w_mm": 19.0,
+  "board_h_mm": 23.0
+ },
+ "ispd": {
+  "num_nodes": 12,
+  "num_nets": 11,
+  "num_pins": 32,
+  "scale": 10,
+  "board_w_mm": 19.0,
+  "board_h_mm": 23.0
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "U1",
+   "size_mm": [
+    3.6,
+    3.2
+   ],
+   "expert_xy_mm": [
+    106.0,
+    119.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "D1",
+   "size_mm": [
+    6.0,
+    4.5
+   ],
+   "expert_xy_mm": [
+    114.75,
+    103.5
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "IC1",
+   "size_mm": [
+    10.4,
+    12.55
+   ],
+   "expert_xy_mm": [
+    106.3,
+    110.825
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "P1",
+   "size_mm": [
+    2.032,
+    4.572
+   ],
+   "expert_xy_mm": [
+    114.23,
+    120.0
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "Q1",
+   "size_mm": [
+    3.3,
+    3.2
+   ],
+   "expert_xy_mm": [
+    115.0,
+    115.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "X1",
+   "size_mm": [
+    2.8,
+    2.0
+   ],
+   "expert_xy_mm": [
+    104.0,
+    102.5
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "R2",
+   "size_mm": [
+    4.4,
+    3.2
+   ],
+   "expert_xy_mm": [
+    115.0,
+    108.5
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "C1",
+   "size_mm": [
+    2.9,
+    1.5
+   ],
+   "expert_xy_mm": [
+    109.5,
+    119.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "C2",
+   "size_mm": [
+    2.9,
+    1.5
+   ],
+   "expert_xy_mm": [
+    102.5,
+    119.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "D2",
+   "size_mm": [
+    2.8,
+    1.5
+   ],
+   "expert_xy_mm": [
+    110.0,
+    102.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "R1",
+   "size_mm": [
+    2.6,
+    1.6
+   ],
+   "expert_xy_mm": [
+    114.0,
+    112.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "R3",
+   "size_mm": [
+    2.6,
+    1.6
+   ],
+   "expert_xy_mm": [
+    108.0,
+    102.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  }
+ }
+}

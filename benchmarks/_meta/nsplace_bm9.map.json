@@ -1,0 +1,133 @@
+{
+ "name": "nsplace_bm9",
+ "source_json": "E:\\claude_workspace\\benchmarks\\_kicad_json\\nsplace_bm9.json",
+ "board_bbox_mm": [
+  138.2522,
+  98.0694,
+  158.75,
+  111.9378
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 8,
+  "num_nets": 4,
+  "num_pins": 24,
+  "board_w_mm": 20.497800000000012,
+  "board_h_mm": 13.868399999999994
+ },
+ "ispd": {
+  "num_nodes": 8,
+  "num_nets": 4,
+  "num_pins": 24,
+  "scale": 10,
+  "board_w_mm": 20.497800000000012,
+  "board_h_mm": 13.868399999999994
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "U1",
+   "size_mm": [
+    3.2,
+    1.5
+   ],
+   "expert_xy_mm": [
+    149.606,
+    100.8634
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "U2",
+   "size_mm": [
+    3.2,
+    1.5
+   ],
+   "expert_xy_mm": [
+    151.8666,
+    100.8634
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "U3",
+   "size_mm": [
+    3.2,
+    1.5
+   ],
+   "expert_xy_mm": [
+    140.5636,
+    105.2322
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "U4",
+   "size_mm": [
+    3.2,
+    1.5
+   ],
+   "expert_xy_mm": [
+    142.7988,
+    100.6856
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "U5",
+   "size_mm": [
+    4.548,
+    5.466
+   ],
+   "expert_xy_mm": [
+    145.0594,
+    105.2068
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "U6",
+   "size_mm": [
+    3.0,
+    1.5
+   ],
+   "expert_xy_mm": [
+    149.479,
+    108.6104
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "U7",
+   "size_mm": [
+    3.0,
+    1.5
+   ],
+   "expert_xy_mm": [
+    151.7396,
+    108.585
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "U8",
+   "size_mm": [
+    10.668,
+    1.524
+   ],
+   "expert_xy_mm": [
+    156.083,
+    104.902
+   ],
+   "expert_rot": -90.0,
+   "fixed": true
+  }
+ }
+}

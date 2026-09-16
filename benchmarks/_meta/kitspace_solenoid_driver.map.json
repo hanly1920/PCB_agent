@@ -1,0 +1,328 @@
+{
+ "name": "kitspace_solenoid_driver",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\kitspace_solenoid_driver.json",
+ "board_bbox_mm": [
+  112.0,
+  80.5,
+  157.5,
+  129.0
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 23,
+  "num_nets": 10,
+  "num_pins": 41,
+  "board_w_mm": 45.5,
+  "board_h_mm": 48.5
+ },
+ "ispd": {
+  "num_nodes": 23,
+  "num_nets": 10,
+  "num_pins": 41,
+  "scale": 10,
+  "board_w_mm": 45.5,
+  "board_h_mm": 48.5
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "J1",
+   "size_mm": [
+    9.45,
+    1.7000000000000004
+   ],
+   "expert_xy_mm": [
+    116.975,
+    95.123
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "R1",
+   "size_mm": [
+    13.5,
+    4.5
+   ],
+   "expert_xy_mm": [
+    140.5,
+    120.5
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "REF**",
+   "size_mm": [
+    2.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    125.0,
+    113.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "D1",
+   "size_mm": [
+    18.94,
+    5.7
+   ],
+   "expert_xy_mm": [
+    143.0,
+    101.0
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "D2",
+   "size_mm": [
+    18.94,
+    5.7
+   ],
+   "expert_xy_mm": [
+    143.0,
+    108.5
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "J4",
+   "size_mm": [
+    4.5,
+    1.7000000000000004
+   ],
+   "expert_xy_mm": [
+    151.0,
+    117.25
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "Q1",
+   "size_mm": [
+    10.5,
+    4.91
+   ],
+   "expert_xy_mm": [
+    141.0335,
+    83.555
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "Q2",
+   "size_mm": [
+    10.5,
+    4.91
+   ],
+   "expert_xy_mm": [
+    141.0,
+    126.0
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "R2",
+   "size_mm": [
+    13.5,
+    4.5
+   ],
+   "expert_xy_mm": [
+    140.5,
+    94.0
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "J2",
+   "size_mm": [
+    4.5,
+    1.7000000000000004
+   ],
+   "expert_xy_mm": [
+    116.9975,
+    106.934
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "J3",
+   "size_mm": [
+    4.5,
+    1.7000000000000004
+   ],
+   "expert_xy_mm": [
+    151.0,
+    92.0
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "U1",
+   "size_mm": [
+    9.799999999999999,
+    10.700000000000001
+   ],
+   "expert_xy_mm": [
+    126.8,
+    100.75
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "R4",
+   "size_mm": [
+    13.5,
+    4.5
+   ],
+   "expert_xy_mm": [
+    140.5,
+    115.5
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "kibuzzard-63064EFA",
+   "size_mm": [
+    2.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    113.5,
+    116.479
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "R3",
+   "size_mm": [
+    13.5,
+    4.5
+   ],
+   "expert_xy_mm": [
+    140.5,
+    89.0
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "kibuzzard-63064E8E",
+   "size_mm": [
+    2.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    156.0,
+    92.0
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "kibuzzard-63065932",
+   "size_mm": [
+    2.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    113.5,
+    107.0
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "R6",
+   "size_mm": [
+    13.5,
+    4.5
+   ],
+   "expert_xy_mm": [
+    123.5,
+    88.0
+   ],
+   "expert_rot": 90.0,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "J5",
+   "size_mm": [
+    4.5,
+    1.7000000000000004
+   ],
+   "expert_xy_mm": [
+    116.934,
+    116.479
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o19": {
+   "ref": "C1",
+   "size_mm": [
+    7.5,
+    3.0
+   ],
+   "expert_xy_mm": [
+    125.45,
+    108.25
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o20": {
+   "ref": "kibuzzard-63063C94",
+   "size_mm": [
+    2.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    156.0,
+    117.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o21": {
+   "ref": "R5",
+   "size_mm": [
+    13.5,
+    4.5
+   ],
+   "expert_xy_mm": [
+    130.0,
+    88.0
+   ],
+   "expert_rot": 90.0,
+   "fixed": false
+  },
+  "o22": {
+   "ref": "G***",
+   "size_mm": [
+    2.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    123.0,
+    124.5
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  }
+ }
+}

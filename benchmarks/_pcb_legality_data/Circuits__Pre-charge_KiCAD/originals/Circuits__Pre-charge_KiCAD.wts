@@ -1,0 +1,33 @@
+UCLA wts 1.0
+
+Net-_R33-Pad2_ 1
+TS- 1
+Net-_IC2-IN+_ 1
+GLV- 1
+Net-_D2-K_ 1
+Net-_IC3-B_ 1
+Net-_R10-Pad2_ 1
+Net-_D3-K_ 1
+Precharge_ON_N 1
+3.3V 1
+Net-_R28-Pad2_ 1
+GLV+ 1
+Net-_D5-A_ 1
+TS+ 1
+PRE_RESIST+ 1
+Net-_R8-Pad2_ 1
+Net-_IC2-OUT_ 1
+12V_HV 1
+Net-_IC2-IN-_ 1
+Net-_R10-Pad1_ 1
+PRE_RESIST- 1
+Net-_D2-A_ 1
+Shutdown_AIR1+ 1
+Net-_Q3-G_ 1
+Net-_IC3-Y_ 1
+Net-_R35-Pad1_ 1
+Precharge_NOT_done 1
+SDWN_PC 1
+Net-_D1-A_ 1
+Precharge_done 1
+Precharge_EN 1

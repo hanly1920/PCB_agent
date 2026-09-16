@@ -1,0 +1,536 @@
+{
+ "name": "ISO-port_ch340-usb-serial-isolated",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\ISO-port_ch340-usb-serial-isolated.json",
+ "board_bbox_mm": [
+  180.0,
+  105.0,
+  230.0,
+  155.0
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 39,
+  "num_nets": 24,
+  "num_pins": 103,
+  "board_w_mm": 50.0,
+  "board_h_mm": 50.0
+ },
+ "ispd": {
+  "num_nodes": 39,
+  "num_nets": 24,
+  "num_pins": 103,
+  "scale": 10,
+  "board_w_mm": 50.0,
+  "board_h_mm": 50.0
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "U5",
+   "size_mm": [
+    6.95,
+    7.0
+   ],
+   "expert_xy_mm": [
+    214.0,
+    147.0
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "U4",
+   "size_mm": [
+    6.95,
+    7.0
+   ],
+   "expert_xy_mm": [
+    214.0,
+    136.0
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "U3",
+   "size_mm": [
+    6.95,
+    7.0
+   ],
+   "expert_xy_mm": [
+    214.0,
+    124.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "U1",
+   "size_mm": [
+    6.95,
+    7.0
+   ],
+   "expert_xy_mm": [
+    214.0,
+    113.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "R5",
+   "size_mm": [
+    2.8500000000000005,
+    1.4000000000000001
+   ],
+   "expert_xy_mm": [
+    226.5,
+    135.99
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "R3",
+   "size_mm": [
+    3.1500000000000004,
+    1.1000000000000003
+   ],
+   "expert_xy_mm": [
+    188.01,
+    117.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "R1",
+   "size_mm": [
+    2.4,
+    0.9500000000000001
+   ],
+   "expert_xy_mm": [
+    219.49,
+    114.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "R2",
+   "size_mm": [
+    2.4,
+    0.9500000000000001
+   ],
+   "expert_xy_mm": [
+    219.49,
+    125.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "R4",
+   "size_mm": [
+    2.4,
+    0.95
+   ],
+   "expert_xy_mm": [
+    207.5,
+    135.51
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "R6",
+   "size_mm": [
+    2.4,
+    0.95
+   ],
+   "expert_xy_mm": [
+    207.5,
+    146.51
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "E1",
+   "size_mm": [
+    2.4000000000000004,
+    0.9500000000000002
+   ],
+   "expert_xy_mm": [
+    185.01,
+    122.0
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "J2",
+   "size_mm": [
+    14.6,
+    1.4000000000000001
+   ],
+   "expert_xy_mm": [
+    227.0,
+    125.0
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "J3",
+   "size_mm": [
+    4.6,
+    1.4000000000000001
+   ],
+   "expert_xy_mm": [
+    227.0,
+    141.0
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "Y1",
+   "size_mm": [
+    15.1,
+    2.1
+   ],
+   "expert_xy_mm": [
+    194.0,
+    140.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "C11",
+   "size_mm": [
+    3.205,
+    0.9000000000000001
+   ],
+   "expert_xy_mm": [
+    221.88400000000001,
+    142.646
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "C2",
+   "size_mm": [
+    2.805,
+    1.3
+   ],
+   "expert_xy_mm": [
+    182.5,
+    118.49
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "C14",
+   "size_mm": [
+    2.3,
+    0.8
+   ],
+   "expert_xy_mm": [
+    209.49,
+    151.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "C12",
+   "size_mm": [
+    2.3,
+    0.8
+   ],
+   "expert_xy_mm": [
+    209.49,
+    140.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "C8",
+   "size_mm": [
+    2.3000000000000003,
+    0.8000000000000002
+   ],
+   "expert_xy_mm": [
+    209.51,
+    119.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o19": {
+   "ref": "C3",
+   "size_mm": [
+    2.3000000000000003,
+    0.8000000000000002
+   ],
+   "expert_xy_mm": [
+    209.51,
+    108.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o20": {
+   "ref": "C4",
+   "size_mm": [
+    2.3000000000000003,
+    0.8000000000000002
+   ],
+   "expert_xy_mm": [
+    218.01,
+    108.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o21": {
+   "ref": "C9",
+   "size_mm": [
+    2.3000000000000003,
+    0.8000000000000002
+   ],
+   "expert_xy_mm": [
+    218.51,
+    119.5
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o22": {
+   "ref": "C13",
+   "size_mm": [
+    2.3,
+    0.8
+   ],
+   "expert_xy_mm": [
+    218.49,
+    140.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o23": {
+   "ref": "C15",
+   "size_mm": [
+    2.3,
+    0.8
+   ],
+   "expert_xy_mm": [
+    218.49,
+    151.5
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o24": {
+   "ref": "C10",
+   "size_mm": [
+    2.3,
+    0.8
+   ],
+   "expert_xy_mm": [
+    188.99,
+    145.0
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o25": {
+   "ref": "C7",
+   "size_mm": [
+    2.3,
+    0.8
+   ],
+   "expert_xy_mm": [
+    198.49,
+    145.0
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o26": {
+   "ref": "C1",
+   "size_mm": [
+    2.3000000000000003,
+    0.8000000000000002
+   ],
+   "expert_xy_mm": [
+    199.01,
+    123.0
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o27": {
+   "ref": "C5",
+   "size_mm": [
+    2.3000000000000003,
+    0.8000000000000002
+   ],
+   "expert_xy_mm": [
+    190.0,
+    129.99
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o28": {
+   "ref": "C6",
+   "size_mm": [
+    2.3000000000000003,
+    0.8000000000000002
+   ],
+   "expert_xy_mm": [
+    183.0,
+    124.99
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o29": {
+   "ref": "U2",
+   "size_mm": [
+    6.95,
+    9.49
+   ],
+   "expert_xy_mm": [
+    196.0,
+    130.54
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o30": {
+   "ref": "DS1",
+   "size_mm": [
+    3.3000000000000003,
+    1.2000000000000002
+   ],
+   "expert_xy_mm": [
+    183.0,
+    116.0
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o31": {
+   "ref": "DS2",
+   "size_mm": [
+    3.3,
+    1.2
+   ],
+   "expert_xy_mm": [
+    222.0,
+    137.0
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o32": {
+   "ref": "MTG-HOLE-125-RING-300_4",
+   "size_mm": [
+    3.175,
+    3.175
+   ],
+   "expert_xy_mm": [
+    184.0,
+    109.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o33": {
+   "ref": "MTG-HOLE-125-RING-300_3",
+   "size_mm": [
+    3.175,
+    3.175
+   ],
+   "expert_xy_mm": [
+    226.0,
+    109.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o34": {
+   "ref": "MTG-HOLE-125-RING-300_2",
+   "size_mm": [
+    3.175,
+    3.175
+   ],
+   "expert_xy_mm": [
+    226.0,
+    151.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o35": {
+   "ref": "MTG-HOLE-125-RING-300",
+   "size_mm": [
+    3.175,
+    3.175
+   ],
+   "expert_xy_mm": [
+    184.0,
+    151.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o36": {
+   "ref": "TP1",
+   "size_mm": [
+    2.032,
+    2.032
+   ],
+   "expert_xy_mm": [
+    189.789,
+    123.342
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o37": {
+   "ref": "TP2",
+   "size_mm": [
+    2.032,
+    2.032
+   ],
+   "expert_xy_mm": [
+    217.0,
+    130.5
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o38": {
+   "ref": "J1",
+   "size_mm": [
+    8.44,
+    4.1475
+   ],
+   "expert_xy_mm": [
+    182.70125000000002,
+    131.0
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  }
+ }
+}

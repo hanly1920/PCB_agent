@@ -1,0 +1,28 @@
+UCLA wts 1.0
+
++5VP 1
+Net-_J7-CC1_ 1
+Net-_F2-Pad1_ 1
+GND 1
++5V 1
+Net-_U1-VDDA_ 1
+Net-_J2-CC1_ 1
+Net-_J6-CC1_ 1
+_DBG_D+ 1
+_DBG_D- 1
+Net-_J6-CC2_ 1
+Net-_F1-Pad1_ 1
+_SD_VSS 1
+Net-_J2-CC2_ 1
+_SDC0_D1 1
+_SDC0_D0 1
+_SD_CLK 1
+_SDC0_CMD 1
+_SDC0_D3 1
+_SDC0_D2 1
+_AUX_D+ 1
+_AUX_D- 1
+Net-_J7-CC2_ 1
+_D+ 1
+_D- 1
+Net-_U1-VDD_ 1

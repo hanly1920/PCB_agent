@@ -1,0 +1,219 @@
+{
+ "name": "carrier_template",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\infer\\carrier_template.json",
+ "board_bbox_mm": [
+  107.5,
+  90.99999999999999,
+  157.5,
+  133.0
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 19,
+  "num_nets": 0,
+  "num_pins": 0,
+  "board_w_mm": 50.0,
+  "board_h_mm": 42.000000000000014
+ },
+ "ispd": {
+  "num_nodes": 19,
+  "num_nets": 0,
+  "num_pins": 0,
+  "scale": 10,
+  "board_w_mm": 50.0,
+  "board_h_mm": 42.000000000000014
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "TP11",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "TP13",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "TP10",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "TP9",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "J3",
+   "size_mm": [
+    20.26,
+    2.94
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "TP5",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "TP3",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "TP12",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "TP1",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "TP8",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "TP16",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "TP6",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "TP2",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "TP4",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "TP15",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "J1",
+   "size_mm": [
+    19.830000000000002,
+    3.37
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "J2",
+   "size_mm": [
+    19.830000000000002,
+    3.37
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "TP7",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "TP14",
+   "size_mm": [
+    2.1,
+    2.1
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  }
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "name": "Debug_Adapter",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\infer\\Debug_Adapter.json",
+ "board_bbox_mm": [
+  126.49999999999945,
+  74.99999999999945,
+  166.00000000000063,
+  131.00000000000057
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 25,
+  "num_nets": 26,
+  "num_pins": 127,
+  "board_w_mm": 39.50000000000118,
+  "board_h_mm": 56.00000000000112
+ },
+ "ispd": {
+  "num_nodes": 25,
+  "num_nets": 26,
+  "num_pins": 127,
+  "scale": 10,
+  "board_w_mm": 39.50000000000118,
+  "board_h_mm": 56.00000000000112
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "R6",
+   "size_mm": [
+    1.86,
+    0.94
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "F2",
+   "size_mm": [
+    6.26,
+    3.9
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "C8",
+   "size_mm": [
+    4.96,
+    3.2
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "D1",
+   "size_mm": [
+    7.0,
+    3.5
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "D2",
+   "size_mm": [
+    7.0,
+    3.5
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "C3",
+   "size_mm": [
+    2.16,
+    0.92
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "R2",
+   "size_mm": [
+    1.86,
+    0.94
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "C1",
+   "size_mm": [
+    2.16,
+    0.92
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "C10",
+   "size_mm": [
+    4.96,
+    3.2
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "J6",
+   "size_mm": [
+    10.74,
+    5.555000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "R4",
+   "size_mm": [
+    1.86,
+    0.94
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "F1",
+   "size_mm": [
+    6.24,
+    3.9
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "C5",
+   "size_mm": [
+    2.16,
+    0.92
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "C2",
+   "size_mm": [
+    2.16,
+    0.92
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "C9",
+   "size_mm": [
+    4.96,
+    3.2
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "R3",
+   "size_mm": [
+    1.86,
+    0.94
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "J3",
+   "size_mm": [
+    9.0,
+    0.6099999999999999
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "J7",
+   "size_mm": [
+    10.74,
+    5.555000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "J2",
+   "size_mm": [
+    10.74,
+    5.555000000000001
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o19": {
+   "ref": "R7",
+   "size_mm": [
+    1.86,
+    0.94
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o20": {
+   "ref": "C7",
+   "size_mm": [
+    4.96,
+    3.2
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o21": {
+   "ref": "U1",
+   "size_mm": [
+    6.9,
+    5.65
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o22": {
+   "ref": "R5",
+   "size_mm": [
+    1.86,
+    0.94
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o23": {
+   "ref": "C4",
+   "size_mm": [
+    2.16,
+    0.92
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  },
+  "o24": {
+   "ref": "J5",
+   "size_mm": [
+    21.0,
+    0.6100000000000005
+   ],
+   "expert_xy_mm": null,
+   "expert_rot": null,
+   "fixed": false
+  }
+ }
+}

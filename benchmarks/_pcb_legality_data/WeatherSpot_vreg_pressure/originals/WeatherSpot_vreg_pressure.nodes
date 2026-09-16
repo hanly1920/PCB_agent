@@ -1,0 +1,11 @@
+UCLA nodes 1.0
+
+NumNodes : 6
+NumTerminals : 0
+
+	C3	2.3000	1.2000
+	C4	2.3000	1.2000
+	C5	2.3000	1.2000
+	conn1	9.2200	1.6000
+	U1	3.0000	4.3000
+	VIA_HOME_ETCH	1.6000	1.6000

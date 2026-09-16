@@ -1,0 +1,514 @@
+[
+ {
+  "name": "1__analog_esr_meter_esr_meter_rev_a",
+  "split": "train",
+  "num_nodes": 54,
+  "num_nets": 30,
+  "board_w_mm": 68.732,
+  "board_h_mm": 78.181
+ },
+ {
+  "name": "1__anima_MotorDrive",
+  "split": "train",
+  "num_nodes": 62,
+  "num_nets": 50,
+  "board_w_mm": 54.61,
+  "board_h_mm": 63.5
+ },
+ {
+  "name": "2__UProgrammer-Hardware_Programmer",
+  "split": "train",
+  "num_nodes": 73,
+  "num_nets": 65,
+  "board_w_mm": 85.216,
+  "board_h_mm": 60.416
+ },
+ {
+  "name": "3__esp8266_esp-output",
+  "split": "train",
+  "num_nodes": 65,
+  "num_nets": 55,
+  "board_w_mm": 165.3,
+  "board_h_mm": 58.933
+ },
+ {
+  "name": "5__helmholtz-servo_CurrentServo",
+  "split": "train",
+  "num_nodes": 98,
+  "num_nets": 52,
+  "board_w_mm": 130.0,
+  "board_h_mm": 85.0
+ },
+ {
+  "name": "5__kitspace_Driverino-Shield",
+  "split": "train",
+  "num_nodes": 56,
+  "num_nets": 47,
+  "board_w_mm": 74.411,
+  "board_h_mm": 62.324
+ },
+ {
+  "name": "5__thegrid_thegrid",
+  "split": "train",
+  "num_nodes": 50,
+  "num_nets": 35,
+  "board_w_mm": 56.926,
+  "board_h_mm": 105.631
+ },
+ {
+  "name": "6__kitspace_spike_n_hold",
+  "split": "train",
+  "num_nodes": 50,
+  "num_nets": 33,
+  "board_w_mm": 63.0,
+  "board_h_mm": 110.5
+ },
+ {
+  "name": "6__kitspace_training_board_-_",
+  "split": "train",
+  "num_nodes": 73,
+  "num_nets": 58,
+  "board_w_mm": 99.08,
+  "board_h_mm": 99.08
+ },
+ {
+  "name": "6__kitspace_training_board_v02_-_",
+  "split": "train",
+  "num_nodes": 71,
+  "num_nets": 61,
+  "board_w_mm": 100.0,
+  "board_h_mm": 100.0
+ },
+ {
+  "name": "7__minievse_minievse",
+  "split": "train",
+  "num_nodes": 50,
+  "num_nets": 41,
+  "board_w_mm": 101.6,
+  "board_h_mm": 50.8
+ },
+ {
+  "name": "8__ozinverter_ozinverterkicad",
+  "split": "train",
+  "num_nodes": 68,
+  "num_nets": 45,
+  "board_w_mm": 164.691,
+  "board_h_mm": 88.791
+ },
+ {
+  "name": "9__RF_SIGNAL_GENERATOR_HARDWARE_RF_Signal_Generator",
+  "split": "train",
+  "num_nodes": 98,
+  "num_nets": 80,
+  "board_w_mm": 46.609,
+  "board_h_mm": 22.86
+ },
+ {
+  "name": "9__reach-nrf51822-hardware_reach-target-hw",
+  "split": "train",
+  "num_nodes": 55,
+  "num_nets": 54,
+  "board_w_mm": 50.766,
+  "board_h_mm": 36.741
+ },
+ {
+  "name": "ATTiny_Breakout_Board",
+  "split": "train",
+  "num_nodes": 3,
+  "num_nets": 20,
+  "board_w_mm": 19.812,
+  "board_h_mm": 29.972
+ },
+ {
+  "name": "AnalogThermometer",
+  "split": "train",
+  "num_nodes": 19,
+  "num_nets": 12,
+  "board_w_mm": 25.4,
+  "board_h_mm": 25.4
+ },
+ {
+  "name": "Biscay_Blueeye_mcu",
+  "split": "train",
+  "num_nodes": 19,
+  "num_nets": 28,
+  "board_w_mm": 50.0,
+  "board_h_mm": 50.0
+ },
+ {
+  "name": "BreadboardBasics_RevA",
+  "split": "train",
+  "num_nodes": 41,
+  "num_nets": 36,
+  "board_w_mm": 63.5,
+  "board_h_mm": 31.75
+ },
+ {
+  "name": "Circuits__BSPD_KiCAD",
+  "split": "train",
+  "num_nodes": 59,
+  "num_nets": 36,
+  "board_w_mm": 59.355,
+  "board_h_mm": 82.737
+ },
+ {
+  "name": "Circuits__Pre-charge_KiCAD",
+  "split": "train",
+  "num_nodes": 51,
+  "num_nets": 31,
+  "board_w_mm": 76.605,
+  "board_h_mm": 67.715
+ },
+ {
+  "name": "Circuits___LVE_Shutdown",
+  "split": "train",
+  "num_nodes": 114,
+  "num_nets": 69,
+  "board_w_mm": 86.85,
+  "board_h_mm": 96.907
+ },
+ {
+  "name": "IR-Transponder-ATTiny85-v2_Transponder_v2",
+  "split": "train",
+  "num_nodes": 12,
+  "num_nets": 11,
+  "board_w_mm": 19.0,
+  "board_h_mm": 23.0
+ },
+ {
+  "name": "ISO-port_ch340-usb-serial-isolated",
+  "split": "train",
+  "num_nodes": 39,
+  "num_nets": 24,
+  "board_w_mm": 50.0,
+  "board_h_mm": 50.0
+ },
+ {
+  "name": "KiCad-Like-a-Pro-Tutorial_proj2-sevensegment",
+  "split": "train",
+  "num_nodes": 11,
+  "num_nets": 21,
+  "board_w_mm": 45.974,
+  "board_h_mm": 24.638
+ },
+ {
+  "name": "Usb_dac_dac",
+  "split": "train",
+  "num_nodes": 91,
+  "num_nets": 55,
+  "board_w_mm": 74.4,
+  "board_h_mm": 99.6
+ },
+ {
+  "name": "WeatherSpot_vreg_pressure",
+  "split": "train",
+  "num_nodes": 6,
+  "num_nets": 5,
+  "board_w_mm": 16.002,
+  "board_h_mm": 14.01
+ },
+ {
+  "name": "abus-cfa1000-display-grabber_acs-display-grabber",
+  "split": "train",
+  "num_nodes": 43,
+  "num_nets": 55,
+  "board_w_mm": 100.0,
+  "board_h_mm": 100.0
+ },
+ {
+  "name": "cvbs-mipi-bridge",
+  "split": "train",
+  "num_nodes": 114,
+  "num_nets": 63,
+  "board_w_mm": 55.0,
+  "board_h_mm": 70.0
+ },
+ {
+  "name": "hardware-designs_energy-harvester",
+  "split": "train",
+  "num_nodes": 18,
+  "num_nets": 14,
+  "board_w_mm": 46.228,
+  "board_h_mm": 15.748
+ },
+ {
+  "name": "hardware-designs_nixie-power",
+  "split": "train",
+  "num_nodes": 24,
+  "num_nets": 10,
+  "board_w_mm": 49.0,
+  "board_h_mm": 49.0
+ },
+ {
+  "name": "kika-in-space_analog-test-board",
+  "split": "train",
+  "num_nodes": 17,
+  "num_nets": 13,
+  "board_w_mm": 31.496,
+  "board_h_mm": 16.256
+ },
+ {
+  "name": "kitspace_Spikeling_ESP32",
+  "split": "train",
+  "num_nodes": 39,
+  "num_nets": 34,
+  "board_w_mm": 120.0,
+  "board_h_mm": 80.0
+ },
+ {
+  "name": "kitspace_solenoid_driver",
+  "split": "train",
+  "num_nodes": 23,
+  "num_nets": 10,
+  "board_w_mm": 45.5,
+  "board_h_mm": 48.5
+ },
+ {
+  "name": "kitspace_training_board",
+  "split": "train",
+  "num_nodes": 73,
+  "num_nets": 58,
+  "board_w_mm": 99.08,
+  "board_h_mm": 99.08
+ },
+ {
+  "name": "pcb-covox-amp-v2_pcb-covox-amp-v2",
+  "split": "train",
+  "num_nodes": 57,
+  "num_nets": 45,
+  "board_w_mm": 87.0,
+  "board_h_mm": 56.0
+ },
+ {
+  "name": "pcb-dataset-lite__PCBench__16x12-bits-I2C_I2C_Servo",
+  "split": "train",
+  "num_nodes": 54,
+  "num_nets": 46,
+  "board_w_mm": 73.66,
+  "board_h_mm": 45.72
+ },
+ {
+  "name": "pcb-dataset-lite__PCBench__8088_sbc2_pcb_8088_sbc2",
+  "split": "train",
+  "num_nodes": 61,
+  "num_nets": 95,
+  "board_w_mm": 200.0,
+  "board_h_mm": 100.0
+ },
+ {
+  "name": "1__vhf-radio_exp-1",
+  "split": "infer",
+  "num_nodes": 90,
+  "num_nets": 53,
+  "board_w_mm": 59.977,
+  "board_h_mm": 58.863
+ },
+ {
+  "name": "1__wt-rpm_rasp_side",
+  "split": "infer",
+  "num_nodes": 84,
+  "num_nets": 92,
+  "board_w_mm": 106.488,
+  "board_h_mm": 105.979
+ },
+ {
+  "name": "3__DSKY-alarm-panel-replica_DSKY_alarm",
+  "split": "infer",
+  "num_nodes": 87,
+  "num_nets": 58,
+  "board_w_mm": 57.785,
+  "board_h_mm": 101.6
+ },
+ {
+  "name": "6__MAVRIC_Hardware__autosave-Motherboard_-_",
+  "split": "infer",
+  "num_nodes": 48,
+  "num_nets": 42,
+  "board_w_mm": 146.887,
+  "board_h_mm": 62.948
+ },
+ {
+  "name": "Battery_Temperature_Sensor",
+  "split": "infer",
+  "num_nodes": 107,
+  "num_nets": 41,
+  "board_w_mm": 76.1,
+  "board_h_mm": 103.4
+ },
+ {
+  "name": "Debug_Adapter",
+  "split": "infer",
+  "num_nodes": 25,
+  "num_nets": 26,
+  "board_w_mm": 39.5,
+  "board_h_mm": 56.0
+ },
+ {
+  "name": "ESP8266-MQTT-battery-monitor-hw_battery-monitor",
+  "split": "infer",
+  "num_nodes": 49,
+  "num_nets": 32,
+  "board_w_mm": 50.0,
+  "board_h_mm": 50.0
+ },
+ {
+  "name": "H616_LPDDR4_H616_devboard",
+  "split": "infer",
+  "num_nodes": 161,
+  "num_nets": 174,
+  "board_w_mm": 58.0,
+  "board_h_mm": 66.0
+ },
+ {
+  "name": "H616_devboard",
+  "split": "infer",
+  "num_nodes": 125,
+  "num_nets": 121,
+  "board_w_mm": 26.5,
+  "board_h_mm": 72.5
+ },
+ {
+  "name": "HDMI_MIPI_Bridge",
+  "split": "infer",
+  "num_nodes": 121,
+  "num_nets": 105,
+  "board_w_mm": 68.0,
+  "board_h_mm": 45.0
+ },
+ {
+  "name": "LTC6812-15W",
+  "split": "infer",
+  "num_nodes": 279,
+  "num_nets": 264,
+  "board_w_mm": 73.415,
+  "board_h_mm": 117.35
+ },
+ {
+  "name": "OLIMEX_ESP32-EVB_Rev_L",
+  "split": "infer",
+  "num_nodes": 167,
+  "num_nets": 119,
+  "board_w_mm": 75.184,
+  "board_h_mm": 74.676
+ },
+ {
+  "name": "PDU_KR",
+  "split": "infer",
+  "num_nodes": 44,
+  "num_nets": 24,
+  "board_w_mm": 104.175,
+  "board_h_mm": 45.875
+ },
+ {
+  "name": "artix-dc-scm",
+  "split": "infer",
+  "num_nodes": 542,
+  "num_nets": 483,
+  "board_w_mm": 90.0,
+  "board_h_mm": 120.405
+ },
+ {
+  "name": "ataradov_usb-sniffer-lite",
+  "split": "infer",
+  "num_nodes": 39,
+  "num_nets": 31,
+  "board_w_mm": 43.434,
+  "board_h_mm": 18.796
+ },
+ {
+  "name": "bikedar_bikedar",
+  "split": "infer",
+  "num_nodes": 52,
+  "num_nets": 45,
+  "board_w_mm": 50.0,
+  "board_h_mm": 50.0
+ },
+ {
+  "name": "carrier_template",
+  "split": "infer",
+  "num_nodes": 19,
+  "num_nets": 0,
+  "board_w_mm": 50.0,
+  "board_h_mm": 42.0
+ },
+ {
+  "name": "covg_daq_v2",
+  "split": "infer",
+  "num_nodes": 596,
+  "num_nets": 496,
+  "board_w_mm": 157.8,
+  "board_h_mm": 95.2
+ },
+ {
+  "name": "ecp5-dc-scm",
+  "split": "infer",
+  "num_nodes": 504,
+  "num_nets": 452,
+  "board_w_mm": 90.0,
+  "board_h_mm": 120.4
+ },
+ {
+  "name": "esp8266_wi07_3_adapter_esp",
+  "split": "infer",
+  "num_nodes": 5,
+  "num_nets": 9,
+  "board_w_mm": 22.098,
+  "board_h_mm": 21.463
+ },
+ {
+  "name": "hardware-designs_cc430-debug-board",
+  "split": "infer",
+  "num_nodes": 14,
+  "num_nets": 33,
+  "board_w_mm": 49.0,
+  "board_h_mm": 36.0
+ },
+ {
+  "name": "hardware-designs_solar-harvester",
+  "split": "infer",
+  "num_nodes": 18,
+  "num_nets": 9,
+  "board_w_mm": 46.228,
+  "board_h_mm": 15.748
+ },
+ {
+  "name": "kitspace_BalthazarPSU3",
+  "split": "infer",
+  "num_nodes": 82,
+  "num_nets": 50,
+  "board_w_mm": 85.852,
+  "board_h_mm": 25.4
+ },
+ {
+  "name": "kitspace_USBI2C01",
+  "split": "infer",
+  "num_nodes": 26,
+  "num_nets": 24,
+  "board_w_mm": 29.972,
+  "board_h_mm": 40.132
+ },
+ {
+  "name": "lpddr4-test-board",
+  "split": "infer",
+  "num_nodes": 493,
+  "num_nets": 325,
+  "board_w_mm": 110.0,
+  "board_h_mm": 90.0
+ },
+ {
+  "name": "quilter_test_LTC6812-15W",
+  "split": "infer",
+  "num_nodes": 227,
+  "num_nets": 213,
+  "board_w_mm": 66.0,
+  "board_h_mm": 91.19
+ },
+ {
+  "name": "rp2040_debugger",
+  "split": "infer",
+  "num_nodes": 62,
+  "num_nets": 55,
+  "board_w_mm": 57.0,
+  "board_h_mm": 47.5
+ }
+]

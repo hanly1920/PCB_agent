@@ -1,0 +1,1859 @@
+{
+  "name": "kitspace_Spikeling_ESP32",
+  "origin": "unknown",
+  "board": {
+    "bbox_mm": [
+      100.0,
+      50.0,
+      220.0,
+      130.0
+    ],
+    "width_mm": 120.0,
+    "height_mm": 80.0,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 39,
+    "num_nets": 34,
+    "num_pins": 125
+  },
+  "components": [
+    {
+      "ref": "Spike_LED",
+      "internal_id": "Spike_LED",
+      "size_mm": [
+        8.64,
+        6.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.0,
+        "y_mm": 13.76,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode6",
+      "internal_id": "Mode6",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.275,
+        "y_mm": 33.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode1",
+      "internal_id": "Mode1",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.275,
+        "y_mm": 63.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "10k__SW_pull-down",
+      "internal_id": "10k__SW_pull-down",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 79.0,
+        "y_mm": 62.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Stim-Strength",
+      "internal_id": "Stim-Strength",
+      "size_mm": [
+        14.4,
+        13.3
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 113.0,
+        "y_mm": 57.25,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Noise",
+      "internal_id": "Noise",
+      "size_mm": [
+        14.4,
+        13.3
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 78.75,
+        "y_mm": 72.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Synapse_In_1",
+      "internal_id": "Synapse_In_1",
+      "size_mm": [
+        10.524,
+        11.486
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 7.3815,
+        "y_mm": 6.25,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Synapse_Out",
+      "internal_id": "Synapse_Out",
+      "size_mm": [
+        10.524,
+        11.486
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 112.8685,
+        "y_mm": 14.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Synapse_1_Gain",
+      "internal_id": "Synapse_1_Gain",
+      "size_mm": [
+        14.4,
+        13.3
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 6.75,
+        "y_mm": 19.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode3",
+      "internal_id": "Mode3",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.275,
+        "y_mm": 51.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Voltage_Membrane",
+      "internal_id": "Voltage_Membrane",
+      "size_mm": [
+        14.4,
+        13.3
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 20.5,
+        "y_mm": 72.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "100__Stim-LED",
+      "internal_id": "100__Stim-LED",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 104.25,
+        "y_mm": 73.25,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Stimulus_Out",
+      "internal_id": "Stimulus_Out",
+      "size_mm": [
+        11.286,
+        10.724
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 113.75,
+        "y_mm": 72.6185,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode10",
+      "internal_id": "Mode10",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.275,
+        "y_mm": 45.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode8",
+      "internal_id": "Mode8",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.275,
+        "y_mm": 57.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "50__CharliePlex4",
+      "internal_id": "50__CharliePlex4",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 82.0,
+        "y_mm": 46.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode12",
+      "internal_id": "Mode12",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.275,
+        "y_mm": 33.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode11",
+      "internal_id": "Mode11",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.275,
+        "y_mm": 39.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode9",
+      "internal_id": "Mode9",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.275,
+        "y_mm": 51.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "10__RC",
+      "internal_id": "10__RC",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 82.0,
+        "y_mm": 25.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Photodiode",
+      "internal_id": "Photodiode",
+      "size_mm": [
+        4.34,
+        1.8
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 40.495,
+        "y_mm": 71.25,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Stim-Frequency",
+      "internal_id": "Stim-Frequency",
+      "size_mm": [
+        14.4,
+        13.3
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 113.0,
+        "y_mm": 42.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Synapse_2_Gain",
+      "internal_id": "Synapse_2_Gain",
+      "size_mm": [
+        14.4,
+        13.3
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 6.75,
+        "y_mm": 53.25,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Synapse_in_2",
+      "internal_id": "Synapse_in_2",
+      "size_mm": [
+        10.524,
+        11.486
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 7.35,
+        "y_mm": 40.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode2",
+      "internal_id": "Mode2",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.275,
+        "y_mm": 57.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode4",
+      "internal_id": "Mode4",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.275,
+        "y_mm": 45.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Current_In",
+      "internal_id": "Current_In",
+      "size_mm": [
+        11.286,
+        10.724
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 6.0,
+        "y_mm": 72.8685,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "50__CharliePlex3",
+      "internal_id": "50__CharliePlex3",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 82.0,
+        "y_mm": 41.25,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "10k__PD_pull-down",
+      "internal_id": "10k__PD_pull-down",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 31.25,
+        "y_mm": 71.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Photodiode_Gain",
+      "internal_id": "Photodiode_Gain",
+      "size_mm": [
+        1.8,
+        6.8
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 53.25,
+        "y_mm": 78.55,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "1nF_RC",
+      "internal_id": "1nF_RC",
+      "size_mm": [
+        4.5,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.0,
+        "y_mm": 23.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "50__CharliePlex2",
+      "internal_id": "50__CharliePlex2",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 82.0,
+        "y_mm": 36.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "100__Spike_LED",
+      "internal_id": "100__Spike_LED",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 82.0,
+        "y_mm": 20.25,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Spike_Buzzer",
+      "internal_id": "Spike_Buzzer",
+      "size_mm": [
+        12.5,
+        12.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 83.5,
+        "y_mm": 10.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "50__CharliePlex1",
+      "internal_id": "50__CharliePlex1",
+      "size_mm": [
+        12.26,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 82.0,
+        "y_mm": 30.75,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode_Button",
+      "internal_id": "Mode_Button",
+      "size_mm": [
+        9.5,
+        7.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 94.25,
+        "y_mm": 71.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "ESP32-WROOM_dev_module",
+      "internal_id": "ESP32-WROOM_dev_module",
+      "size_mm": [
+        28.4,
+        54.9
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 59.6975,
+        "y_mm": 27.5,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode7",
+      "internal_id": "Mode7",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 97.275,
+        "y_mm": 63.0,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "Mode5",
+      "internal_id": "Mode5",
+      "size_mm": [
+        4.85,
+        4.5
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 91.275,
+        "y_mm": 39.0,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "Net-_100__Spike-LED1-Pad2_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Spike_LED",
+          "internal_id": "Spike_LED",
+          "offset_mm": [
+            -3.24,
+            0.0
+          ]
+        },
+        {
+          "ref": "100__Spike_LED",
+          "internal_id": "100__Spike_LED",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_18",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Spike_LED",
+          "internal_id": "Spike_LED",
+          "offset_mm": [
+            -1.081,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -2.19
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_19",
+      "degree": 4,
+      "connections": [
+        {
+          "ref": "Spike_LED",
+          "internal_id": "Spike_LED",
+          "offset_mm": [
+            1.078,
+            0.0
+          ]
+        },
+        {
+          "ref": "Spike_LED",
+          "internal_id": "Spike_LED",
+          "offset_mm": [
+            3.237,
+            0.0
+          ]
+        },
+        {
+          "ref": "Spike_Buzzer",
+          "internal_id": "Spike_Buzzer",
+          "offset_mm": [
+            -3.8,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -4.73
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_100__CharliePlex3-Pad2_",
+      "degree": 7,
+      "connections": [
+        {
+          "ref": "Mode6",
+          "internal_id": "Mode6",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode3",
+          "internal_id": "Mode3",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode8",
+          "internal_id": "Mode8",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode4",
+          "internal_id": "Mode4",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "50__CharliePlex3",
+          "internal_id": "50__CharliePlex3",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode7",
+          "internal_id": "Mode7",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode5",
+          "internal_id": "Mode5",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_100__CharliePlex4-Pad2_",
+      "degree": 7,
+      "connections": [
+        {
+          "ref": "Mode6",
+          "internal_id": "Mode6",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode10",
+          "internal_id": "Mode10",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "50__CharliePlex4",
+          "internal_id": "50__CharliePlex4",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode12",
+          "internal_id": "Mode12",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode11",
+          "internal_id": "Mode11",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode9",
+          "internal_id": "Mode9",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode5",
+          "internal_id": "Mode5",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_100__CharliePlex2-Pad2_",
+      "degree": 7,
+      "connections": [
+        {
+          "ref": "Mode1",
+          "internal_id": "Mode1",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode3",
+          "internal_id": "Mode3",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode10",
+          "internal_id": "Mode10",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode9",
+          "internal_id": "Mode9",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode2",
+          "internal_id": "Mode2",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode4",
+          "internal_id": "Mode4",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "50__CharliePlex2",
+          "internal_id": "50__CharliePlex2",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_100__CharliePlex1-Pad2_",
+      "degree": 7,
+      "connections": [
+        {
+          "ref": "Mode1",
+          "internal_id": "Mode1",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode8",
+          "internal_id": "Mode8",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode12",
+          "internal_id": "Mode12",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode11",
+          "internal_id": "Mode11",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode2",
+          "internal_id": "Mode2",
+          "offset_mm": [
+            -1.275,
+            0.0
+          ]
+        },
+        {
+          "ref": "50__CharliePlex1",
+          "internal_id": "50__CharliePlex1",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode7",
+          "internal_id": "Mode7",
+          "offset_mm": [
+            1.265,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_21",
+      "degree": 4,
+      "connections": [
+        {
+          "ref": "10k__SW_pull-down",
+          "internal_id": "10k__SW_pull-down",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Mode_Button",
+          "internal_id": "Mode_Button",
+          "offset_mm": [
+            3.25,
+            -2.25
+          ]
+        },
+        {
+          "ref": "Mode_Button",
+          "internal_id": "Mode_Button",
+          "offset_mm": [
+            3.25,
+            -2.25
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -9.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GNDREF",
+      "degree": 21,
+      "connections": [
+        {
+          "ref": "10k__SW_pull-down",
+          "internal_id": "10k__SW_pull-down",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Stim-Strength",
+          "internal_id": "Stim-Strength",
+          "offset_mm": [
+            -6.05,
+            2.5
+          ]
+        },
+        {
+          "ref": "Noise",
+          "internal_id": "Noise",
+          "offset_mm": [
+            -6.05,
+            2.5
+          ]
+        },
+        {
+          "ref": "Synapse_In_1",
+          "internal_id": "Synapse_In_1",
+          "offset_mm": [
+            -2.2,
+            -4.6
+          ]
+        },
+        {
+          "ref": "Synapse_Out",
+          "internal_id": "Synapse_Out",
+          "offset_mm": [
+            -2.2,
+            -4.6
+          ]
+        },
+        {
+          "ref": "Synapse_1_Gain",
+          "internal_id": "Synapse_1_Gain",
+          "offset_mm": [
+            -6.05,
+            2.5
+          ]
+        },
+        {
+          "ref": "Voltage_Membrane",
+          "internal_id": "Voltage_Membrane",
+          "offset_mm": [
+            -6.05,
+            2.5
+          ]
+        },
+        {
+          "ref": "Stimulus_Out",
+          "internal_id": "Stimulus_Out",
+          "offset_mm": [
+            -2.2,
+            -4.6
+          ]
+        },
+        {
+          "ref": "Photodiode",
+          "internal_id": "Photodiode",
+          "offset_mm": [
+            -1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "Stim-Frequency",
+          "internal_id": "Stim-Frequency",
+          "offset_mm": [
+            -6.05,
+            2.5
+          ]
+        },
+        {
+          "ref": "Synapse_2_Gain",
+          "internal_id": "Synapse_2_Gain",
+          "offset_mm": [
+            -6.05,
+            2.5
+          ]
+        },
+        {
+          "ref": "Synapse_in_2",
+          "internal_id": "Synapse_in_2",
+          "offset_mm": [
+            -2.2,
+            -4.6
+          ]
+        },
+        {
+          "ref": "Current_In",
+          "internal_id": "Current_In",
+          "offset_mm": [
+            -2.2,
+            -4.6
+          ]
+        },
+        {
+          "ref": "10k__PD_pull-down",
+          "internal_id": "10k__PD_pull-down",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Photodiode_Gain",
+          "internal_id": "Photodiode_Gain",
+          "offset_mm": [
+            0.0,
+            2.5
+          ]
+        },
+        {
+          "ref": "1nF_RC",
+          "internal_id": "1nF_RC",
+          "offset_mm": [
+            1.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "100__Spike_LED",
+          "internal_id": "100__Spike_LED",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Spike_Buzzer",
+          "internal_id": "Spike_Buzzer",
+          "offset_mm": [
+            3.8,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            10.51
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -22.51
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -7.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+3V3",
+      "degree": 10,
+      "connections": [
+        {
+          "ref": "Stim-Strength",
+          "internal_id": "Stim-Strength",
+          "offset_mm": [
+            -6.05,
+            -2.5
+          ]
+        },
+        {
+          "ref": "Noise",
+          "internal_id": "Noise",
+          "offset_mm": [
+            -6.05,
+            -2.5
+          ]
+        },
+        {
+          "ref": "Synapse_1_Gain",
+          "internal_id": "Synapse_1_Gain",
+          "offset_mm": [
+            -6.05,
+            -2.5
+          ]
+        },
+        {
+          "ref": "Voltage_Membrane",
+          "internal_id": "Voltage_Membrane",
+          "offset_mm": [
+            -6.05,
+            -2.5
+          ]
+        },
+        {
+          "ref": "Stim-Frequency",
+          "internal_id": "Stim-Frequency",
+          "offset_mm": [
+            -6.05,
+            -2.5
+          ]
+        },
+        {
+          "ref": "Synapse_2_Gain",
+          "internal_id": "Synapse_2_Gain",
+          "offset_mm": [
+            -6.05,
+            -2.5
+          ]
+        },
+        {
+          "ref": "Photodiode_Gain",
+          "internal_id": "Photodiode_Gain",
+          "offset_mm": [
+            0.0,
+            -2.5
+          ]
+        },
+        {
+          "ref": "Mode_Button",
+          "internal_id": "Mode_Button",
+          "offset_mm": [
+            -3.25,
+            2.25
+          ]
+        },
+        {
+          "ref": "Mode_Button",
+          "internal_id": "Mode_Button",
+          "offset_mm": [
+            -3.25,
+            2.25
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            -22.51
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_34",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Stim-Strength",
+          "internal_id": "Stim-Strength",
+          "offset_mm": [
+            -6.05,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            -12.35
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_13",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Noise",
+          "internal_id": "Noise",
+          "offset_mm": [
+            -6.05,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            13.05
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_33",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Synapse_In_1",
+          "internal_id": "Synapse_In_1",
+          "offset_mm": [
+            4.5,
+            3.4
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            -4.73
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_32",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "Synapse_In_1",
+          "internal_id": "Synapse_In_1",
+          "offset_mm": [
+            -4.5,
+            4.6
+          ]
+        },
+        {
+          "ref": "Synapse_In_1",
+          "internal_id": "Synapse_In_1",
+          "offset_mm": [
+            -4.5,
+            4.6
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            -7.27
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_10__RC1-Pad2_",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "Synapse_Out",
+          "internal_id": "Synapse_Out",
+          "offset_mm": [
+            4.5,
+            3.4
+          ]
+        },
+        {
+          "ref": "10__RC",
+          "internal_id": "10__RC",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "1nF_RC",
+          "internal_id": "1nF_RC",
+          "offset_mm": [
+            -1.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_23",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "Synapse_Out",
+          "internal_id": "Synapse_Out",
+          "offset_mm": [
+            -2.4,
+            2.4
+          ]
+        },
+        {
+          "ref": "Synapse_Out",
+          "internal_id": "Synapse_Out",
+          "offset_mm": [
+            -2.4,
+            2.4
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -19.97
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_25",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Synapse_1_Gain",
+          "internal_id": "Synapse_1_Gain",
+          "offset_mm": [
+            -6.05,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            -2.19
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_12",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Voltage_Membrane",
+          "internal_id": "Voltage_Membrane",
+          "offset_mm": [
+            -6.05,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            7.97
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_22",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "100__Stim-LED",
+          "internal_id": "100__Stim-LED",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -17.43
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Net-_100__Stim-LED1-Pad2_",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "100__Stim-LED",
+          "internal_id": "100__Stim-LED",
+          "offset_mm": [
+            5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "Stimulus_Out",
+          "internal_id": "Stimulus_Out",
+          "offset_mm": [
+            -2.4,
+            2.4
+          ]
+        },
+        {
+          "ref": "Stimulus_Out",
+          "internal_id": "Stimulus_Out",
+          "offset_mm": [
+            -2.4,
+            2.4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_01",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Stimulus_Out",
+          "internal_id": "Stimulus_Out",
+          "offset_mm": [
+            4.5,
+            3.4
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -14.89
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_04",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "50__CharliePlex4",
+          "internal_id": "50__CharliePlex4",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            7.97
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_36",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "10__RC",
+          "internal_id": "10__RC",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            -17.43
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_15",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "Photodiode",
+          "internal_id": "Photodiode",
+          "offset_mm": [
+            1.27,
+            0.0
+          ]
+        },
+        {
+          "ref": "10k__PD_pull-down",
+          "internal_id": "10k__PD_pull-down",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            15.59
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_35",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Stim-Frequency",
+          "internal_id": "Stim-Frequency",
+          "offset_mm": [
+            -6.05,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            -9.81
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_14",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Synapse_2_Gain",
+          "internal_id": "Synapse_2_Gain",
+          "offset_mm": [
+            -6.05,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            5.43
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_27",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Synapse_in_2",
+          "internal_id": "Synapse_in_2",
+          "offset_mm": [
+            4.5,
+            3.4
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            2.89
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_26",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "Synapse_in_2",
+          "internal_id": "Synapse_in_2",
+          "offset_mm": [
+            -4.5,
+            4.6
+          ]
+        },
+        {
+          "ref": "Synapse_in_2",
+          "internal_id": "Synapse_in_2",
+          "offset_mm": [
+            -4.5,
+            4.6
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            -12.65,
+            0.35
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_03",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Current_In",
+          "internal_id": "Current_In",
+          "offset_mm": [
+            4.5,
+            3.4
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            -12.35
+          ]
+        }
+      ]
+    },
+    {
+      "name": "unconnected-_Current_In1-PadT_",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Current_In",
+          "internal_id": "Current_In",
+          "offset_mm": [
+            -2.4,
+            2.4
+          ]
+        },
+        {
+          "ref": "Current_In",
+          "internal_id": "Current_In",
+          "offset_mm": [
+            -2.4,
+            2.4
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_16",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "50__CharliePlex3",
+          "internal_id": "50__CharliePlex3",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            5.43
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_02",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "Photodiode_Gain",
+          "internal_id": "Photodiode_Gain",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            13.05
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_17",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "50__CharliePlex2",
+          "internal_id": "50__CharliePlex2",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            2.89
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_05",
+      "degree": 2,
+      "connections": [
+        {
+          "ref": "50__CharliePlex1",
+          "internal_id": "50__CharliePlex1",
+          "offset_mm": [
+            -5.08,
+            0.0
+          ]
+        },
+        {
+          "ref": "ESP32-WROOM_dev_module",
+          "internal_id": "ESP32-WROOM_dev_module",
+          "offset_mm": [
+            12.75,
+            0.35
+          ]
+        }
+      ]
+    }
+  ]
+}

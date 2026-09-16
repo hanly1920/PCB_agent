@@ -1,0 +1,109 @@
+{
+  "name": "simple_example",
+  "origin": "sa_pcb",
+  "board": {
+    "bbox_mm": [
+      0.979,
+      0.916,
+      14.438,
+      27.08
+    ],
+    "width_mm": 13.459000000000001,
+    "height_mm": 26.163999999999998,
+    "grid_mm": 1.0
+  },
+  "design_rules": {
+    "num_layers": 2,
+    "spacing_rules": {},
+    "courtyard_clearance_mm": 0.25,
+    "min_trace_width_mm": 0.2,
+    "min_clearance_mm": 0.2
+  },
+  "statistics": {
+    "num_components": 3,
+    "num_nets": 1,
+    "num_pins": 3
+  },
+  "components": [
+    {
+      "ref": "C14",
+      "internal_id": "C14",
+      "size_mm": [
+        4.554,
+        3.0
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 0.979,
+        "y_mm": 0.916,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "T1",
+      "internal_id": "T1",
+      "size_mm": [
+        7.2,
+        10.633
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 5.0,
+        "y_mm": 5.08,
+        "orientation": "N"
+      }
+    },
+    {
+      "ref": "F1",
+      "internal_id": "F1",
+      "size_mm": [
+        7.7,
+        6.8
+      ],
+      "footprint": "unknown",
+      "type": "unknown",
+      "terminal": false,
+      "current_placement": {
+        "x_mm": 14.438,
+        "y_mm": 27.08,
+        "orientation": "N"
+      }
+    }
+  ],
+  "netlist": [
+    {
+      "name": "net0",
+      "degree": 3,
+      "connections": [
+        {
+          "ref": "C14",
+          "internal_id": "C14",
+          "offset_mm": [
+            -0.977,
+            0.0
+          ]
+        },
+        {
+          "ref": "F1",
+          "internal_id": "F1",
+          "offset_mm": [
+            -1.95,
+            0.0
+          ]
+        },
+        {
+          "ref": "T1",
+          "internal_id": "T1",
+          "offset_mm": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

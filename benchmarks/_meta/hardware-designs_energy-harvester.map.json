@@ -1,0 +1,263 @@
+{
+ "name": "hardware-designs_energy-harvester",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\hardware-designs_energy-harvester.json",
+ "board_bbox_mm": [
+  25.4,
+  39.116,
+  71.628,
+  54.864
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 18,
+  "num_nets": 14,
+  "num_pins": 44,
+  "board_w_mm": 46.228,
+  "board_h_mm": 15.747999999999998
+ },
+ "ispd": {
+  "num_nodes": 18,
+  "num_nets": 14,
+  "num_pins": 44,
+  "scale": 10,
+  "board_w_mm": 46.228,
+  "board_h_mm": 15.747999999999998
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "C1",
+   "size_mm": [
+    5.334,
+    1.5240000000000002
+   ],
+   "expert_xy_mm": [
+    62.738,
+    44.704
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "R1",
+   "size_mm": [
+    2.1590000000000003,
+    1.143
+   ],
+   "expert_xy_mm": [
+    59.69,
+    49.53
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "C2",
+   "size_mm": [
+    2.667,
+    0.6350000000000001
+   ],
+   "expert_xy_mm": [
+    59.436,
+    45.974
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "C3",
+   "size_mm": [
+    2.6670000000000003,
+    0.6350000000000002
+   ],
+   "expert_xy_mm": [
+    51.308,
+    45.974
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "P2",
+   "size_mm": [
+    4.064,
+    1.524
+   ],
+   "expert_xy_mm": [
+    55.88,
+    53.34
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "P1",
+   "size_mm": [
+    4.064,
+    1.524
+   ],
+   "expert_xy_mm": [
+    63.5,
+    53.34
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "P3",
+   "size_mm": [
+    4.064,
+    1.524
+   ],
+   "expert_xy_mm": [
+    48.26,
+    53.34
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "P4",
+   "size_mm": [
+    14.224,
+    1.5240000000000002
+   ],
+   "expert_xy_mm": [
+    26.924,
+    46.99
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "P5",
+   "size_mm": [
+    14.224,
+    1.524
+   ],
+   "expert_xy_mm": [
+    70.104,
+    46.99
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "C5",
+   "size_mm": [
+    6.524,
+    1.5240000000000002
+   ],
+   "expert_xy_mm": [
+    34.544,
+    44.45
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "JP1",
+   "size_mm": [
+    5.17398,
+    1.39954
+   ],
+   "expert_xy_mm": [
+    42.15892,
+    52.324
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "JP2",
+   "size_mm": [
+    5.17398,
+    1.39954
+   ],
+   "expert_xy_mm": [
+    35.55492,
+    52.324
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "L1",
+   "size_mm": [
+    4.300000000000001,
+    1.3000000000000003
+   ],
+   "expert_xy_mm": [
+    54.61,
+    42.926
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "U1",
+   "size_mm": [
+    2.8890000000000002,
+    4.305
+   ],
+   "expert_xy_mm": [
+    54.864,
+    48.006
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "C6",
+   "size_mm": [
+    6.524,
+    1.524
+   ],
+   "expert_xy_mm": [
+    45.466,
+    44.45
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "Noname_1",
+   "size_mm": [
+    2.0,
+    2.0
+   ],
+   "expert_xy_mm": [
+    59.436,
+    44.45
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "C4",
+   "size_mm": [
+    5.3340000000000005,
+    1.5240000000000005
+   ],
+   "expert_xy_mm": [
+    30.226,
+    51.562
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "D1",
+   "size_mm": [
+    4.64058,
+    1.5976600000000003
+   ],
+   "expert_xy_mm": [
+    65.786,
+    44.704
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  }
+ }
+}

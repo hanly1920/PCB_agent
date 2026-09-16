@@ -1,0 +1,276 @@
+{
+ "name": "Biscay_Blueeye_mcu",
+ "source_json": "E:\\claude_workspace\\pcb_autoplace\\data\\train\\Biscay_Blueeye_mcu.json",
+ "board_bbox_mm": [
+  100.0,
+  80.0,
+  150.0,
+  130.0
+ ],
+ "grid_mm": 1.0,
+ "scale_ispd": 10,
+ "pcb": {
+  "num_nodes": 19,
+  "num_nets": 28,
+  "num_pins": 92,
+  "board_w_mm": 50.0,
+  "board_h_mm": 50.0
+ },
+ "ispd": {
+  "num_nodes": 19,
+  "num_nets": 28,
+  "num_pins": 92,
+  "scale": 10,
+  "board_w_mm": 50.0,
+  "board_h_mm": 50.0
+ },
+ "id_to_component": {
+  "o0": {
+   "ref": "C1",
+   "size_mm": [
+    2.9,
+    1.5
+   ],
+   "expert_xy_mm": [
+    116.76,
+    87.905
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o1": {
+   "ref": "C2",
+   "size_mm": [
+    3.6,
+    2.0
+   ],
+   "expert_xy_mm": [
+    136.5,
+    93.75
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o2": {
+   "ref": "C11",
+   "size_mm": [
+    3.6,
+    2.0
+   ],
+   "expert_xy_mm": [
+    117.825,
+    98.1
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o3": {
+   "ref": "C12",
+   "size_mm": [
+    4.6,
+    3.2
+   ],
+   "expert_xy_mm": [
+    130.75,
+    100.0
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o4": {
+   "ref": "D1",
+   "size_mm": [
+    7.0,
+    4.0
+   ],
+   "expert_xy_mm": [
+    138.26,
+    86.03
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o5": {
+   "ref": "F1",
+   "size_mm": [
+    3.54838,
+    2.02946
+   ],
+   "expert_xy_mm": [
+    137.81,
+    82.78
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o6": {
+   "ref": "L2",
+   "size_mm": [
+    4.83108,
+    1.0210800000000004
+   ],
+   "expert_xy_mm": [
+    126.075,
+    93.95
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  },
+  "o7": {
+   "ref": "P1",
+   "size_mm": [
+    2.032,
+    4.572
+   ],
+   "expert_xy_mm": [
+    144.11,
+    85.175
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o8": {
+   "ref": "P3",
+   "size_mm": [
+    4.2672,
+    29.667200000000005
+   ],
+   "expert_xy_mm": [
+    104.27,
+    104.97
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o9": {
+   "ref": "R7",
+   "size_mm": [
+    2.6,
+    1.6
+   ],
+   "expert_xy_mm": [
+    129.5,
+    97.25
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o10": {
+   "ref": "R8",
+   "size_mm": [
+    2.6,
+    1.6
+   ],
+   "expert_xy_mm": [
+    132.25,
+    97.25
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o11": {
+   "ref": "R9",
+   "size_mm": [
+    2.6,
+    1.6
+   ],
+   "expert_xy_mm": [
+    109.6,
+    113.2
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o12": {
+   "ref": "R14",
+   "size_mm": [
+    2.6,
+    1.6
+   ],
+   "expert_xy_mm": [
+    109.6,
+    115.1
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o13": {
+   "ref": "U1",
+   "size_mm": [
+    7.5,
+    5.5
+   ],
+   "expert_xy_mm": [
+    117.05,
+    93.175
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o14": {
+   "ref": "U2",
+   "size_mm": [
+    6.4,
+    3.7
+   ],
+   "expert_xy_mm": [
+    131.0,
+    93.75
+   ],
+   "expert_rot": -180.0,
+   "fixed": false
+  },
+  "o15": {
+   "ref": "D3",
+   "size_mm": [
+    3.29692,
+    1.1988800000000002
+   ],
+   "expert_xy_mm": [
+    129.41,
+    106.105
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o16": {
+   "ref": "R15",
+   "size_mm": [
+    2.6,
+    1.6
+   ],
+   "expert_xy_mm": [
+    126.235,
+    103.105
+   ],
+   "expert_rot": -270.0,
+   "fixed": false
+  },
+  "o17": {
+   "ref": "P2",
+   "size_mm": [
+    4.2672,
+    29.667200000000005
+   ],
+   "expert_xy_mm": [
+    146.27,
+    104.97
+   ],
+   "expert_rot": -0.0,
+   "fixed": false
+  },
+  "o18": {
+   "ref": "P4",
+   "size_mm": [
+    1.7272000000000005,
+    19.812000000000005
+   ],
+   "expert_xy_mm": [
+    127.89,
+    127.0
+   ],
+   "expert_rot": -90.0,
+   "fixed": false
+  }
+ }
+}
