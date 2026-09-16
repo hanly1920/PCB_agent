@@ -1,0 +1,44 @@
+{
+  "grid_N": 64,
+  "boundary": [
+    [0.0, 0.0],
+    [120.0, 0.0],
+    [120.0, 80.0],
+    [0.0, 80.0]
+  ],
+  "sides": ["top", "bottom"],
+  "min_spacing": 0.0,
+  "inter_side_spacing": 0.5,
+  "components": [
+    {
+      "name": "U1",
+      "w": 20.0,
+      "h": 12.0,
+      "pads": [[6.35, 3.49], [6.35, 9.49], [13.65, 3.49], [13.65, 9.49]],
+      "type": "ic",
+      "allowed_sides": ["top", "bottom"],
+      "thickness_mm": 1.8
+    },
+    {
+      "name": "J1",
+      "w": 10.0,
+      "h": 8.0,
+      "pads": [[5.0, 1.0], [5.0, 7.0]],
+      "type": "connector",
+      "allowed_sides": ["top"],
+      "thickness_mm": 3.0
+    },
+    {
+      "name": "C1",
+      "w": 3.0,
+      "h": 5.0,
+      "pads": [[1.5, 1.0], [1.5, 4.0]],
+      "type": "cap",
+      "allowed_sides": ["bottom"]
+    }
+  ],
+  "nets": [
+    [["U1", 0], ["J1", 0], ["C1", 0]],
+    [["U1", 1], ["J1", 1], ["C1", 1]]
+  ]
+}

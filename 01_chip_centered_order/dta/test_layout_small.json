@@ -1,0 +1,9 @@
+{
+  "grid_size": 32,
+  "components": [
+    {"comp_id": 0, "size": [2,2], "pad_list": [[0,0]], "type_id": 0, "placed_pads": [[8,8]]},
+    {"comp_id": 1, "size": [2,2], "pad_list": [[0,0]], "type_id": 0, "placed_pads": [[20,12]]}
+  ],
+  "nets": [ [[0,0],[1,0]] ],
+  "boundary": [[0,0],[31,0],[31,31],[0,31]]
+}

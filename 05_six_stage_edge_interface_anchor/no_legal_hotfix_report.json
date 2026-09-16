@@ -1,0 +1,154 @@
+{
+  "IR-Transponder-ATTiny85-v2_Transponder_v2.json": {
+    "expert_replay_ok": true,
+    "sequence": [
+      "P1",
+      "U1",
+      "IC1",
+      "Q1",
+      "X1",
+      "R1",
+      "D1",
+      "R2",
+      "C1",
+      "C2",
+      "D2",
+      "R3"
+    ],
+    "legal_counts": [
+      {
+        "t": 0,
+        "ref": "P1",
+        "legal": 1276
+      },
+      {
+        "t": 1,
+        "ref": "U1",
+        "legal": 1014
+      },
+      {
+        "t": 2,
+        "ref": "IC1",
+        "legal": 192
+      },
+      {
+        "t": 3,
+        "ref": "Q1",
+        "legal": 218
+      },
+      {
+        "t": 4,
+        "ref": "X1",
+        "legal": 400
+      },
+      {
+        "t": 5,
+        "ref": "R1",
+        "legal": 360
+      },
+      {
+        "t": 6,
+        "ref": "D1",
+        "legal": 42
+      },
+      {
+        "t": 7,
+        "ref": "R2",
+        "legal": 14
+      },
+      {
+        "t": 8,
+        "ref": "C1",
+        "legal": 132
+      },
+      {
+        "t": 9,
+        "ref": "C2",
+        "legal": 90
+      },
+      {
+        "t": 10,
+        "ref": "D2",
+        "legal": 70
+      },
+      {
+        "t": 11,
+        "ref": "R3",
+        "legal": 30
+      }
+    ]
+  },
+  "KiCad-Like-a-Pro-Tutorial_proj2-sevensegment.json": {
+    "expert_replay_ok": true,
+    "sequence": [
+      "P1",
+      "U1",
+      "S1",
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "R6",
+      "R7",
+      "R8"
+    ],
+    "legal_counts": [
+      {
+        "t": 0,
+        "ref": "P1",
+        "legal": 2708
+      },
+      {
+        "t": 1,
+        "ref": "U1",
+        "legal": 688
+      },
+      {
+        "t": 2,
+        "ref": "S1",
+        "legal": 604
+      },
+      {
+        "t": 3,
+        "ref": "R1",
+        "legal": 676
+      },
+      {
+        "t": 4,
+        "ref": "R2",
+        "legal": 496
+      },
+      {
+        "t": 5,
+        "ref": "R3",
+        "legal": 376
+      },
+      {
+        "t": 6,
+        "ref": "R4",
+        "legal": 256
+      },
+      {
+        "t": 7,
+        "ref": "R5",
+        "legal": 136
+      },
+      {
+        "t": 8,
+        "ref": "R6",
+        "legal": 106
+      },
+      {
+        "t": 9,
+        "ref": "R7",
+        "legal": 76
+      },
+      {
+        "t": 10,
+        "ref": "R8",
+        "legal": 46
+      }
+    ]
+  }
+}

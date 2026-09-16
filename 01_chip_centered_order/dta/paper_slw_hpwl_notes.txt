@@ -1,0 +1,36 @@
+PCBAgent paper notes (extracted definitions)
+
+Definitions extracted from PCBAgent ASPDAC'25 paper:
+
+1) HPWL (Half-Perimeter Wire Length):
+   - For each net, HPWL = (max(x_i) - min(x_i)) + (max(y_i) - min(y_i)),
+     where (x_i, y_i) are pad coordinates of that net.
+   - If a net only has one placed pad, the paper uses that pad's distance
+     to the board center as a proxy (they used center L1 distance).
+
+2) SLW (Surface Layer Wire) and NSLW (Number of SLWs):
+   - An electronical connection between two pads is a Surface Layer Wire iff:
+     (1) The fan-out directions from each pad are towards one of the two edges
+         closest to the pad (top/bottom/left/right);
+     (2) The straight line between the two pads does not intersect other components;
+     (3) The projections of the two pads on the axis orthogonal to the fan-out
+         direction overlap (i.e., their intervals on that axis intersect).
+   - NSLW is the total count of such surface-layer wires across all nets.
+   - For SLW length aggregation (SLW metric), the paper counts the span (overlap)
+     on the projection axis for groups of pads fanning to the same edge.
+
+Implementation notes / decisions for our env:
+ - We will compute HPWL exactly per net when >=2 pads placed; for 1-pad nets use L1 to center.
+ - For SLW/NSLW, implement per-pad fan-out direction to the nearest edge.
+ - For each net, consider unordered pad pairs (i,j) and test the three conditions.
+   * Condition (1): compute nearest-edge direction for each pad.
+   * Condition (2): verify segment between pads does not intersect any placed component bbox.
+   * Condition (3): check 1D projection overlap on orthogonal axis.
+ - Count each qualifying pair as one SLW (increment NSLW by 1). SLW metric sums overlapping span or MST-based length (approx) for the set; we will sum pairwise projection overlap lengths.
+ - Estimators (_estimate_hpwl_if_placed/_estimate_slw_if_placed) must compute metric deltas consistently with final functions.
+
+Choice trade-offs:
+ - Exact geometric intersection checks are used for correctness (segment vs rectangle intersection).
+ - SLW length uses projection overlap (span) rather than MST to match paper's definition focusing on surface-layer "projection overlap".
+
+References: PCBAgent ASPDAC'25 (extracted pages saved to output/paper_pages.txt)

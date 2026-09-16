@@ -1,0 +1,13 @@
+# Core numerical / ML stack
+numpy>=1.24
+torch>=2.0
+
+# Optional training dashboard
+visdom>=0.2.4
+
+# HTTP reply service
+fastapi>=0.110
+uvicorn[standard]>=0.27
+
+# Test runner
+pytest>=8.0

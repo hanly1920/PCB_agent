@@ -1,0 +1,83 @@
+from __future__ import annotations
+import json, re
+from typing import Any
+from pydantic import ValidationError
+from ..config import LLMConfig
+from ..schemas.dsl import Constraint, LayoutDSL
+from .prompts import DSL_SYSTEM_PROMPT, REPAIR_SYSTEM_PROMPT
+from .qwen_client import QwenClient
+
+_JSON_RE = re.compile(r"\{.*\}", re.S)
+
+class DSLCompiler:
+    def __init__(self, config: LLMConfig):
+        self.config = config
+        self.client = QwenClient(config)
+
+    def compile(self, text: str, state_summary: dict[str, Any] | None = None) -> LayoutDSL:
+        if self.config.provider in {"mock", "disabled"}:
+            return self.heuristic_compile(text)
+        schema = LayoutDSL.model_json_schema()
+        user = json.dumps({"request": text, "state": state_summary or {}, "schema": schema}, ensure_ascii=False)
+        raw = self.client.chat([{"role": "system", "content": DSL_SYSTEM_PROMPT}, {"role": "user", "content": user}], json_schema=schema)
+        try:
+            return self._normalize(LayoutDSL.model_validate(self._extract_json(raw)))
+        except (ValidationError, json.JSONDecodeError) as first:
+            repaired = self.client.chat([
+                {"role": "system", "content": REPAIR_SYSTEM_PROMPT},
+                {"role": "user", "content": json.dumps({"invalid": raw, "error": str(first), "schema": schema}, ensure_ascii=False)},
+            ], json_schema=schema)
+            return self._normalize(LayoutDSL.model_validate(self._extract_json(repaired)))
+
+    @staticmethod
+    def _normalize(dsl: LayoutDSL) -> LayoutDSL:
+        hard = []
+        for c in dsl.hard_constraints:
+            if c.type in {"near", "prefer_region"}:
+                c.priority = "soft"
+                dsl.soft_constraints.append(c)
+            else:
+                hard.append(c)
+        dsl.hard_constraints = hard
+        for c in dsl.soft_constraints:
+            if c.type in {"near", "prefer_region"}:
+                c.priority = "soft"
+        return dsl
+
+    @staticmethod
+    def _extract_json(raw: str) -> dict[str, Any]:
+        raw = raw.strip()
+        if raw.startswith("```"):
+            raw = re.sub(r"^```(?:json)?", "", raw).strip()
+            raw = re.sub(r"```$", "", raw).strip()
+        try:
+            return json.loads(raw)
+        except json.JSONDecodeError:
+            match = _JSON_RE.search(raw)
+            if not match:
+                raise
+            return json.loads(match.group(0))
+
+    @staticmethod
+    def heuristic_compile(text: str) -> LayoutDSL:
+        dsl = LayoutDSL()
+        t = text or ""
+        # Reference-specific edge constraints, e.g. J1靠左 / J1 on the left.
+        side_terms = [("left", r"(?:靠左|左侧|on the left)"), ("right", r"(?:靠右|右侧|on the right)"), ("top", r"(?:靠上|顶部|on the top)"), ("bottom", r"(?:靠下|底部|on the bottom)")]
+        for side, term in side_terms:
+            pattern = re.compile(rf"([A-Za-z]+\d+|[A-Za-z]+\*)[^，,。;.]*?{term}", re.I)
+            for ref in pattern.findall(t):
+                c = Constraint(type="edge", refs=[ref], side=side, priority="hard")
+                dsl.hard_constraints.append(c); dsl.edge_constraints.append(c)
+        for ref in re.findall(r"([A-Za-z]+\d+)\s*(?:固定|锁定|lock(?:ed)?)", t, re.I):
+            dsl.hard_constraints.append(Constraint(type="lock", refs=[ref], priority="hard")); dsl.locked_refs.append(ref)
+        for ref in re.findall(r"([A-Za-z]+\d+)[^，,。;.]*?(?:居中|中心|center)", t, re.I):
+            c = Constraint(type="prefer_region", refs=[ref], region="center", weight=0.8, priority="soft")
+            dsl.soft_constraints.append(c); dsl.region_constraints.append(c)
+        near = re.search(r"(?:去耦电容|decoupling capacitors?|C\*)[^，,。;.]*?(?:靠近|near)\s*([A-Za-z]+\d+)", t, re.I)
+        if near:
+            dsl.soft_constraints.append(Constraint(type="near", refs=["C*"], target=near.group(1), radius_mm=6.0, weight=0.8, priority="soft"))
+        clear = re.search(r"(?:间距|clearance)[^\d]*(\d+(?:\.\d+)?)\s*mm", t, re.I)
+        if clear:
+            dsl.hard_constraints.append(Constraint(type="clearance", value_mm=float(clear.group(1)), priority="hard"))
+        return dsl

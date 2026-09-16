@@ -1,0 +1,10 @@
+{
+  "board": {"bbox_mm": [0, 0, 40, 30], "grid_mm": 1.0},
+  "components": [
+    {"ref": "U1", "footprint": "Test:U", "type": "misc", "size_mm": [4,4], "pads": [], "allowed_sides": [], "fixed": false},
+    {"ref": "C1", "footprint": "Test:C", "type": "misc", "size_mm": [2,2], "pads": [], "allowed_sides": [], "fixed": false}
+  ],
+  "nets": {},
+  "graph": {"sequence": ["U1", "C1"], "sequence_policy": "stored", "sequence_source": "fixture"},
+  "meta": {"fixture": true}
+}

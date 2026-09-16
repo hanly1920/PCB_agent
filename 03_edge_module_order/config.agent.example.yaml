@@ -1,0 +1,28 @@
+llm:
+  provider: ollama        # ollama | openai | mock | disabled
+  endpoint: http://localhost:11434
+  model: qwen3:8b
+  temperature: 0.1
+placement:
+  checkpoint_path: checkpoints/latest_w4000_k3000.pt
+  device: cuda
+  mock: false
+  strict_state_dict: true
+  beam_width: 1
+  beam_topk: 16
+  layout_preset: checkpoint
+router:
+  mode: freerouting      # freerouting | none | mock
+  java_bin: java
+  freerouting_jar: tools/freerouting.jar
+  passes: 50
+  threads: 8
+  timeout_sec: 1800
+  # Adapter commands are argv arrays; placeholders: {board} {dsn} {ses} {output_board}
+  export_dsn_cmd: []
+  import_ses_cmd: []
+kicad:
+  cli: kicad-cli
+  drc_timeout_sec: 600
+  mock_drc: false
+max_rounds: 3
